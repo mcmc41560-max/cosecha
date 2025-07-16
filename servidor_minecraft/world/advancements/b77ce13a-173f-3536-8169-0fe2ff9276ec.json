@@ -9188,5 +9188,47 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-16 02:47:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-16 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-16 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/hamster/yellow_dye_from_spawn_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-16 02:47:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-07-16 02:50:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_spore_blossom": {
+    "criteria": {
+      "has_spore_blossom": "2025-07-16 02:50:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-07-16 02:47:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
