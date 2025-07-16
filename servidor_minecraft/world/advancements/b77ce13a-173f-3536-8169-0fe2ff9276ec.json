@@ -9188,6 +9188,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-07-16 03:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-07-16 03:07:03 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/stove": {
+    "criteria": {
+      "has_bricks": "2025-07-16 03:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-16 03:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-07-16 03:07:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-07-16 02:47:02 +0000"
@@ -9197,6 +9227,12 @@
   "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-07-16 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-16 03:07:03 +0000"
     },
     "done": true
   },
@@ -9221,6 +9257,12 @@
   "refurbished_furniture:recipes/misc/slicing/pink_dye_from_spore_blossom": {
     "criteria": {
       "has_spore_blossom": "2025-07-16 02:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-16 03:07:03 +0000"
     },
     "done": true
   },

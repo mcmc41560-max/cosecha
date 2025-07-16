@@ -3451,3 +3451,8 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 02:50:54.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has reached the goal [Flowers of the Savanna]
 [16Jul2025 02:55:05.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Bow] to pablito]
 [16Jul2025 02:57:48.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ./ban funado
+[16Jul2025 03:06:49.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[16Jul2025 03:12:13.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[16Jul2025 03:13:07.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has completed the challenge [End's gladiator sacred armor]
+[16Jul2025 03:13:30.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! 10.076185258444525,0.0,1.2745638651013564
+[16Jul2025 03:14:58.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ./fill 100 64 100 110 74 110 air
