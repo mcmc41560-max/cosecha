@@ -3416,3 +3416,34 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 02:28:11.240] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
 [16Jul2025 02:28:43.935] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EnderMan['Enderman'/1565, l='ServerLevel[world]', x=1045.49, y=68.00, z=-556.42]
 [16Jul2025 02:33:19.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made pablito a server operator
+[16Jul2025 02:38:15.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.64.228.18:57457] logged in with entity id 3713 at (834.5150745604574, 63.0, -647.2375147913388)
+[16Jul2025 02:38:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[16Jul2025 02:38:15.320] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[16Jul2025 02:38:17.452] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[16Jul2025 02:38:17.452] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[16Jul2025 02:38:20.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[16Jul2025 02:38:41.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> hola
+[16Jul2025 02:38:48.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ds
+[16Jul2025 02:38:49.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> NOOOOOOOOOOOOOOOOOOO
+[16Jul2025 02:38:50.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> jajjja
+[16Jul2025 02:38:54.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> SE PERDIOOO LA COCINAA
+[16Jul2025 02:38:54.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ;c
+[16Jul2025 02:39:40.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> estoy con dany puede entrar?
+[16Jul2025 02:39:52.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> claro que es esa pregunta jajjjaj
+[16Jul2025 02:40:01.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> aahh shaa
+[16Jul2025 02:40:12.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> mandale la ip
+[16Jul2025 02:40:15.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> teengo admin?
+[16Jul2025 02:40:23.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> a no jajjja
+[16Jul2025 02:40:31.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> :c
+[16Jul2025 02:40:34.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set Kira_R's game mode to Creative Mode]
+[16Jul2025 02:40:37.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ya no puedo?
+[16Jul2025 02:40:45.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> mas tarde te lo pongo
+[16Jul2025 02:40:52.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.9.125.118:46847] logged in with entity id 4229 at (822.0183583085189, 63.0, -645.9866260276979)
+[16Jul2025 02:40:52.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[16Jul2025 02:40:52.897] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[16Jul2025 02:40:53.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> lo prometes?
+[16Jul2025 02:40:55.164] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[16Jul2025 02:40:55.165] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[16Jul2025 02:40:56.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> si
+[16Jul2025 02:41:10.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> funado
+[16Jul2025 02:42:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set funado69's game mode to Creative Mode]
