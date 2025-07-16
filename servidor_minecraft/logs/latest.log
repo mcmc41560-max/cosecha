@@ -3456,3 +3456,5 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 03:13:07.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has completed the challenge [End's gladiator sacred armor]
 [16Jul2025 03:13:30.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! 10.076185258444525,0.0,1.2745638651013564
 [16Jul2025 03:14:58.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ./fill 100 64 100 110 74 110 air
+[16Jul2025 03:22:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 2776 block(s)]
+[16Jul2025 03:22:30.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 1458 block(s)]

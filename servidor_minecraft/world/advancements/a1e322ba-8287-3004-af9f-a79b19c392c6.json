@@ -1923,6 +1923,7 @@
       "stripped_canopy_log": "2025-07-04 18:38:48 +0000",
       "transformation_sapling": "2025-07-04 18:26:07 +0000",
       "canopy_sapling": "2025-07-07 22:24:33 +0000",
+      "twilight_oak_chest": "2025-07-16 03:17:21 +0000",
       "sorting_sapling": "2025-07-04 18:26:28 +0000",
       "hollow_oak_sapling": "2025-07-04 18:26:08 +0000",
       "rainbow_oak_sapling": "2025-07-04 18:26:07 +0000",
@@ -8353,7 +8354,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
   },
@@ -8371,7 +8372,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
   },
@@ -8383,7 +8384,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
   },
@@ -8395,9 +8396,15 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/misc/waterlily_to_magenta": {
+    "criteria": {
+      "has_item": "2025-07-16 03:18:15 +0000"
+    },
+    "done": true
   },
   "mofus_better_end_:end_warrior_armor_advancement": {
     "criteria": {
@@ -8405,6 +8412,12 @@
       "end_warrior_armor_advancement_2": "2025-07-16 03:12:33 +0000",
       "end_warrior_armor_advancement_1": "2025-07-16 03:12:21 +0000",
       "end_warrior_armor_advancement_0": "2025-07-16 03:12:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-16 03:15:23 +0000"
     },
     "done": true
   },
@@ -8417,13 +8430,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
   },
@@ -8451,9 +8464,15 @@
     },
     "done": true
   },
+  "aether:recipes/misc/flower_to_white_dye": {
+    "criteria": {
+      "has_white_flower": "2025-07-16 03:15:28 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
   },
@@ -8471,9 +8490,15 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-16 03:15:23 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
     "criteria": {
@@ -8483,7 +8508,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
   },
@@ -8495,7 +8520,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
   },
@@ -8507,7 +8532,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
   },
@@ -8531,7 +8556,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:15:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
     },
     "done": false
   },
