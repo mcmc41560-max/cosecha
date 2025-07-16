@@ -2124,3 +2124,9 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 21:54:14.804] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [16Jul2025 21:54:14.853] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [16Jul2025 21:54:14.863] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[16Jul2025 22:32:19.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:43061] logged in with entity id 1272 at (796.309738943573, 82.61813578668274, -488.1783201643932)
+[16Jul2025 22:32:19.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[16Jul2025 22:32:19.307] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[16Jul2025 22:32:20.773] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[16Jul2025 22:32:20.778] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[16Jul2025 22:32:23.317] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
