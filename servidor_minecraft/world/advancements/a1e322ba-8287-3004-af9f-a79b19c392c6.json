@@ -8995,6 +8995,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/castleblock/encased_castle_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-07-16 05:07:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/light_gray_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
