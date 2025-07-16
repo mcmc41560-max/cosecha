@@ -8637,3 +8637,11 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 22:44:14.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jul2025 22:49:14.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 22:49:14.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 22:54:14.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 22:54:14.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 22:59:14.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 22:59:14.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 23:02:26.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[16Jul2025 23:02:26.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[16Jul2025 23:02:26.836] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of pablito
+[16Jul2025 23:02:26.836] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito

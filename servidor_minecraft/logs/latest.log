@@ -2140,3 +2140,6 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 22:34:49.139] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
 [16Jul2025 22:34:49.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
 [16Jul2025 22:34:49.671] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[16Jul2025 23:02:26.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[16Jul2025 23:02:26.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[16Jul2025 23:02:26.836] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
