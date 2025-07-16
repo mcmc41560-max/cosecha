@@ -8607,6 +8607,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/quartz/cracked_quartz_bricks": {
+    "criteria": {
+      "has_item": "2025-07-16 04:52:58 +0000"
+    },
+    "done": true
+  },
   "bakery:main/get_everything": {
     "criteria": {
       "bakery:chocolate_glazed_cookie": "2025-07-16 04:28:31 +0000",
@@ -8649,6 +8655,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_bath": {
     "criteria": {
       "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-16 04:51:00 +0000"
     },
     "done": true
   },
@@ -8742,6 +8754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-16 04:51:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/green_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
@@ -8826,6 +8844,12 @@
       "bakery:strawberry_cake": "2025-07-16 04:38:25 +0000"
     },
     "done": false
+  },
+  "aether:recipes/building_blocks/crystal_leaves_freezing": {
+    "criteria": {
+      "has_skyroot_leaves": "2025-07-16 04:49:01 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/green_bath": {
     "criteria": {
@@ -8950,6 +8974,12 @@
   "refurbished_furniture:recipes/decorations/light_blue_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/white_dye": {
+    "criteria": {
+      "has_eriophorum_tall": "2025-07-16 04:52:26 +0000"
     },
     "done": true
   },
