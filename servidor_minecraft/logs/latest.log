@@ -2130,3 +2130,13 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 22:32:20.773] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
 [16Jul2025 22:32:20.778] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
 [16Jul2025 22:32:23.317] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[16Jul2025 22:33:45.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[16Jul2025 22:34:34.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Timed out
+[16Jul2025 22:34:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[16Jul2025 22:34:34.342] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[16Jul2025 22:34:34.379] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jul2025 22:34:49.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:43297] logged in with entity id 2018 at (792.4419999790713, 71.0, -409.2797917732711)
+[16Jul2025 22:34:49.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[16Jul2025 22:34:49.139] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[16Jul2025 22:34:49.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[16Jul2025 22:34:49.671] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
