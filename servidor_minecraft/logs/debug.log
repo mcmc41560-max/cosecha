@@ -8987,3 +8987,7 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 23:22:39.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
 [16Jul2025 23:22:39.126] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of pablito
 [16Jul2025 23:22:39.126] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[16Jul2025 23:24:14.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 23:24:14.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 23:29:14.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 23:29:14.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
