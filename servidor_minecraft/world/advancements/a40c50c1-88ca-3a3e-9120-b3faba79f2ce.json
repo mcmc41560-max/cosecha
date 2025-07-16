@@ -8335,9 +8335,51 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/rainbow_glass": {
+    "criteria": {
+      "gustmaker": "2025-07-16 04:45:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-07-16 04:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-16 04:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-16 06:10:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/flower_to_white_dye": {
+    "criteria": {
+      "has_white_flower": "2025-07-16 06:18:11 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/hamster/yellow_dye_from_spawn_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-16 06:18:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 06:24:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_cherry_light_ceiling_fan": "2025-07-16 06:24:37 +0000"
     },
     "done": true
   },
@@ -8383,33 +8425,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-07-16 06:10:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
-    "criteria": {
-      "has_ceiling_fan": "2025-07-16 06:24:37 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-07-16 06:24:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-07-16 04:57:38 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/flower_to_white_dye": {
-    "criteria": {
-      "has_white_flower": "2025-07-16 06:18:11 +0000"
     },
     "done": true
   },
@@ -8425,12 +8443,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rainbow_glass": {
-    "criteria": {
-      "gustmaker": "2025-07-16 04:45:50 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-07-16 06:24:47 +0000"
@@ -8443,21 +8455,9 @@
     },
     "done": true
   },
-  "spawn:recipes/hamster/yellow_dye_from_spawn_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-07-16 06:18:39 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-07-16 06:24:47 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
-    "criteria": {
-      "has_cherry_light_ceiling_fan": "2025-07-16 06:24:37 +0000"
     },
     "done": true
   },
