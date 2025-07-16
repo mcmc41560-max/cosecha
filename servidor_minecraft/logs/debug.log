@@ -9203,3 +9203,9 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 05:27:54.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 05:27:54.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jul2025 05:28:39.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kira_R: Teleported lucyyxd to Kira_R]
+[16Jul2025 05:32:54.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 05:32:54.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 05:37:25.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[16Jul2025 05:37:54.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 05:37:54.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 05:38:06.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
