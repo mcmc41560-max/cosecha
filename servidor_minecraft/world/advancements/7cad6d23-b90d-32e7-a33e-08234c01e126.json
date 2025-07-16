@@ -656,6 +656,7 @@
       "minecraft:pillager": "2025-05-18 23:27:13 +0000",
       "minecraft:skeleton": "2025-05-18 22:04:57 +0000",
       "minecraft:hoglin": "2025-05-19 22:24:34 +0000",
+      "minecraft:guardian": "2025-07-16 23:51:27 +0000",
       "minecraft:vindicator": "2025-05-18 23:28:53 +0000",
       "minecraft:spider": "2025-05-17 00:42:35 +0000",
       "minecraft:creeper": "2025-05-23 00:29:10 +0000",
@@ -9037,77 +9038,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
+      "has_prismarine_shard": "2025-07-16 23:51:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
+      "has_prismarine_shard": "2025-07-16 23:51:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
+      "has_prismarine_shard": "2025-07-16 23:51:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
+      "has_prismarine_crystals": "2025-07-16 23:52:37 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 23:22:15 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

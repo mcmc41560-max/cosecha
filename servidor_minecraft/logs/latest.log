@@ -2159,3 +2159,6 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 23:43:48.400] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
 [16Jul2025 23:43:49.044] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
 [16Jul2025 23:43:49.044] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[16Jul2025 23:47:31.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[16Jul2025 23:47:37.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[16Jul2025 23:47:43.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
