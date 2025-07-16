@@ -9236,3 +9236,14 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 06:12:54.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jul2025 06:17:54.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 06:17:54.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 06:22:54.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 06:22:54.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 06:25:09.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [To Infinity and Beyond!]
+[16Jul2025 06:25:10.394] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=854, y=79, z=-641}
+[16Jul2025 06:25:31.699] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=854, y=79, z=-638}
+[16Jul2025 06:25:39.144] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=853, y=79, z=-638}
+[16Jul2025 06:25:50.000] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=854, y=79, z=-645}
+[16Jul2025 06:25:58.996] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=854, y=79, z=-648}
+[16Jul2025 06:27:54.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 06:27:54.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 06:30:45.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]

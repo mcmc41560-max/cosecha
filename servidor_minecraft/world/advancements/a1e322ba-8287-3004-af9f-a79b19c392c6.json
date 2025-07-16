@@ -8559,6 +8559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-07-16 05:34:04 +0000"
@@ -8574,6 +8580,18 @@
   "refurbished_furniture:recipes/misc/constructing/red_toilet": {
     "criteria": {
       "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
     },
     "done": true
   },
@@ -8593,6 +8611,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-16 06:22:12 +0000"
     },
     "done": true
   },
@@ -8650,6 +8674,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/quartz/cracked_quartz_bricks": {
     "criteria": {
       "has_item": "2025-07-16 04:52:58 +0000"
@@ -8668,6 +8698,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-16 06:22:12 +0000"
     },
     "done": true
   },
@@ -8782,6 +8818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/red_grape_bag": {
     "criteria": {
       "has_red_grape": "2025-07-16 06:07:51 +0000"
@@ -8836,6 +8878,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_bath": {
     "criteria": {
       "has_baths": "2025-07-16 04:08:56 +0000"
@@ -8872,9 +8920,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-07-16 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
     },
     "done": true
   },
@@ -8905,6 +8965,12 @@
   "refurbished_furniture:recipes/decorations/gray_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
     },
     "done": true
   },
@@ -8975,9 +9041,21 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-07-16 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
     },
     "done": true
   },
@@ -9076,6 +9154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_basin": {
     "criteria": {
       "has_basins": "2025-07-16 04:08:57 +0000"
@@ -9118,6 +9202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
@@ -9127,6 +9217,18 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
     "criteria": {
       "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
     },
     "done": true
   },
@@ -9166,6 +9268,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-16 06:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-16 05:33:47 +0000"
@@ -9175,6 +9289,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
     "criteria": {
       "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
     },
     "done": true
   },
@@ -9190,6 +9310,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/castleblock/encased_castle_brick_stairs": {
     "criteria": {
       "has_item": "2025-07-16 05:07:44 +0000"
@@ -9199,6 +9325,12 @@
   "refurbished_furniture:recipes/decorations/light_gray_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-16 06:21:13 +0000"
     },
     "done": true
   },
@@ -9223,6 +9355,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_bath": {
     "criteria": {
       "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-16 06:22:12 +0000"
     },
     "done": true
   },
@@ -9301,6 +9439,12 @@
   "refurbished_furniture:recipes/decorations/brown_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-07-16 06:25:09 +0000"
     },
     "done": true
   },
