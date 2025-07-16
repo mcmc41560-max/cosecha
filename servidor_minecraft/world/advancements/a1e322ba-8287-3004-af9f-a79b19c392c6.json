@@ -8354,7 +8354,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
   },
@@ -8372,9 +8372,15 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/enchant_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-16 03:34:55 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
     "criteria": {
@@ -8382,11 +8388,23 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2025-07-16 03:33:45 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-16 03:34:55 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/purple_kitchen_cabinetry": {
     "criteria": {
@@ -8396,7 +8414,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
   },
@@ -8430,13 +8448,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
   },
@@ -8472,7 +8490,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
   },
@@ -8490,7 +8508,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
   },
@@ -8508,7 +8526,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
   },
@@ -8520,7 +8538,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
   },
@@ -8532,7 +8550,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
   },
@@ -8556,7 +8574,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:25:22 +0000"
+      "log_spam_fixer": "2025-07-16 03:35:22 +0000"
     },
     "done": false
   },

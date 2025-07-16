@@ -9230,6 +9230,12 @@
     },
     "done": true
   },
+  "duckling:pet_duck": {
+    "criteria": {
+      "pet_duck": "2025-07-16 03:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-16 03:07:03 +0000"
@@ -9239,6 +9245,12 @@
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-07-16 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_glass": {
+    "criteria": {
+      "gustmaker": "2025-07-16 03:27:50 +0000"
     },
     "done": true
   },
