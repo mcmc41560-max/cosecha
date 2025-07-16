@@ -615,6 +615,7 @@
       "twilight_oak_leaves": "2025-06-30 21:45:21 +0000",
       "dark_leaves": "2025-06-30 21:45:23 +0000",
       "time_door": "2025-07-12 01:05:22 +0000",
+      "mining_leaves": "2025-07-16 05:25:19 +0000",
       "thorn_rose": "2025-07-03 23:13:55 +0000"
     },
     "done": false
@@ -7657,7 +7658,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2025-07-11 04:35:41 +0000",
-      "sweet_berries": "2025-07-10 05:48:22 +0000"
+      "sweet_berries": "2025-07-10 05:48:22 +0000",
+      "kelp": "2025-07-16 05:09:20 +0000"
     },
     "done": false
   },
@@ -9288,6 +9290,30 @@
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2025-07-16 04:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-16 05:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-16 05:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-16 05:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-16 05:09:15 +0000"
     },
     "done": true
   },

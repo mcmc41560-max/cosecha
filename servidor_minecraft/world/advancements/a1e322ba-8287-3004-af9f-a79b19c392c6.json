@@ -8547,6 +8547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-16 05:12:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_toilet": {
     "criteria": {
       "has_toilets": "2025-07-16 04:12:46 +0000"
@@ -8577,6 +8583,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-16 05:11:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/orange_toilet": {
     "criteria": {
       "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
@@ -8586,6 +8598,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
     "criteria": {
       "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-16 05:11:54 +0000"
     },
     "done": true
   },
@@ -8706,6 +8724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-16 05:12:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_toilet": {
     "criteria": {
       "has_toilets": "2025-07-16 04:12:46 +0000"
@@ -8741,6 +8765,12 @@
       "has_baths": "2025-07-16 04:08:56 +0000"
     },
     "done": true
+  },
+  "farm_and_charm:main/make_everything": {
+    "criteria": {
+      "farm_and_charm:grandmothers_strawberry_cake": "2025-07-16 05:23:23 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/decorations/red_toilet": {
     "criteria": {
@@ -8845,6 +8875,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-16 05:12:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/crystal_leaves_freezing": {
     "criteria": {
       "has_skyroot_leaves": "2025-07-16 04:49:01 +0000"
@@ -8854,6 +8890,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_bath": {
     "criteria": {
       "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-16 05:12:06 +0000"
     },
     "done": true
   },
@@ -8995,6 +9037,12 @@
     },
     "done": true
   },
+  "farm_and_charm:main/bake_everything": {
+    "criteria": {
+      "farm_and_charm:grandmothers_strawberry_cake": "2025-07-16 05:23:23 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/building_blocks/castleblock/encased_castle_brick_stairs": {
     "criteria": {
       "has_item": "2025-07-16 05:07:44 +0000"
@@ -9094,6 +9142,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_toilet": {
     "criteria": {
       "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-16 05:11:54 +0000"
     },
     "done": true
   },

@@ -9189,3 +9189,17 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 05:02:54.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jul2025 05:07:54.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 05:07:54.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 05:12:54.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 05:12:54.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 05:17:43.417] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=836, y=104, z=-362}
+[16Jul2025 05:17:54.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 05:17:54.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 05:22:48.905] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player lucyyxd just tried to change non-editable sign
+[16Jul2025 05:22:54.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 05:22:54.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 05:23:41.275] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[16Jul2025 05:26:45.768] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player lucyyxd just tried to change non-editable sign
+[16Jul2025 05:26:54.403] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player lucyyxd just tried to change non-editable sign
+[16Jul2025 05:27:54.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 05:27:54.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 05:28:39.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kira_R: Teleported lucyyxd to Kira_R]

@@ -2154,3 +2154,8 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 04:44:01.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4925ms or 98 ticks behind
 [16Jul2025 04:45:50.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Rainbow Road]
 [16Jul2025 04:56:43.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[16Jul2025 05:22:48.905] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player lucyyxd just tried to change non-editable sign
+[16Jul2025 05:23:41.275] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[16Jul2025 05:26:45.768] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player lucyyxd just tried to change non-editable sign
+[16Jul2025 05:26:54.403] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player lucyyxd just tried to change non-editable sign
+[16Jul2025 05:28:39.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kira_R: Teleported lucyyxd to Kira_R]
