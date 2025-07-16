@@ -4374,7 +4374,12 @@
   "vinery:main/wine_somelier": {
     "criteria": {
       "vinery:chorus_wine": "2025-07-05 00:47:31 +0000",
-      "vinery:cristel_wine": "2025-07-05 00:45:56 +0000"
+      "vinery:cristel_wine": "2025-07-05 00:45:56 +0000",
+      "vinery:clark_wine": "2025-07-16 04:23:47 +0000",
+      "vinery:red_wine": "2025-07-16 04:23:09 +0000",
+      "vinery:solaris_wine": "2025-07-16 04:22:38 +0000",
+      "vinery:noir_wine": "2025-07-16 04:23:08 +0000",
+      "vinery:cherry_wine": "2025-07-16 04:22:35 +0000"
     },
     "done": false
   },
@@ -8352,15 +8357,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
+      "has_pink_petals": "2025-07-16 02:45:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
+  "alexsmobs:alexsmobs/rainbow_glass": {
     "criteria": {
-      "has_item": "2025-07-16 03:11:00 +0000"
+      "gustmaker": "2025-07-16 02:46:24 +0000"
     },
     "done": true
   },
@@ -8370,39 +8375,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/enchant_fishing_rod": {
-    "criteria": {
-      "has_fishing_rod": "2025-07-16 03:34:55 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-07-16 02:52:52 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_impregnated_diamond": {
-    "criteria": {
-      "has_ingredient": "2025-07-16 03:33:45 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/create_fishing_rod": {
-    "criteria": {
-      "has_fishing_rod": "2025-07-16 03:34:55 +0000"
     },
     "done": true
   },
@@ -8411,52 +8386,6 @@
       "has_wooden_kitchen_cabinetry": "2025-07-16 02:52:52 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/misc/waterlily_to_magenta": {
-    "criteria": {
-      "has_item": "2025-07-16 03:18:15 +0000"
-    },
-    "done": true
-  },
-  "mofus_better_end_:end_warrior_armor_advancement": {
-    "criteria": {
-      "end_warrior_armor_advancement_3": "2025-07-16 03:13:07 +0000",
-      "end_warrior_armor_advancement_2": "2025-07-16 03:12:33 +0000",
-      "end_warrior_armor_advancement_1": "2025-07-16 03:12:21 +0000",
-      "end_warrior_armor_advancement_0": "2025-07-16 03:12:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-07-16 03:15:23 +0000"
-    },
-    "done": true
-  },
-  "mofus_better_end_:endermite_queen_items_advancement": {
-    "criteria": {
-      "endermite_queen_items_advancement_0": "2025-07-16 03:12:21 +0000",
-      "endermite_queen_items_advancement_2": "2025-07-16 03:12:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
     "criteria": {
@@ -8476,24 +8405,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-07-16 02:45:58 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/flower_to_white_dye": {
-    "criteria": {
-      "has_white_flower": "2025-07-16 03:15:28 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-07-16 02:52:52 +0000"
@@ -8506,57 +8417,15 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-07-16 03:15:23 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-07-16 02:52:52 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/rainbow_glass": {
-    "criteria": {
-      "gustmaker": "2025-07-16 02:46:24 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
   "refurbished_furniture:recipes/misc/constructing/lime_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-07-16 02:52:52 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/misc/flower_to_purple_dye": {
-    "criteria": {
-      "has_purple_flower": "2025-07-16 03:05:07 +0000"
     },
     "done": true
   },
@@ -8572,12 +8441,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
   "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-07-16 02:52:52 +0000"
@@ -8587,6 +8450,641 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-07-16 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/flower_to_purple_dye": {
+    "criteria": {
+      "has_purple_flower": "2025-07-16 03:05:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-07-16 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:end_warrior_armor_advancement": {
+    "criteria": {
+      "end_warrior_armor_advancement_3": "2025-07-16 03:13:07 +0000",
+      "end_warrior_armor_advancement_2": "2025-07-16 03:12:33 +0000",
+      "end_warrior_armor_advancement_1": "2025-07-16 03:12:21 +0000",
+      "end_warrior_armor_advancement_0": "2025-07-16 03:12:53 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:endermite_queen_items_advancement": {
+    "criteria": {
+      "endermite_queen_items_advancement_0": "2025-07-16 03:12:21 +0000",
+      "endermite_queen_items_advancement_2": "2025-07-16 03:12:53 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-16 03:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-16 03:15:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/flower_to_white_dye": {
+    "criteria": {
+      "has_white_flower": "2025-07-16 03:15:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/waterlily_to_magenta": {
+    "criteria": {
+      "has_item": "2025-07-16 03:18:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2025-07-16 03:33:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-16 03:34:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-16 03:34:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/flowering_azalea_hedge": {
+    "criteria": {
+      "has_leaves": "2025-07-16 04:12:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_everything": {
+    "criteria": {
+      "bakery:chocolate_glazed_cookie": "2025-07-16 04:28:31 +0000",
+      "bakery:strawberry_cupcake": "2025-07-16 04:38:26 +0000",
+      "bakery:strawberry_cake": "2025-07-16 04:38:25 +0000",
+      "bakery:sweetberry_cake": "2025-07-16 04:40:53 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2025-07-16 04:31:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cyan_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/green_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/strawberry_bag": {
+    "criteria": {
+      "has_strawberry": "2025-07-16 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:08:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/lime_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_all_cakes": {
+    "criteria": {
+      "bakery:sweetberry_cake": "2025-07-16 04:40:53 +0000",
+      "bakery:strawberry_cake": "2025-07-16 04:38:25 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_blue_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/light_gray_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_bath": {
+    "criteria": {
+      "has_baths": "2025-07-16 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-07-16 04:26:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_basins": "2025-07-16 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_cherry_light_ceiling_fan": "2025-07-16 04:08:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/brown_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_toilet": {
+    "criteria": {
+      "has_toilets": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_ceiling_fan": "2025-07-16 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_all_caked_goods": {
+    "criteria": {
+      "bakery:strawberry_cupcake": "2025-07-16 04:38:26 +0000",
+      "bakery:chocolate_glazed_cookie": "2025-07-16 04:28:31 +0000",
+      "bakery:sweetberry_cake": "2025-07-16 04:40:53 +0000",
+      "bakery:strawberry_cake": "2025-07-16 04:38:25 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2025-07-16 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2025-07-16 04:08:04 +0000"
     },
     "done": true
   },

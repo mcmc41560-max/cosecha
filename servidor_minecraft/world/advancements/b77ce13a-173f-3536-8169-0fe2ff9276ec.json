@@ -9189,6 +9189,48 @@
     },
     "done": true
   },
+  "spawn:recipes/hamster/yellow_dye_from_spawn_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-16 02:47:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-16 02:47:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-07-16 02:47:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-16 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-16 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_spore_blossom": {
+    "criteria": {
+      "has_spore_blossom": "2025-07-16 02:50:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-07-16 02:50:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-07-16 03:07:03 +0000"
@@ -9201,23 +9243,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
   "farm_and_charm:recipes/stove": {
     "criteria": {
       "has_bricks": "2025-07-16 03:07:03 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
@@ -9225,123 +9255,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-07-16 03:07:03 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-07-16 02:47:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-07-16 02:50:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "duckling:pet_duck": {
-    "criteria": {
-      "pet_duck": "2025-07-16 03:29:48 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-16 03:07:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-07-16 02:50:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/rainbow_glass": {
-    "criteria": {
-      "gustmaker": "2025-07-16 03:27:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 03:52:22 +0000"
-    },
-    "done": false
-  },
-  "spawn:recipes/hamster/yellow_dye_from_spawn_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-07-16 02:47:01 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-07-16 02:50:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_spore_blossom": {
-    "criteria": {
-      "has_spore_blossom": "2025-07-16 02:50:51 +0000"
     },
     "done": true
   },
@@ -9351,9 +9273,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+  "alexsmobs:alexsmobs/rainbow_glass": {
     "criteria": {
-      "has_wither_rose": "2025-07-16 02:47:35 +0000"
+      "gustmaker": "2025-07-16 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "duckling:pet_duck": {
+    "criteria": {
+      "pet_duck": "2025-07-16 03:29:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-07-16 04:22:52 +0000"
     },
     "done": true
   },
