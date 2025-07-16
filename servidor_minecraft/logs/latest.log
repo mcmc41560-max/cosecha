@@ -3489,3 +3489,41 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 03:40:31.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 112 block(s)]
 [16Jul2025 03:42:05.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 26620 block(s)]
 [16Jul2025 03:44:10.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 26618 block(s)]
+[16Jul2025 03:47:46.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 15515 block(s)]
+[16Jul2025 03:48:02.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 15144 block(s)]
+[16Jul2025 03:48:38.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 18271 block(s)]
+[16Jul2025 03:49:32.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[16Jul2025 03:49:32.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[16Jul2025 03:49:32.611] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[16Jul2025 03:51:27.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made funado69 a server operator
+[16Jul2025 03:51:33.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kira_R a server operator
+[16Jul2025 03:52:43.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Jul2025 03:52:43.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jul2025 03:52:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jul2025 03:52:43.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Server closed
+[16Jul2025 03:52:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[16Jul2025 03:52:43.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Server closed
+[16Jul2025 03:52:43.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[16Jul2025 03:52:43.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jul2025 03:52:43.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jul2025 03:52:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jul2025 03:52:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[16Jul2025 03:52:44.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[16Jul2025 03:52:44.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[16Jul2025 03:52:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[16Jul2025 03:52:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jul2025 03:52:44.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[16Jul2025 03:52:44.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[16Jul2025 03:52:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jul2025 03:52:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jul2025 03:52:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[16Jul2025 03:52:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[16Jul2025 03:52:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[16Jul2025 03:52:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[16Jul2025 03:52:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jul2025 03:52:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[16Jul2025 03:52:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[16Jul2025 03:52:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Jul2025 03:52:44.623] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16Jul2025 03:52:44.625] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[16Jul2025 03:52:44.641] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
