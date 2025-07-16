@@ -8589,3 +8589,21 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 06:46:50.236] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
 [16Jul2025 06:49:14.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 06:49:15.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 06:54:14.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 06:54:14.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 06:56:57.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kira_R: Set own game mode to Survival Mode]
+[16Jul2025 06:57:08.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kira_R: Set lucyyxd's game mode to Survival Mode]
+[16Jul2025 06:57:26.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kira_R: Set own game mode to Creative Mode]
+[16Jul2025 06:57:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kira_R: Set own game mode to Survival Mode]
+[16Jul2025 06:58:25.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kira_R: Set own game mode to Creative Mode]
+[16Jul2025 06:59:09.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=855, y=76, z=-651}
+[16Jul2025 06:59:14.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 06:59:14.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 06:59:17.355] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=855, y=76, z=-649}
+[16Jul2025 06:59:32.400] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=853, y=76, z=-643}
+[16Jul2025 06:59:32.955] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=853, y=76, z=-642}
+[16Jul2025 07:00:56.258] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=847, y=63, z=-640}
+[16Jul2025 07:01:01.156] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=856, y=63, z=-637}
+[16Jul2025 07:01:13.109] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=850, y=64, z=-636}
+[16Jul2025 07:01:20.107] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=850, y=63, z=-637}
+[16Jul2025 07:01:45.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=858, y=64, z=-634}
