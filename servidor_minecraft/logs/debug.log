@@ -8976,3 +8976,14 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 23:10:25.860] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with pablito
 [16Jul2025 23:10:25.860] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with pablito
 [16Jul2025 23:10:25.860] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[16Jul2025 23:14:14.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 23:14:14.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 23:19:14.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 23:19:14.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 23:19:58.981] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=846, y=102, z=-400}
+[16Jul2025 23:19:58.981] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=835, y=104, z=-362}
+[16Jul2025 23:22:20.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[16Jul2025 23:22:39.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[16Jul2025 23:22:39.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[16Jul2025 23:22:39.126] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of pablito
+[16Jul2025 23:22:39.126] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
