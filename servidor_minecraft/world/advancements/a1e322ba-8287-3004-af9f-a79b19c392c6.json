@@ -8523,6 +8523,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-07-16 05:38:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_toilet": {
     "criteria": {
       "has_toilets": "2025-07-16 04:12:46 +0000"
@@ -8904,6 +8910,12 @@
     },
     "done": true
   },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-07-16 05:40:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_bath": {
     "criteria": {
       "has_baths": "2025-07-16 04:08:56 +0000"
@@ -8982,6 +8994,12 @@
       "has_log": "2025-07-16 05:34:04 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_6": "2025-07-16 05:39:09 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
