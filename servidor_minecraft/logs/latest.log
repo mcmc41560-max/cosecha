@@ -2143,3 +2143,10 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [16Jul2025 23:02:26.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
 [16Jul2025 23:02:26.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
 [16Jul2025 23:02:26.836] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[16Jul2025 23:06:15.771] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@221017a0[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:44437) lost connection: Internal Exception: java.util.ConcurrentModificationException
+[16Jul2025 23:07:15.717] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a5d7655[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:36771) lost connection: Disconnected
+[16Jul2025 23:10:25.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:38113] logged in with entity id 6391 at (841.7882032730028, 69.0625, -640.9568069794575)
+[16Jul2025 23:10:25.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[16Jul2025 23:10:25.701] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[16Jul2025 23:10:25.859] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[16Jul2025 23:10:25.860] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
