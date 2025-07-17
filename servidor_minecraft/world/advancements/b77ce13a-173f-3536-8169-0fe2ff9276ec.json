@@ -9364,29 +9364,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "twilightforest:recipes/misc/quest_ram_banner_pattern": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 01:15:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 01:15:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-07-17 00:36:10 +0000"
+      "has_trophy": "2025-07-17 00:16:06 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 01:15:15 +0000"
+      "has_trophy": "2025-07-17 00:16:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_knights": {
     "criteria": {
@@ -9400,17 +9388,47 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "netherdungeons:recipes/crafting/polished_gilded_blackstone": {
+    "criteria": {
+      "has_items": "2025-07-17 00:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-17 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/time_planks": {
+    "criteria": {
+      "has_item": "2025-07-17 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-07-17 01:15:15 +0000"
     },
     "done": false
   },
-  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "has_trophy": "2025-07-17 00:16:17 +0000"
+      "log_spam_fixer": "2025-07-17 01:15:15 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:15:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-17 01:15:15 +0000"
+    },
+    "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
@@ -9436,12 +9454,6 @@
     },
     "done": false
   },
-  "twilightforest:recipes/building_blocks/wood/time_planks": {
-    "criteria": {
-      "has_item": "2025-07-17 01:11:45 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-07-17 01:15:15 +0000"
@@ -9454,12 +9466,6 @@
     },
     "done": false
   },
-  "netherdungeons:recipes/crafting/polished_gilded_blackstone": {
-    "criteria": {
-      "has_items": "2025-07-17 00:29:00 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2025-07-17 01:15:15 +0000"
@@ -9471,12 +9477,6 @@
       "log_spam_fixer": "2025-07-17 01:15:15 +0000"
     },
     "done": false
-  },
-  "twilightforest:recipes/misc/quest_ram_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-07-17 00:16:06 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
