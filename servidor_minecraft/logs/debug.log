@@ -8669,3 +8669,9 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [17Jul2025 05:05:25.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Jul2025 05:06:00.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
 [17Jul2025 05:07:17.565] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=853, y=76, z=-641}
+[17Jul2025 05:10:25.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 05:10:25.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 05:15:25.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 05:15:25.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 05:17:19.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[17Jul2025 05:19:48.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
