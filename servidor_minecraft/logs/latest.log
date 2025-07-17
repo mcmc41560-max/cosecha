@@ -73,3 +73,29 @@
 [17Jul2025 01:12:44.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported funado69 to funado69
 [17Jul2025 01:12:45.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported funado69 to funado69
 [17Jul2025 01:12:46.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported funado69 to funado69
+[17Jul2025 01:16:06.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jul2025 01:16:06.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jul2025 01:16:06.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jul2025 01:16:06.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jul2025 01:16:06.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jul2025 01:16:06.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[17Jul2025 01:16:06.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jul2025 01:16:06.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[17Jul2025 01:16:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[17Jul2025 01:16:06.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jul2025 01:16:06.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[17Jul2025 01:16:07.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[17Jul2025 01:16:07.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[17Jul2025 01:16:07.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jul2025 01:16:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[17Jul2025 01:16:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jul2025 01:16:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[17Jul2025 01:16:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[17Jul2025 01:16:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jul2025 01:16:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[17Jul2025 01:16:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[17Jul2025 01:16:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[17Jul2025 01:16:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Jul2025 01:16:07.177] [Server thread/INFO] [Framework/]: Unloading server configs...
+[17Jul2025 01:16:07.177] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[17Jul2025 01:16:07.183] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
