@@ -115,6 +115,7 @@
       "minecraft:birch_forest": "2025-06-30 22:57:15 +0000",
       "minecraft:beach": "2025-06-30 18:59:12 +0000",
       "minecraft:dark_forest": "2025-07-11 02:27:25 +0000",
+      "minecraft:sparse_jungle": "2025-07-17 00:35:50 +0000",
       "minecraft:river": "2025-06-30 18:59:38 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 21:46:18 +0000",
       "minecraft:snowy_plains": "2025-07-04 03:55:28 +0000",
@@ -125,8 +126,10 @@
       "minecraft:deep_cold_ocean": "2025-07-03 05:39:10 +0000",
       "minecraft:ice_spikes": "2025-07-04 03:56:40 +0000",
       "minecraft:frozen_ocean": "2025-07-04 03:57:22 +0000",
+      "minecraft:desert": "2025-07-17 00:38:37 +0000",
       "minecraft:windswept_forest": "2025-07-11 02:25:19 +0000",
       "minecraft:ocean": "2025-07-05 03:02:13 +0000",
+      "minecraft:jungle": "2025-07-17 00:38:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-11 02:27:23 +0000",
       "minecraft:snowy_beach": "2025-07-04 03:55:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-30 22:10:34 +0000",
@@ -9357,6 +9360,42 @@
   "twilightforest:recipes/building_blocks/wood/mining_planks": {
     "criteria": {
       "has_item": "2025-07-16 05:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-17 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "trophy": "2025-07-17 00:16:39 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-17 00:16:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-17 00:16:17 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/polished_gilded_blackstone": {
+    "criteria": {
+      "has_items": "2025-07-17 00:29:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/quest_ram_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-17 00:16:06 +0000"
     },
     "done": true
   },
