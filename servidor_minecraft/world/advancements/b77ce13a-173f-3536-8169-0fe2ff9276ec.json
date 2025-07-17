@@ -607,6 +607,7 @@
       "time_leaves": "2025-06-30 21:45:24 +0000",
       "canopy_sapling": "2025-07-04 18:32:25 +0000",
       "mining_log": "2025-07-16 05:50:39 +0000",
+      "time_wood": "2025-07-17 01:11:45 +0000",
       "time_sapling": "2025-07-04 18:04:25 +0000",
       "dark_log": "2025-07-03 04:19:16 +0000",
       "twilight_oak_sapling": "2025-07-04 18:04:31 +0000",
@@ -9384,6 +9385,12 @@
   "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-07-17 00:16:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/time_planks": {
+    "criteria": {
+      "has_item": "2025-07-17 01:11:45 +0000"
     },
     "done": true
   },
