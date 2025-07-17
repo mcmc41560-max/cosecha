@@ -9574,6 +9574,18 @@
     },
     "done": true
   },
+  "overweight_farming:recipes/apply_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_bone_meal": "2025-07-17 04:59:03 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-07-17 04:59:03 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/strawberry": {
     "criteria": {
       "has_strawberry_seeds": "2025-07-17 04:21:01 +0000"
