@@ -607,6 +607,7 @@
       "time_leaves": "2025-06-30 21:45:24 +0000",
       "canopy_sapling": "2025-07-04 18:32:25 +0000",
       "mining_log": "2025-07-16 05:50:39 +0000",
+      "root": "2025-07-17 04:19:53 +0000",
       "time_wood": "2025-07-17 01:11:45 +0000",
       "time_sapling": "2025-07-04 18:04:25 +0000",
       "dark_log": "2025-07-03 04:19:16 +0000",
@@ -922,6 +923,7 @@
       "bread": "2025-07-03 04:51:15 +0000",
       "golden_apple": "2025-07-04 04:03:25 +0000",
       "suspicious_stew": "2025-07-06 23:45:31 +0000",
+      "glow_berries": "2025-07-17 04:11:36 +0000",
       "cooked_chicken": "2025-07-03 04:31:18 +0000"
     },
     "done": false
@@ -7664,7 +7666,8 @@
     "criteria": {
       "glow_berries": "2025-07-11 04:35:41 +0000",
       "sweet_berries": "2025-07-10 05:48:22 +0000",
-      "kelp": "2025-07-16 05:09:20 +0000"
+      "kelp": "2025-07-16 05:09:20 +0000",
+      "wheat": "2025-07-17 04:16:16 +0000"
     },
     "done": false
   },
@@ -9403,6 +9406,24 @@
   "twilightforest:recipes/building_blocks/wood/time_planks": {
     "criteria": {
       "has_item": "2025-07-17 01:11:45 +0000"
+    },
+    "done": true
+  },
+  "endergetic:recipes/building_blocks/bolloom_crate": {
+    "criteria": {
+      "has_bolloom_fruit": "2025-07-17 04:11:24 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/strawberry": {
+    "criteria": {
+      "has_strawberry_seeds": "2025-07-17 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "endergetic:recipes/tools/bolloom_balloon": {
+    "criteria": {
+      "has_bolloom_fruit": "2025-07-17 04:11:24 +0000"
     },
     "done": true
   },

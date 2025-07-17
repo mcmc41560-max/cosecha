@@ -2137,3 +2137,6 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [17Jul2025 03:50:43.561] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
 [17Jul2025 03:50:43.562] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
 [17Jul2025 03:53:14.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set Kira_R's game mode to Creative Mode]
+[17Jul2025 03:59:27.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[17Jul2025 04:10:16.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[17Jul2025 04:15:24.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R moved too quickly! 10.048651340982246,2.377669814783289,-2.2535488179668732
