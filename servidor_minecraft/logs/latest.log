@@ -2131,3 +2131,9 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [17Jul2025 03:42:31.731] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
 [17Jul2025 03:42:31.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
 [17Jul2025 03:46:14.780] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[17Jul2025 03:50:43.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.9.125.118:58581] logged in with entity id 3846 at (837.9329449679324, 68.0, -463.6609904155764)
+[17Jul2025 03:50:43.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[17Jul2025 03:50:43.410] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[17Jul2025 03:50:43.561] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[17Jul2025 03:50:43.562] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[17Jul2025 03:53:14.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set Kira_R's game mode to Creative Mode]
