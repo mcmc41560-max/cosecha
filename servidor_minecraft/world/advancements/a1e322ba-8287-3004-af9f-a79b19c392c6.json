@@ -1920,6 +1920,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "mining_sign": "2025-07-17 04:26:31 +0000",
       "stripped_canopy_log": "2025-07-04 18:38:48 +0000",
       "transformation_sapling": "2025-07-04 18:26:07 +0000",
       "canopy_sapling": "2025-07-07 22:24:33 +0000",
@@ -9561,6 +9562,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/misc/cotton_seeds_bag_from_cotton_seeds": {
+    "criteria": {
+      "has_cotton_seeds": "2025-07-17 04:33:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_hoe_repairing": {
     "criteria": {
       "has_diamond_hoe": "2025-07-17 04:03:54 +0000"
@@ -9576,6 +9583,12 @@
   "aether:recipes/building_blocks/skyroot_planks": {
     "criteria": {
       "has_logs": "2025-07-17 03:51:18 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/cooking_oil": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-17 04:33:54 +0000"
     },
     "done": true
   },
