@@ -2169,3 +2169,15 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [21Jul2025 04:36:35.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> dime
 [21Jul2025 04:36:50.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> el aldeano
 [21Jul2025 04:44:02.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has completed the challenge [Me like rocks :)]
+[21Jul2025 04:46:23.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[21Jul2025 04:48:43.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Grave Ravager]
+[21Jul2025 04:50:51.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd moved wrongly!
+[21Jul2025 04:52:28.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jul2025 04:52:57.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jul2025 04:53:00.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has completed the challenge [Almost Unkillable]
+[21Jul2025 04:53:00.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R fell out of the world
+[21Jul2025 04:53:00.929] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[21Jul2025 04:54:10.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has reached the goal [Easy Opening]
+[21Jul2025 04:54:40.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> hazme tpp
+[21Jul2025 04:55:32.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21Jul2025 04:56:03.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
