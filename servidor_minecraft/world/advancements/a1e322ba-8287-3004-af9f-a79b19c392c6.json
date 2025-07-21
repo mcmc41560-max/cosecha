@@ -9562,77 +9562,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "aether:recipes/building_blocks/skyroot_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
+      "has_logs": "2025-07-17 03:51:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "aether:recipes/building_blocks/skyroot_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
+      "has_log": "2025-07-17 03:51:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "aether:recipes/tools/diamond_hoe_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
+      "has_diamond_hoe": "2025-07-17 04:03:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "farm_and_charm:recipes/strawberry": {
     "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
+      "has_strawberry_seeds": "2025-07-17 04:21:01 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-17 05:20:26 +0000"
-    },
-    "done": false
+    "done": true
   },
   "rusticdelight:recipes/misc/cotton_seeds_bag_from_cotton_seeds": {
     "criteria": {
@@ -9640,9 +9592,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_hoe_repairing": {
+  "rusticdelight:recipes/cooking/cooking_oil": {
     "criteria": {
-      "has_diamond_hoe": "2025-07-17 04:03:54 +0000"
+      "has_any_ingredient": "2025-07-17 04:33:54 +0000"
     },
     "done": true
   },
@@ -9658,29 +9610,77 @@
     },
     "done": true
   },
-  "farm_and_charm:recipes/strawberry": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_strawberry_seeds": "2025-07-17 04:21:01 +0000"
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
     },
-    "done": true
+    "done": false
   },
-  "aether:recipes/building_blocks/skyroot_planks": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "has_logs": "2025-07-17 03:51:18 +0000"
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
     },
-    "done": true
+    "done": false
   },
-  "rusticdelight:recipes/cooking/cooking_oil": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_any_ingredient": "2025-07-17 04:33:54 +0000"
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
     },
-    "done": true
+    "done": false
   },
-  "aether:recipes/building_blocks/skyroot_wood": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "has_log": "2025-07-17 03:51:18 +0000"
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 04:01:52 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

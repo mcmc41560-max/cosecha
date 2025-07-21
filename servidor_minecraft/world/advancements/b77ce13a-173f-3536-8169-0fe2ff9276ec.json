@@ -9429,5 +9429,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-21 03:58:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
