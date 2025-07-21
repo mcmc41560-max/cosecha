@@ -9441,9 +9441,39 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-21 04:27:08 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/frame": {
+    "criteria": {
+      "has_campfire": "2025-07-21 04:27:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+    "criteria": {
+      "has_cherry_leaves": "2025-07-21 04:30:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-21 04:27:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-07-21 04:19:03 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-07-21 04:27:01 +0000"
     },
     "done": true
   },

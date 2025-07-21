@@ -2139,3 +2139,28 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [21Jul2025 03:53:52.453] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
 [21Jul2025 04:15:05.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
 [21Jul2025 04:15:18.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[21Jul2025 04:27:08.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Bonfire Lit]
+[21Jul2025 04:30:51.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:41115] logged in with entity id 12026 at (858.6667890773845, 76.0, -642.3566631008339)
+[21Jul2025 04:30:51.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[21Jul2025 04:30:51.144] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[21Jul2025 04:30:54.480] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[21Jul2025 04:30:54.481] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[21Jul2025 04:32:55.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
+[21Jul2025 04:32:55.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[21Jul2025 04:32:55.137] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[21Jul2025 04:32:55.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[21Jul2025 04:32:55.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[21Jul2025 04:32:55.151] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[21Jul2025 04:33:17.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.64.228.18:55407] logged in with entity id 12444 at (792.9871018462225, 70.01530254863813, -467.97942489151603)
+[21Jul2025 04:33:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[21Jul2025 04:33:17.994] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[21Jul2025 04:33:18.197] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[21Jul2025 04:33:18.198] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[21Jul2025 04:33:23.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:60423] logged in with entity id 12451 at (810.217202011071, 62.9375, -631.5021228082229)
+[21Jul2025 04:33:23.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[21Jul2025 04:33:23.095] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[21Jul2025 04:33:23.834] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[21Jul2025 04:33:23.835] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[21Jul2025 04:34:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[21Jul2025 04:34:44.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[21Jul2025 04:34:57.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
