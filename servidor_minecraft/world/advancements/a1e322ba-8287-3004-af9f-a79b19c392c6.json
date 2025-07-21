@@ -8276,6 +8276,7 @@
   },
   "the_bumblezone:decor/obtain_all_string_curtains": {
     "criteria": {
+      "black_string_curtain": "2025-07-21 04:58:02 +0000",
       "magenta_string_curtain": "2025-07-12 01:30:53 +0000",
       "white_string_curtain": "2025-07-12 01:35:51 +0000"
     },
@@ -9838,9 +9839,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-21 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-07-21 04:53:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-07-21 04:54:10 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:grave_ravager": {
     "criteria": {
       "grave_ravager_0": "2025-07-21 04:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-21 04:53:34 +0000"
     },
     "done": true
   },
@@ -9853,6 +9878,12 @@
   "mofus_better_end_:titanium_drill_advancement": {
     "criteria": {
       "titanium_drill_advancement_0": "2025-07-21 04:44:02 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-07-21 04:53:34 +0000"
     },
     "done": true
   },
