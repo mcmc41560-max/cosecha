@@ -1322,6 +1322,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-05 18:14:57 +0000",
       "minecraft:skeleton": "2025-07-03 03:32:56 +0000",
+      "minecraft:ghast": "2025-07-21 05:33:37 +0000",
       "minecraft:vindicator": "2025-07-05 18:14:59 +0000",
       "minecraft:spider": "2025-07-03 03:28:29 +0000",
       "minecraft:creeper": "2025-07-03 04:33:55 +0000",
@@ -9429,6 +9430,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-07-21 05:33:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
     "criteria": {
       "has_lily_pad": "2025-07-21 04:03:31 +0000"
@@ -9459,6 +9466,12 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-07-21 05:33:37 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/frame": {
     "criteria": {
       "has_campfire": "2025-07-21 04:27:01 +0000"
@@ -9468,6 +9481,12 @@
   "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
     "criteria": {
       "has_calamari": "2025-07-21 05:09:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-07-21 05:32:18 +0000"
     },
     "done": true
   },

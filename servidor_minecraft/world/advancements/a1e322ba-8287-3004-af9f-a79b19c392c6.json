@@ -816,6 +816,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-05 01:52:30 +0000",
       "minecraft:skeleton": "2025-07-03 05:14:05 +0000",
+      "minecraft:ghast": "2025-07-21 05:31:17 +0000",
       "minecraft:spider": "2025-07-03 03:28:36 +0000",
       "minecraft:creeper": "2025-07-08 01:55:30 +0000",
       "minecraft:husk": "2025-07-11 23:20:39 +0000",
@@ -9840,9 +9841,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-07-21 05:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-07-21 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-07-21 05:31:17 +0000"
     },
     "done": true
   },
@@ -9867,6 +9880,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-07-21 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-07-21 05:32:19 +0000"
     },
     "done": true
   },
