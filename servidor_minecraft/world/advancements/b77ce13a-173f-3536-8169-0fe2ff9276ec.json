@@ -9490,6 +9490,12 @@
     },
     "done": true
   },
+  "endergetic:end/up_up_and_away": {
+    "criteria": {
+      "up_up_and_away": "2025-07-21 05:53:09 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
       "killed": "2025-07-21 05:32:18 +0000"
@@ -9499,6 +9505,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-21 05:09:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-21 05:44:02 +0000"
     },
     "done": true
   },

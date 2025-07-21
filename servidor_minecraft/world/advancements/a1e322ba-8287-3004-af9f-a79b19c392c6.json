@@ -9865,6 +9865,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-21 05:44:08 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2025-07-21 04:54:10 +0000"
@@ -9880,6 +9886,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-07-21 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "endergetic:end/up_up_and_away": {
+    "criteria": {
+      "up_up_and_away": "2025-07-21 05:53:30 +0000"
     },
     "done": true
   },
@@ -9900,6 +9912,12 @@
       "bury_them_all_1": "2025-07-21 04:43:59 +0000"
     },
     "done": false
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-07-21 05:44:08 +0000"
+    },
+    "done": true
   },
   "mofus_better_end_:titanium_drill_advancement": {
     "criteria": {
