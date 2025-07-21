@@ -9447,9 +9447,33 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "interact": "2025-07-21 05:21:05 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari": {
+    "criteria": {
+      "has_calamari": "2025-07-21 05:09:47 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/frame": {
     "criteria": {
       "has_campfire": "2025-07-21 04:27:01 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_from_smoking": {
+    "criteria": {
+      "has_calamari": "2025-07-21 05:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-07-21 05:09:47 +0000"
     },
     "done": true
   },
@@ -9468,6 +9492,12 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-07-21 04:19:03 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cooked_calamari_from_campfire_cooking": {
+    "criteria": {
+      "has_calamari": "2025-07-21 05:09:47 +0000"
     },
     "done": true
   },

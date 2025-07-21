@@ -819,6 +819,7 @@
       "minecraft:spider": "2025-07-03 03:28:36 +0000",
       "minecraft:creeper": "2025-07-08 01:55:30 +0000",
       "minecraft:husk": "2025-07-11 23:20:39 +0000",
+      "endergetic:booflo": "2025-07-21 05:15:15 +0000",
       "minecraft:enderman": "2025-07-04 19:03:07 +0000",
       "minecraft:endermite": "2025-07-04 02:26:29 +0000",
       "minecraft:zombie": "2025-07-03 04:02:45 +0000",
@@ -9866,6 +9867,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-07-21 04:53:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-07-21 05:03:14 +0000"
     },
     "done": true
   },
