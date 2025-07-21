@@ -9585,3 +9585,43 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [21Jul2025 05:36:17.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jul2025 05:36:17.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jul2025 05:36:38.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jul2025 05:37:08.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[21Jul2025 05:37:41.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Jul2025 05:37:54.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[21Jul2025 05:38:22.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Jul2025 05:38:40.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
+[21Jul2025 05:38:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to Kira_R]
+[21Jul2025 05:39:01.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5843ms or 116 ticks behind
+[21Jul2025 05:39:21.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4932ms or 98 ticks behind
+[21Jul2025 05:39:41.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5432ms or 108 ticks behind
+[21Jul2025 05:40:02.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5467ms or 109 ticks behind
+[21Jul2025 05:40:18.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [You've Got a Friend in Me]
+[21Jul2025 05:40:21.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4153ms or 83 ticks behind
+[21Jul2025 05:40:41.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5050ms or 101 ticks behind
+[21Jul2025 05:40:43.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[21Jul2025 05:40:48.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[21Jul2025 05:41:02.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6241ms or 124 ticks behind
+[21Jul2025 05:41:23.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5944ms or 118 ticks behind
+[21Jul2025 05:41:43.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5223ms or 104 ticks behind
+[21Jul2025 05:42:03.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4874ms or 97 ticks behind
+[21Jul2025 05:42:23.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5585ms or 111 ticks behind
+[21Jul2025 05:42:27.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 05:42:27.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 05:42:45.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6864ms or 137 ticks behind
+[21Jul2025 05:43:05.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5147ms or 102 ticks behind
+[21Jul2025 05:43:26.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5463ms or 109 ticks behind
+[21Jul2025 05:43:47.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6496ms or 129 ticks behind
+[21Jul2025 05:44:08.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5924ms or 118 ticks behind
+[21Jul2025 05:44:29.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5422ms or 108 ticks behind
+[21Jul2025 05:44:49.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5047ms or 100 ticks behind
+[21Jul2025 05:45:09.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5484ms or 109 ticks behind
+[21Jul2025 05:45:29.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5369ms or 107 ticks behind
+[21Jul2025 05:45:50.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5151ms or 103 ticks behind
+[21Jul2025 05:46:01.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[21Jul2025 05:46:10.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5184ms or 103 ticks behind
+[21Jul2025 05:46:30.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5170ms or 103 ticks behind
+[21Jul2025 05:46:50.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5400ms or 108 ticks behind
+[21Jul2025 05:47:03.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[21Jul2025 05:47:10.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[21Jul2025 05:47:11.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5260ms or 105 ticks behind
+[21Jul2025 05:47:12.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
