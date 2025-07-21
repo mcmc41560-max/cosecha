@@ -2358,3 +2358,56 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [21Jul2025 05:56:51.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [21Jul2025 05:57:01.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has reached the goal [Up, Up and Away!]
 [21Jul2025 05:57:13.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21Jul2025 05:57:22.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has completed the challenge [Great View From Up Here]
+[21Jul2025 05:57:30.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[21Jul2025 05:57:32.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd was kicked for floating too long!
+[21Jul2025 05:57:32.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[21Jul2025 05:57:32.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[21Jul2025 05:57:32.055] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[21Jul2025 05:57:32.135] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jul2025 05:58:10.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:56241] logged in with entity id 32408 at (904.6753307154542, 114.03214570028402, -593.0144064528886)
+[21Jul2025 05:58:10.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[21Jul2025 05:58:10.910] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[21Jul2025 05:58:11.323] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[21Jul2025 05:58:11.323] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[21Jul2025 05:58:33.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd was kicked for floating too long!
+[21Jul2025 05:58:33.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Flying is not enabled on this server
+[21Jul2025 05:58:33.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[21Jul2025 05:58:33.615] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[21Jul2025 05:59:45.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21Jul2025 06:00:24.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[21Jul2025 06:00:56.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21Jul2025 06:01:42.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[21Jul2025 06:02:19.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has completed the challenge [Great View From Up Here]
+[21Jul2025 06:02:59.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
+[21Jul2025 06:02:59.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[21Jul2025 06:02:59.731] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[21Jul2025 06:04:08.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
+[21Jul2025 06:04:08.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[21Jul2025 06:04:08.934] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[21Jul2025 06:04:39.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jul2025 06:04:39.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jul2025 06:04:39.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jul2025 06:04:39.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jul2025 06:04:39.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jul2025 06:04:39.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[21Jul2025 06:04:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[21Jul2025 06:04:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jul2025 06:04:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[21Jul2025 06:04:39.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[21Jul2025 06:04:39.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jul2025 06:04:39.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[21Jul2025 06:04:39.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[21Jul2025 06:04:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jul2025 06:04:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[21Jul2025 06:04:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[21Jul2025 06:04:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jul2025 06:04:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21Jul2025 06:04:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[21Jul2025 06:04:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jul2025 06:04:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[21Jul2025 06:04:39.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[21Jul2025 06:04:39.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jul2025 06:04:39.751] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Jul2025 06:04:39.752] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[21Jul2025 06:04:39.759] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
