@@ -2137,3 +2137,5 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [21Jul2025 03:53:50.704] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
 [21Jul2025 03:53:52.452] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
 [21Jul2025 03:53:52.453] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[21Jul2025 04:15:05.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[21Jul2025 04:15:18.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
