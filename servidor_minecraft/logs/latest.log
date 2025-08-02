@@ -1,24 +1,24 @@
-[02Aug2025 01:02:15.447] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[02Aug2025 01:02:15.451] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[02Aug2025 01:02:16.187] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[02Aug2025 01:02:16.233] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cosecha/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[02Aug2025 01:02:16.609] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[02Aug2025 01:02:16.611] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Aug2025 01:02:16.612] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Aug2025 01:02:16.613] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Aug2025 01:02:16.790] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[02Aug2025 01:02:19.435] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02Aug2025 01:02:19.695] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[02Aug2025 01:02:19.699] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[02Aug2025 01:02:19.851] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[02Aug2025 01:02:19.879] [main/WARN] [mixin/]: Reference map 'mixins.dungeons_plus.refmap.json' for mixins.dungeons_plus.json could not be read. If this is a development environment you can ignore this message
-[02Aug2025 01:02:19.891] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Aug2025 01:02:19.906] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Aug2025 01:02:19.909] [main/WARN] [mixin/]: Reference map 'mixins.luminous_nether.refmap.json' for mixins.luminous_nether.json could not be read. If this is a development environment you can ignore this message
-[02Aug2025 01:02:21.868] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02Aug2025 01:02:27.967] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
-[02Aug2025 01:02:28.625] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@75cf0de5 on thread Thread[modloading-worker-0,5,main]
-[02Aug2025 01:02:28.626] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[02Aug2025 01:31:39.481] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02Aug2025 01:31:39.484] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[02Aug2025 01:31:40.047] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Aug2025 01:31:40.093] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cosecha/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Aug2025 01:31:40.493] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Aug2025 01:31:40.495] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Aug2025 01:31:40.497] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Aug2025 01:31:40.498] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Aug2025 01:31:40.688] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[02Aug2025 01:31:43.345] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Aug2025 01:31:43.709] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[02Aug2025 01:31:43.714] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Aug2025 01:31:43.885] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[02Aug2025 01:31:43.917] [main/WARN] [mixin/]: Reference map 'mixins.dungeons_plus.refmap.json' for mixins.dungeons_plus.json could not be read. If this is a development environment you can ignore this message
+[02Aug2025 01:31:43.932] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Aug2025 01:31:43.947] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Aug2025 01:31:43.949] [main/WARN] [mixin/]: Reference map 'mixins.luminous_nether.refmap.json' for mixins.luminous_nether.json could not be read. If this is a development environment you can ignore this message
+[02Aug2025 01:31:45.974] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02Aug2025 01:31:52.102] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
+[02Aug2025 01:31:52.905] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@7793ad58 on thread Thread[modloading-worker-0,5,main]
+[02Aug2025 01:31:52.906] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -66,30 +66,30 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Aug2025 01:02:28.632] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[02Aug2025 01:02:29.277] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
-[02Aug2025 01:02:29.363] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[02Aug2025 01:02:29.853] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[02Aug2025 01:02:29.856] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[02Aug2025 01:02:29.855] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[02Aug2025 01:02:29.858] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[02Aug2025 01:02:30.168] [modloading-worker-0/INFO] [com.teamdurt.netherdungeons.NetherDungeons/]: Nether Dungeons mod init finished.
-[02Aug2025 01:02:30.438] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.56.
-[02Aug2025 01:02:34.869] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[02Aug2025 01:02:34.881] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[02Aug2025 01:02:34.884] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[02Aug2025 01:02:34.885] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[02Aug2025 01:02:35.235] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[02Aug2025 01:02:35.287] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[02Aug2025 01:02:35.386] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[02Aug2025 01:02:35.426] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[02Aug2025 01:02:35.427] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[02Aug2025 01:02:35.440] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[02Aug2025 01:02:35.443] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[02Aug2025 01:02:35.445] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[02Aug2025 01:02:35.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[02Aug2025 01:02:35.778] [main/INFO] [journeymap/]: Initializing Packet Registries
-[02Aug2025 01:02:35.801] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[02Aug2025 01:31:52.911] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[02Aug2025 01:31:53.479] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[02Aug2025 01:31:53.542] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[02Aug2025 01:31:54.201] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Aug2025 01:31:54.202] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Aug2025 01:31:54.213] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[02Aug2025 01:31:54.217] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[02Aug2025 01:31:54.485] [modloading-worker-0/INFO] [com.teamdurt.netherdungeons.NetherDungeons/]: Nether Dungeons mod init finished.
+[02Aug2025 01:31:54.781] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.56.
+[02Aug2025 01:31:58.886] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[02Aug2025 01:31:58.900] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[02Aug2025 01:31:58.902] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[02Aug2025 01:31:58.904] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[02Aug2025 01:31:59.230] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[02Aug2025 01:31:59.273] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[02Aug2025 01:31:59.336] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[02Aug2025 01:31:59.357] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[02Aug2025 01:31:59.358] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[02Aug2025 01:31:59.368] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[02Aug2025 01:31:59.369] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[02Aug2025 01:31:59.371] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[02Aug2025 01:31:59.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[02Aug2025 01:31:59.741] [main/INFO] [journeymap/]: Initializing Packet Registries
+[02Aug2025 01:31:59.779] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -104,59 +104,59 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[02Aug2025 01:02:35.803] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [piglinproliferation] Starting version check at https://api.modrinth.com/updates/piglin-proliferation/forge_updates.json
-[02Aug2025 01:02:35.927] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[02Aug2025 01:02:35.935] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[02Aug2025 01:02:35.957] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[02Aug2025 01:02:35.961] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[02Aug2025 01:02:35.964] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[02Aug2025 01:02:35.965] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
-[02Aug2025 01:02:35.971] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [piglinproliferation] Found status: OUTDATED Current: 1.20.1-1.2.5 Target: 1.20.1-1.2.6
-[02Aug2025 01:02:35.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[02Aug2025 01:02:36.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[02Aug2025 01:02:36.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02Aug2025 01:02:36.170] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[02Aug2025 01:02:36.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[02Aug2025 01:02:36.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[02Aug2025 01:02:36.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[02Aug2025 01:02:36.955] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.35 Target: null
-[02Aug2025 01:02:36.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[02Aug2025 01:02:37.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.15
-[02Aug2025 01:02:37.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[02Aug2025 01:02:37.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: OUTDATED Current: 5.3.0 Target: 5.4.2
-[02Aug2025 01:02:37.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[02Aug2025 01:02:37.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[02Aug2025 01:02:37.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[02Aug2025 01:02:37.312] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.4.18 Target: 3.4.26
-[02Aug2025 01:02:37.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[02Aug2025 01:02:37.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.0 Target: 9.0.6
-[02Aug2025 01:02:37.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Starting version check at https://api.modrinth.com/updates/NFlNaUBA/forge_updates.json
-[02Aug2025 01:02:37.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Found status: OUTDATED Current: 1 Target: 1+mod
-[02Aug2025 01:02:37.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
-[02Aug2025 01:02:37.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
-[02Aug2025 01:02:38.530] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02Aug2025 01:02:40.231] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosecha/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23275!/assets/.mcassetsroot' uses unexpected schema
-[02Aug2025 01:02:40.231] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosecha/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23275!/data/.mcassetsroot' uses unexpected schema
-[02Aug2025 01:02:40.372] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[02Aug2025 01:02:42.193] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[02Aug2025 01:02:42.320] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.4.6 MC 1.20.1.jar)
-[02Aug2025 01:02:42.424] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:vital_vein_tools as it is missing following references: #forge:vital_vein_hammer (from just_in_nether-1.1.7-forge-1.20.1.jar)
-[02Aug2025 01:02:42.426] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slabs as it is missing following references: outer_end:azure_vertical_slab (from TheOuterEnd-1.0.10.jar), 
+[02Aug2025 01:31:59.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [piglinproliferation] Starting version check at https://api.modrinth.com/updates/piglin-proliferation/forge_updates.json
+[02Aug2025 01:31:59.915] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[02Aug2025 01:31:59.926] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[02Aug2025 01:31:59.940] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[02Aug2025 01:31:59.944] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[02Aug2025 01:31:59.946] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[02Aug2025 01:31:59.947] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
+[02Aug2025 01:32:00.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [piglinproliferation] Found status: OUTDATED Current: 1.20.1-1.2.5 Target: 1.20.1-1.2.6
+[02Aug2025 01:32:00.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[02Aug2025 01:32:00.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[02Aug2025 01:32:00.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Aug2025 01:32:00.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[02Aug2025 01:32:00.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[02Aug2025 01:32:00.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[02Aug2025 01:32:00.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[02Aug2025 01:32:01.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.35 Target: null
+[02Aug2025 01:32:01.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[02Aug2025 01:32:01.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.15
+[02Aug2025 01:32:01.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[02Aug2025 01:32:01.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: OUTDATED Current: 5.3.0 Target: 5.4.2
+[02Aug2025 01:32:01.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[02Aug2025 01:32:01.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[02Aug2025 01:32:01.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[02Aug2025 01:32:01.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.4.18 Target: 3.4.26
+[02Aug2025 01:32:01.441] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02Aug2025 01:32:01.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.0 Target: 9.0.6
+[02Aug2025 01:32:01.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Starting version check at https://api.modrinth.com/updates/NFlNaUBA/forge_updates.json
+[02Aug2025 01:32:01.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Found status: OUTDATED Current: 1 Target: 1+mod
+[02Aug2025 01:32:01.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[02Aug2025 01:32:01.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[02Aug2025 01:32:02.497] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Aug2025 01:32:04.009] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosecha/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23275!/assets/.mcassetsroot' uses unexpected schema
+[02Aug2025 01:32:04.010] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosecha/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23275!/data/.mcassetsroot' uses unexpected schema
+[02Aug2025 01:32:04.149] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[02Aug2025 01:32:05.819] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[02Aug2025 01:32:05.959] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:vital_vein_tools as it is missing following references: #forge:vital_vein_hammer (from just_in_nether-1.1.7-forge-1.20.1.jar)
+[02Aug2025 01:32:05.965] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slabs as it is missing following references: outer_end:azure_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:himmel_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_brick_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:mossy_violite_brick_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_tile_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:mossy_violite_tile_vertical_slab (from TheOuterEnd-1.0.10.jar)
-[02Aug2025 01:02:42.427] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag enlightened_end:cerulean_stalk_blocks as it is missing following references: enlightened_end:cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar), 
+[02Aug2025 01:32:05.968] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag enlightened_end:cerulean_stalk_blocks as it is missing following references: enlightened_end:cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:stripped_cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar)
-[02Aug2025 01:02:42.482] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mushroom_grow_block as it is missing following references: netherdungeons:growth_mauve (from netherdungeons-1.1.0-snapshot4.jar)
-[02Aug2025 01:02:42.486] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_3 as it is missing following references: enlightened_end:enduring_waste (from enlightend-5.0.14-1.20.1.jar), 
+[02Aug2025 01:32:05.989] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.4.6 MC 1.20.1.jar)
+[02Aug2025 01:32:06.012] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mushroom_grow_block as it is missing following references: netherdungeons:growth_mauve (from netherdungeons-1.1.0-snapshot4.jar)
+[02Aug2025 01:32:06.017] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_3 as it is missing following references: enlightened_end:enduring_waste (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:voidsteel_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:adamantite_plate_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:adamantite_glass (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:adamantite_glass_pane (from enlightend-5.0.14-1.20.1.jar)
-[02Aug2025 01:02:42.489] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_0 as it is missing following references: enlightened_end:chiseled_purpur (from enlightend-5.0.14-1.20.1.jar), 
+[02Aug2025 01:32:06.017] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_0 as it is missing following references: enlightened_end:chiseled_purpur (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:purpur_lamp (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:infested_end_stone (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:congealed_eylium (from enlightend-5.0.14-1.20.1.jar), 
@@ -177,7 +177,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	enlightened_end:chiseled_nullstone (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:nullstone_lamp (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:voikrust_lamp (from enlightend-5.0.14-1.20.1.jar)
-[02Aug2025 01:02:42.490] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_2 as it is missing following references: enlightened_end:waxed_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
+[02Aug2025 01:32:06.017] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_2 as it is missing following references: enlightened_end:waxed_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:waxed_bismuth_slab (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:infernal_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:infernal_bismuth_sheet_stairs (from enlightend-5.0.14-1.20.1.jar), 
@@ -207,7 +207,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	enlightened_end:repulsium_cluster (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:atractonite_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:atractonite_cluster (from enlightend-5.0.14-1.20.1.jar)
-[02Aug2025 01:02:42.493] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_1 as it is missing following references: enlightened_end:malachite_pillar (from enlightend-5.0.14-1.20.1.jar), 
+[02Aug2025 01:32:06.017] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_1 as it is missing following references: enlightened_end:malachite_pillar (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:smooth_malachite (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:smooth_malachite_stairs (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:smooth_malachite_slab (from enlightend-5.0.14-1.20.1.jar), 
@@ -245,19 +245,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	enlightened_end:ennegel_hang_generate (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:enderneath_replace (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:enderneath_replace_chance (from enlightend-5.0.14-1.20.1.jar)
-[02Aug2025 01:02:42.501] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slabs as it is missing following references: outer_end:azure_vertical_slab (from TheOuterEnd-1.0.10.jar), 
+[02Aug2025 01:32:06.023] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slabs as it is missing following references: outer_end:azure_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:himmel_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_brick_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:mossy_violite_brick_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_tile_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:mossy_violite_tile_vertical_slab (from TheOuterEnd-1.0.10.jar)
-[02Aug2025 01:02:42.507] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:needs_tool_level_1 as it is missing following references: nordic_structures:dwarfcavernspawner_1 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
+[02Aug2025 01:32:06.025] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:needs_tool_level_1 as it is missing following references: nordic_structures:dwarfcavernspawner_1 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:dwarfcavernspawner_2 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:abandonednordicmine_1spawner (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:abandonednordicmine_2spawner (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:steelore (from nordic_structures-1.6.9-forge-1.20.1.jar)
-[02Aug2025 01:02:43.292] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_vertical_slab
+[02Aug2025 01:32:06.718] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_vertical_slab
 java.lang.IllegalArgumentException: Can't find block outer_end:azure_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -329,7 +329,7 @@ java.lang.IllegalArgumentException: Can't find block outer_end:azure_vertical_sl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Aug2025 01:02:43.329] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_ladder
+[02Aug2025 01:32:06.751] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_ladder
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:azure_ladder'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -381,7 +381,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Aug2025 01:02:43.457] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_vertical_planks
+[02Aug2025 01:32:06.903] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_vertical_planks
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:azure_vertical_planks'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -433,7 +433,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Aug2025 01:02:43.466] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_post
+[02Aug2025 01:32:06.911] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_post
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:azure_post'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -485,7 +485,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Aug2025 01:02:43.519] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/himmel_vertical_slab
+[02Aug2025 01:32:06.963] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/himmel_vertical_slab
 java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -557,7 +557,7 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Aug2025 01:02:43.776] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:enlightened_end:entities/sacrifice_statue_gift
+[02Aug2025 01:32:07.215] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:enlightened_end:entities/sacrifice_statue_gift
 com.google.gson.JsonSyntaxException: Unknown enchantment 'enlightened_end:frost_aspect'
 	at net.minecraft.world.level.storage.loot.functions.EnchantRandomlyFunction$Serializer.m_80465_(EnchantRandomlyFunction.java:137) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -619,7 +619,7 @@ com.google.gson.JsonSyntaxException: Unknown enchantment 'enlightened_end:frost_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Aug2025 01:02:43.810] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/stripped_azure_post
+[02Aug2025 01:32:07.251] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/stripped_azure_post
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:stripped_azure_post'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -671,34 +671,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[02Aug2025 01:02:43.846] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 1 modifier groups
-[02Aug2025 01:02:43.909] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/pigmar}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.909] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.910] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/dullkin}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.910] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.910] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/pigmar}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.910] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/bullkindar}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.910] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.910] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.911] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.911] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/dullkin}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.911] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.911] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.911] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/bullkindar}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.911] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/piglin_ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.911] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[02Aug2025 01:02:43.914] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab_from_violite_stonecutting as it's serializer returned null
-[02Aug2025 01:02:43.921] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab_violite_stonecutting as it's serializer returned null
-[02Aug2025 01:02:43.923] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_slab as it's serializer returned null
-[02Aug2025 01:02:43.926] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:43.927] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_planks_sawing as it's serializer returned null
-[02Aug2025 01:02:43.928] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_ladder as it's serializer returned null
-[02Aug2025 01:02:43.930] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab as it's serializer returned null
-[02Aug2025 01:02:43.931] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/slab_from_vertical_slab as it's serializer returned null
-[02Aug2025 01:02:43.941] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:stripped_azure_post as it's serializer returned null
-[02Aug2025 01:02:43.944] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_beehive as it's serializer returned null
-[02Aug2025 01:02:43.947] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_purpur_block_from_baking as it's serializer returned null
-[02Aug2025 01:02:43.950] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_sign
+[02Aug2025 01:32:07.287] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 1 modifier groups
+[02Aug2025 01:32:07.351] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/pigmar}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.351] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/dullkin}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/pigmar}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/bullkindar}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/dullkin}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.352] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.353] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/bullkindar}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.353] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/piglin_ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.353] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[02Aug2025 01:32:07.356] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab_from_violite_stonecutting as it's serializer returned null
+[02Aug2025 01:32:07.364] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab_violite_stonecutting as it's serializer returned null
+[02Aug2025 01:32:07.366] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.369] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.370] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_planks_sawing as it's serializer returned null
+[02Aug2025 01:32:07.372] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_ladder as it's serializer returned null
+[02Aug2025 01:32:07.375] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.378] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/slab_from_vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.385] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:stripped_azure_post as it's serializer returned null
+[02Aug2025 01:32:07.386] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_beehive as it's serializer returned null
+[02Aug2025 01:32:07.390] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_purpur_block_from_baking as it's serializer returned null
+[02Aug2025 01:32:07.391] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_sign
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -727,7 +727,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:43.954] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe luminous_nether:supplementaries_ash_block
+[02Aug2025 01:32:07.394] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe luminous_nether:supplementaries_ash_block
 com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:ash'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -765,17 +765,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:ash'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:43.957] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_bookshelf as it's serializer returned null
-[02Aug2025 01:02:43.958] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/vertical_slab_stonecutting as it's serializer returned null
-[02Aug2025 01:02:43.959] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:43.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/slab_from_vertical_slab as it's serializer returned null
-[02Aug2025 01:02:43.964] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/vertical_slab_stonecutting as it's serializer returned null
-[02Aug2025 01:02:43.965] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab_stonecutting as it's serializer returned null
-[02Aug2025 01:02:43.970] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/vertical_slab_stonecutting as it's serializer returned null
-[02Aug2025 01:02:43.972] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_slab_stonecutting as it's serializer returned null
-[02Aug2025 01:02:43.973] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_trapdoor_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:43.974] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab as it's serializer returned null
-[02Aug2025 01:02:43.978] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_pith
+[02Aug2025 01:32:07.396] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_bookshelf as it's serializer returned null
+[02Aug2025 01:32:07.397] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/vertical_slab_stonecutting as it's serializer returned null
+[02Aug2025 01:32:07.397] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.399] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/slab_from_vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.401] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/vertical_slab_stonecutting as it's serializer returned null
+[02Aug2025 01:32:07.402] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab_stonecutting as it's serializer returned null
+[02Aug2025 01:32:07.405] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/vertical_slab_stonecutting as it's serializer returned null
+[02Aug2025 01:32:07.407] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_slab_stonecutting as it's serializer returned null
+[02Aug2025 01:32:07.408] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_trapdoor_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.409] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.411] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_pith
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -804,14 +804,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:43.981] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_furnace_boat as it's serializer returned null
-[02Aug2025 01:02:43.983] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_to_slab as it's serializer returned null
-[02Aug2025 01:02:43.985] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_planks_sawing as it's serializer returned null
-[02Aug2025 01:02:43.986] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_post as it's serializer returned null
-[02Aug2025 01:02:43.987] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:chiseled_poise_bookshelf as it's serializer returned null
-[02Aug2025 01:02:43.988] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_planks_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:43.989] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:eumus_brick_from_baking as it's serializer returned null
-[02Aug2025 01:02:43.991] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe outer_end:azure_chest
+[02Aug2025 01:32:07.412] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_furnace_boat as it's serializer returned null
+[02Aug2025 01:32:07.414] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_to_slab as it's serializer returned null
+[02Aug2025 01:32:07.415] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_planks_sawing as it's serializer returned null
+[02Aug2025 01:32:07.416] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_post as it's serializer returned null
+[02Aug2025 01:32:07.417] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:chiseled_poise_bookshelf as it's serializer returned null
+[02Aug2025 01:32:07.417] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_planks_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.418] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:eumus_brick_from_baking as it's serializer returned null
+[02Aug2025 01:32:07.420] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe outer_end:azure_chest
 com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
@@ -844,9 +844,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:43.994] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/slab_from_vertical_slab as it's serializer returned null
-[02Aug2025 01:02:43.994] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/slab_from_vertical_slab as it's serializer returned null
-[02Aug2025 01:02:43.996] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe
+[02Aug2025 01:32:07.422] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/slab_from_vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.423] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/slab_from_vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.424] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
@@ -879,7 +879,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:43.999] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_door
+[02Aug2025 01:32:07.426] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_door
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -908,14 +908,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:44.008] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_gate_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:44.009] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder as it's serializer returned null
-[02Aug2025 01:02:44.010] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_door_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:44.011] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/vertical_slab as it's serializer returned null
-[02Aug2025 01:02:44.011] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab_stonecutting as it's serializer returned null
-[02Aug2025 01:02:44.011] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_to_planks as it's serializer returned null
-[02Aug2025 01:02:44.012] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:trapped_poise_chest as it's serializer returned null
-[02Aug2025 01:02:44.012] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe netherdungeons:crafting/chiseled_polished_gilded_blackstone
+[02Aug2025 01:32:07.435] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_gate_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.436] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder as it's serializer returned null
+[02Aug2025 01:32:07.437] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_door_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.437] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.438] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab_stonecutting as it's serializer returned null
+[02Aug2025 01:32:07.438] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_to_planks as it's serializer returned null
+[02Aug2025 01:32:07.438] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:trapped_poise_chest as it's serializer returned null
+[02Aug2025 01:32:07.439] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe netherdungeons:crafting/chiseled_polished_gilded_blackstone
 com.google.gson.JsonSyntaxException: Unknown item 'netherdungeons:polished_gilded_blackstone_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -953,7 +953,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'netherdungeons:polished_gilde
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:44.014] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[02Aug2025 01:32:07.441] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -991,7 +991,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:44.015] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_stem
+[02Aug2025 01:32:07.445] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_stem
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1020,7 +1020,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:44.016] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe famersdelight:adamantite_knife_smithing
+[02Aug2025 01:32:07.446] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe famersdelight:adamantite_knife_smithing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1049,9 +1049,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:44.021] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_eumus_bricks_from_baking as it's serializer returned null
-[02Aug2025 01:02:44.021] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/vertical_slab as it's serializer returned null
-[02Aug2025 01:02:44.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[02Aug2025 01:32:07.453] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_eumus_bricks_from_baking as it's serializer returned null
+[02Aug2025 01:32:07.454] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.454] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1080,11 +1080,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:44.024] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards as it's serializer returned null
-[02Aug2025 01:02:44.026] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_sign_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:44.026] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:44.027] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/slab_from_vertical_slab as it's serializer returned null
-[02Aug2025 01:02:44.028] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[02Aug2025 01:32:07.459] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards as it's serializer returned null
+[02Aug2025 01:32:07.461] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_sign_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.463] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.464] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/slab_from_vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.466] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
@@ -1117,15 +1117,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:44.029] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_slab as it's serializer returned null
-[02Aug2025 01:02:44.029] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:44.031] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_planks_sawing as it's serializer returned null
-[02Aug2025 01:02:44.032] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_to_slab as it's serializer returned null
-[02Aug2025 01:02:44.034] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_bookshelf as it's serializer returned null
-[02Aug2025 01:02:44.036] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_planks_sawing as it's serializer returned null
-[02Aug2025 01:02:44.041] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_pressure_plate_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:44.042] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_planks as it's serializer returned null
-[02Aug2025 01:02:44.044] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_trapdoor
+[02Aug2025 01:32:07.467] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.468] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.470] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_planks_sawing as it's serializer returned null
+[02Aug2025 01:32:07.471] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_to_slab as it's serializer returned null
+[02Aug2025 01:32:07.473] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_bookshelf as it's serializer returned null
+[02Aug2025 01:32:07.476] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_planks_sawing as it's serializer returned null
+[02Aug2025 01:32:07.486] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_pressure_plate_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.486] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_planks as it's serializer returned null
+[02Aug2025 01:32:07.492] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_trapdoor
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1154,10 +1154,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:44.045] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:44.046] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:large_poise_boat as it's serializer returned null
-[02Aug2025 01:02:44.048] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_planks_sawing as it's serializer returned null
-[02Aug2025 01:02:44.049] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe outer_end:azure_trapped_chest
+[02Aug2025 01:32:07.495] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.495] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:large_poise_boat as it's serializer returned null
+[02Aug2025 01:32:07.498] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_planks_sawing as it's serializer returned null
+[02Aug2025 01:32:07.499] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe outer_end:azure_trapped_chest
 com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1195,69 +1195,676 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[02Aug2025 01:02:44.052] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_planks_sawing as it's serializer returned null
-[02Aug2025 01:02:44.052] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_end_stone_bricks_from_baking as it's serializer returned null
-[02Aug2025 01:02:44.054] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/vertical_slab as it's serializer returned null
-[02Aug2025 01:02:44.054] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_stems_sawing as it's serializer returned null
-[02Aug2025 01:02:44.058] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_chest as it's serializer returned null
-[02Aug2025 01:02:44.060] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
-[02Aug2025 01:02:44.073] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
-[02Aug2025 01:02:44.143] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement outer_end:end/find_catacombs: Expected item to be an item, was unknown string 'outer_end:chiseled_violite'
-[02Aug2025 01:02:44.272] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2359 advancements
-[02Aug2025 01:02:44.297] [main/INFO] [Dungeon Crawl/]: Loading data...
-[02Aug2025 01:02:44.730] [main/INFO] [Dungeon Crawl/]: Done.
-[02Aug2025 01:02:44.740] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 2 modifier groups
-[02Aug2025 01:02:44.752] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[02Aug2025 01:02:44.760] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[02Aug2025 01:02:46.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[02Aug2025 01:02:46.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02Aug2025 01:02:46.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02Aug2025 01:02:46.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02Aug2025 01:02:46.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02Aug2025 01:02:46.297] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02Aug2025 01:02:46.380] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02Aug2025 01:02:46.380] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[02Aug2025 01:02:46.381] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02Aug2025 01:02:46.381] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[02Aug2025 01:02:46.406] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02Aug2025 01:02:46.407] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02Aug2025 01:02:46.407] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[02Aug2025 01:02:46.619] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[02Aug2025 01:02:46.620] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[02Aug2025 01:02:46.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[02Aug2025 01:02:47.387] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[02Aug2025 01:02:47.393] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[02Aug2025 01:02:47.404] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[02Aug2025 01:02:58.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02Aug2025 01:03:01.789] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Aug2025 01:03:01.790] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Aug2025 01:03:01.790] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Aug2025 01:03:01.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Aug2025 01:03:01.791] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Aug2025 01:03:01.792] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Aug2025 01:03:01.880] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Aug2025 01:03:02.379] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
-[02Aug2025 01:03:02.850] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3972 ms
-[02Aug2025 01:03:02.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.452s)! For help, type "help"
-[02Aug2025 01:03:02.899] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02Aug2025 01:03:02.932] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[02Aug2025 01:03:02.941] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'starting-strict.gl.at.ply.gg:4155'
-[02Aug2025 01:03:02.942] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4155
-[02Aug2025 01:03:12.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[02Aug2025 01:03:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[02Aug2025 01:03:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[02Aug2025 01:03:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[02Aug2025 01:03:13.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02Aug2025 01:03:14.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
-[02Aug2025 01:03:14.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02Aug2025 01:03:14.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02Aug2025 01:03:14.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
-[02Aug2025 01:03:14.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
-[02Aug2025 01:03:14.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02Aug2025 01:03:14.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
-[02Aug2025 01:03:14.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02Aug2025 01:03:14.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02Aug2025 01:03:14.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
-[02Aug2025 01:03:14.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
-[02Aug2025 01:03:14.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02Aug2025 01:03:14.644] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Aug2025 01:32:07.503] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_planks_sawing as it's serializer returned null
+[02Aug2025 01:32:07.503] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_end_stone_bricks_from_baking as it's serializer returned null
+[02Aug2025 01:32:07.505] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/vertical_slab as it's serializer returned null
+[02Aug2025 01:32:07.505] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_stems_sawing as it's serializer returned null
+[02Aug2025 01:32:07.506] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_chest as it's serializer returned null
+[02Aug2025 01:32:07.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[02Aug2025 01:32:07.524] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
+[02Aug2025 01:32:07.578] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement outer_end:end/find_catacombs: Expected item to be an item, was unknown string 'outer_end:chiseled_violite'
+[02Aug2025 01:32:07.693] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2359 advancements
+[02Aug2025 01:32:07.712] [main/INFO] [Dungeon Crawl/]: Loading data...
+[02Aug2025 01:32:08.040] [main/INFO] [Dungeon Crawl/]: Done.
+[02Aug2025 01:32:08.052] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 2 modifier groups
+[02Aug2025 01:32:08.069] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[02Aug2025 01:32:08.082] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[02Aug2025 01:32:09.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Aug2025 01:32:09.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Aug2025 01:32:09.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Aug2025 01:32:09.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Aug2025 01:32:09.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Aug2025 01:32:09.537] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Aug2025 01:32:09.604] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Aug2025 01:32:09.605] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Aug2025 01:32:09.605] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Aug2025 01:32:09.605] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Aug2025 01:32:09.621] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Aug2025 01:32:09.623] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Aug2025 01:32:09.797] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[02Aug2025 01:32:09.799] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[02Aug2025 01:32:09.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Aug2025 01:32:10.526] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[02Aug2025 01:32:10.535] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[02Aug2025 01:32:10.543] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[02Aug2025 01:32:21.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Aug2025 01:32:24.565] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 01:32:24.566] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 01:32:24.567] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 01:32:24.568] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 01:32:24.568] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 01:32:24.568] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 01:32:24.726] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 01:32:25.221] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[02Aug2025 01:32:25.646] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3925 ms
+[02Aug2025 01:32:25.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.032s)! For help, type "help"
+[02Aug2025 01:32:25.695] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Aug2025 01:32:25.731] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02Aug2025 01:32:25.741] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'starting-strict.gl.at.ply.gg:4155'
+[02Aug2025 01:32:25.741] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4155
+[02Aug2025 01:34:03.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:35533] logged in with entity id 933 at (73.5, 71.0, 50.5)
+[02Aug2025 01:34:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[02Aug2025 01:34:04.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Nether's Exoticism]
+[02Aug2025 01:34:04.068] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[02Aug2025 01:34:07.596] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[02Aug2025 01:34:07.599] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[02Aug2025 01:34:09.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pedkko[/127.178.224.248:57855] logged in with entity id 1066 at (82.5, 71.0, 52.5)
+[02Aug2025 01:34:09.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko joined the game
+[02Aug2025 01:34:09.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Nether's Exoticism]
+[02Aug2025 01:34:09.695] [Server thread/INFO] [Jade/]: Syncing config to Pedkko (36e12835-0576-3db2-a78b-4f9805e51a54)
+[02Aug2025 01:34:10.777] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pedkko (18)
+[02Aug2025 01:34:10.778] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pedkko
+[02Aug2025 01:34:10.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[02Aug2025 01:34:11.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[02Aug2025 01:34:11.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[02Aug2025 01:34:13.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 36e12835-0576-3db2-a78b-4f9805e51a54
+[02Aug2025 01:34:14.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 36e12835-0576-3db2-a78b-4f9805e51a54
+[02Aug2025 01:34:14.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pedkko (36e12835-0576-3db2-a78b-4f9805e51a54) successfully connected to voice chat
+[02Aug2025 01:36:07.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Alex's Mobs]
+[02Aug2025 01:36:12.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> me escucha?
+[02Aug2025 01:36:39.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made pablito a server operator
+[02Aug2025 01:39:22.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Dungeon Now Loading]
+[02Aug2025 01:40:55.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 01:41:05.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 01:41:49.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Entrelex[/127.115.65.189:41179] logged in with entity id 2881 at (90.5, 74.0, 42.5)
+[02Aug2025 01:41:49.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex joined the game
+[02Aug2025 01:41:49.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Nether's Exoticism]
+[02Aug2025 01:41:49.152] [Server thread/INFO] [Jade/]: Syncing config to Entrelex (519e51c4-bf36-3fd4-8b29-d874c67be983)
+[02Aug2025 01:41:50.009] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Entrelex (18)
+[02Aug2025 01:41:50.010] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Entrelex
+[02Aug2025 01:41:51.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 519e51c4-bf36-3fd4-8b29-d874c67be983
+[02Aug2025 01:41:52.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 519e51c4-bf36-3fd4-8b29-d874c67be983
+[02Aug2025 01:41:52.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Entrelex (519e51c4-bf36-3fd4-8b29-d874c67be983) successfully connected to voice chat
+[02Aug2025 01:42:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 3 entities to Entrelex]
+[02Aug2025 01:42:10.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juanesb[/127.74.248.237:48417] logged in with entity id 3039 at (76.5, 71.0, 52.5)
+[02Aug2025 01:42:10.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb joined the game
+[02Aug2025 01:42:11.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Nether's Exoticism]
+[02Aug2025 01:42:11.002] [Server thread/INFO] [Jade/]: Syncing config to Juanesb (85aa8e5d-7610-3cdb-8adb-3bfaa2d92ae1)
+[02Aug2025 01:42:11.878] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Juanesb (18)
+[02Aug2025 01:42:11.878] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Juanesb
+[02Aug2025 01:42:14.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 85aa8e5d-7610-3cdb-8adb-3bfaa2d92ae1
+[02Aug2025 01:42:15.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 85aa8e5d-7610-3cdb-8adb-3bfaa2d92ae1
+[02Aug2025 01:42:15.387] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Juanesb (85aa8e5d-7610-3cdb-8adb-3bfaa2d92ae1) successfully connected to voice chat
+[02Aug2025 01:42:37.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Alex's Mobs]
+[02Aug2025 01:43:08.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=74, z=159} BlockPos{x=80, y=70, z=43}
+[02Aug2025 01:43:08.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=74, z=159} BlockPos{x=81, y=70, z=42}
+[02Aug2025 01:43:08.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=74, z=159} BlockPos{x=81, y=70, z=41}
+[02Aug2025 01:43:09.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=74, z=159} BlockPos{x=81, y=70, z=40}
+[02Aug2025 01:43:41.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was doomed to fall by Pedkko
+[02Aug2025 01:43:41.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Your First Grave]
+[02Aug2025 01:43:41.373] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 01:44:01.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Zombie
+[02Aug2025 01:44:01.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Your First Grave]
+[02Aug2025 01:44:01.115] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 01:44:10.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has reached the goal [Here They Come]
+[02Aug2025 01:45:12.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[02Aug2025 01:45:27.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=63, z=49} BlockPos{x=81, y=70, z=43}
+[02Aug2025 01:45:28.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=63, z=49} BlockPos{x=79, y=69, z=41}
+[02Aug2025 01:45:28.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=63, z=49} BlockPos{x=79, y=69, z=41}
+[02Aug2025 01:45:28.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=63, z=49} BlockPos{x=79, y=69, z=42}
+[02Aug2025 01:45:28.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=63, z=49} BlockPos{x=79, y=69, z=42}
+[02Aug2025 01:45:31.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[02Aug2025 01:45:31.507] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 01:45:45.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Entrelex
+[02Aug2025 01:45:45.581] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 01:45:49.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Dungeon Now Loading]
+[02Aug2025 01:45:49.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Knowledge of Death]
+[02Aug2025 01:45:49.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Funeral Theft]
+[02Aug2025 01:45:49.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has reached the goal [Discreet Search]
+[02Aug2025 01:45:57.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Dungeon Now Loading]
+[02Aug2025 01:45:57.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=81, y=70, z=41}
+[02Aug2025 01:46:05.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[02Aug2025 01:46:05.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [Chain Death]
+[02Aug2025 01:46:05.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[02Aug2025 01:46:05.513] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 01:46:05.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=85, y=65, z=41}
+[02Aug2025 01:46:06.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=86, y=65, z=41}
+[02Aug2025 01:46:06.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=87, y=65, z=37}
+[02Aug2025 01:46:18.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Entrelex> dale a la v para poner lo del voz en el juego
+[02Aug2025 01:46:23.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=81, y=71, z=45}
+[02Aug2025 01:46:36.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Knowledge raises the soul]
+[02Aug2025 01:46:57.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=76, y=69, z=49}
+[02Aug2025 01:47:05.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=72, z=52}
+[02Aug2025 01:47:05.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=71, z=51}
+[02Aug2025 01:47:08.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=72, y=70, z=44}
+[02Aug2025 01:47:08.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=73, y=70, z=44}
+[02Aug2025 01:47:09.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=76, y=71, z=42}
+[02Aug2025 01:47:17.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=66, y=73, z=52}
+[02Aug2025 01:47:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Zombie
+[02Aug2025 01:47:26.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Your First Grave]
+[02Aug2025 01:47:26.511] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 01:47:58.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has reached the goal [Here They Come]
+[02Aug2025 01:48:29.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[02Aug2025 01:48:29.359] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 01:48:55.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Monster Hunter]
+[02Aug2025 01:49:00.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Stone Age]
+[02Aug2025 01:49:17.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAYJAYZ[/127.254.106.117:44671] logged in with entity id 4480 at (73.5, 71.0, 55.5)
+[02Aug2025 01:49:17.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ joined the game
+[02Aug2025 01:49:17.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Nether's Exoticism]
+[02Aug2025 01:49:17.495] [Server thread/INFO] [Jade/]: Syncing config to JAYJAYZ (5a6ec088-4690-3feb-8ffc-c38424d83e27)
+[02Aug2025 01:49:22.121] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JAYJAYZ (18)
+[02Aug2025 01:49:22.122] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JAYJAYZ
+[02Aug2025 01:49:35.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5a6ec088-4690-3feb-8ffc-c38424d83e27
+[02Aug2025 01:49:35.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Entrelex
+[02Aug2025 01:49:35.767] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 01:49:36.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5a6ec088-4690-3feb-8ffc-c38424d83e27
+[02Aug2025 01:49:36.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JAYJAYZ (5a6ec088-4690-3feb-8ffc-c38424d83e27) successfully connected to voice chat
+[02Aug2025 01:49:37.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Knowledge of Death]
+[02Aug2025 01:49:37.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Funeral Theft]
+[02Aug2025 01:49:49.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Getting an Upgrade]
+[02Aug2025 01:50:13.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Knowledge of Death]
+[02Aug2025 01:50:13.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [Here They Come]
+[02Aug2025 01:50:33.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Pedkko
+[02Aug2025 01:50:33.875] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 01:50:39.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Knowledge of Death]
+[02Aug2025 01:50:39.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Funeral Theft]
+[02Aug2025 01:51:32.044] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:51:32.052] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:51:32.059] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:51:32.062] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:51:32.063] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:51:32.063] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:51:32.071] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:51:32.080] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:51:32.082] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:51:32.086] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:51:57.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Entrelex
+[02Aug2025 01:51:57.593] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 01:52:43.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Chort
+[02Aug2025 01:52:43.377] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 01:53:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> juanes unete al discord
+[02Aug2025 01:54:51.188] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:54:51.191] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:54:51.195] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:54:51.196] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:54:51.197] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:54:51.198] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:54:51.200] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:54:51.201] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:54:51.204] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:54:51.204] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:54:51.212] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 01:55:13.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 01:55:28.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=63, z=66} BlockPos{x=76, y=63, z=48}
+[02Aug2025 01:55:29.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=63, z=66} BlockPos{x=82, y=64, z=46}
+[02Aug2025 01:55:38.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was slain by Enderman
+[02Aug2025 01:55:38.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Your First Grave]
+[02Aug2025 01:55:38.176] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 01:55:44.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=185, y=69, z=100} BlockPos{x=73, y=64, z=60}
+[02Aug2025 01:55:51.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Enderman
+[02Aug2025 01:55:51.994] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 01:55:53.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=86, y=68, z=43}
+[02Aug2025 01:56:01.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 5 entities to pablito]
+[02Aug2025 01:56:05.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juanesb> PERO
+[02Aug2025 01:56:27.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=84, y=62, z=53}
+[02Aug2025 01:56:29.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has reached the goal [Here They Come]
+[02Aug2025 01:56:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> juanes entra a ds
+[02Aug2025 01:56:34.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Entrelex> el hombre abusa de su poder, toca derrocarlo
+[02Aug2025 01:56:55.345] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[02Aug2025 01:56:56.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was slain by Enderman
+[02Aug2025 01:56:56.416] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 01:56:59.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=89, y=64, z=57}
+[02Aug2025 01:57:03.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=165, y=66, z=70} BlockPos{x=78, y=64, z=55}
+[02Aug2025 01:57:06.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was blown up by Creeper
+[02Aug2025 01:57:06.531] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 01:57:08.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=165, y=66, z=70} BlockPos{x=79, y=64, z=55}
+[02Aug2025 01:57:10.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=64, z=56}
+[02Aug2025 01:57:12.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=64, z=56}
+[02Aug2025 01:57:13.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=64, z=56}
+[02Aug2025 01:57:15.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=165, y=66, z=70} BlockPos{x=85, y=64, z=57}
+[02Aug2025 01:57:15.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=165, y=66, z=70} BlockPos{x=85, y=64, z=58}
+[02Aug2025 01:57:18.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=93, y=64, z=56}
+[02Aug2025 01:57:19.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=304, y=70, z=413} BlockPos{x=86, y=64, z=60}
+[02Aug2025 01:57:19.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Enderman
+[02Aug2025 01:57:19.510] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 01:57:20.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Monster Hunter]
+[02Aug2025 01:57:40.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Dungeon Now Loading]
+[02Aug2025 01:57:58.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=72, y=60, z=59}
+[02Aug2025 01:57:58.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=73, y=62, z=55}
+[02Aug2025 01:57:58.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=73, y=62, z=55}
+[02Aug2025 01:58:05.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=73, y=60, z=57}
+[02Aug2025 01:58:07.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=61, z=59}
+[02Aug2025 01:58:09.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=62, z=59}
+[02Aug2025 01:58:09.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=62, z=58}
+[02Aug2025 01:58:09.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=62, z=59}
+[02Aug2025 01:58:13.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=75, y=60, z=59}
+[02Aug2025 01:58:22.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=70, y=62, z=58}
+[02Aug2025 01:58:56.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[02Aug2025 01:59:19.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Skeleton
+[02Aug2025 01:59:19.258] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 01:59:38.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 5 entities to pablito]
+[02Aug2025 01:59:45.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98, y=63, z=53} BlockPos{x=82, y=62, z=41}
+[02Aug2025 01:59:53.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Ambush]
+[02Aug2025 01:59:57.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Skeleton
+[02Aug2025 01:59:57.157] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:00:12.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Monster Hunter]
+[02Aug2025 02:00:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [A Strange Grave Dust]
+[02Aug2025 02:00:16.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 5 entities to pablito]
+[02Aug2025 02:01:09.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved wrongly! 0.2654412053337438
+[02Aug2025 02:01:09.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved wrongly! 0.4159176477432993
+[02Aug2025 02:01:09.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pedkko) moved wrongly! 0.40855078535123823
+[02Aug2025 02:01:09.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pedkko) moved wrongly! 0.6691880169287572
+[02Aug2025 02:01:09.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pedkko) moved wrongly! 0.9374919068221317
+[02Aug2025 02:01:09.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pedkko) moved wrongly! 1.15162879679459
+[02Aug2025 02:02:00.613] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:02:00.614] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:02:00.614] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:02:00.614] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:02:00.615] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:02:00.616] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:02:00.617] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:02:19.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko drowned
+[02Aug2025 02:02:19.962] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:02:33.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 0.41225753490061834
+[02Aug2025 02:02:33.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 0.41225753490061834
+[02Aug2025 02:02:33.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 0.41225753490061834
+[02Aug2025 02:02:33.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 0.26165094226803376
+[02Aug2025 02:03:14.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was slain by Entrelex
+[02Aug2025 02:03:14.216] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:03:23.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by pablito
+[02Aug2025 02:03:23.319] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 02:03:25.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 1.3818958785570032
+[02Aug2025 02:03:25.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 0.5933895422647311
+[02Aug2025 02:03:25.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 1.375
+[02Aug2025 02:03:25.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 1.375
+[02Aug2025 02:03:26.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 1.375
+[02Aug2025 02:03:26.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 0.540135623424078
+[02Aug2025 02:03:27.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 5 entities to pablito]
+[02Aug2025 02:04:15.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juanesb) moved wrongly! 0.2707046979989972
+[02Aug2025 02:04:33.353] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[02Aug2025 02:04:33.355] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[02Aug2025 02:04:33.402] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[02Aug2025 02:04:33.403] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[02Aug2025 02:04:33.403] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[02Aug2025 02:04:33.404] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[02Aug2025 02:04:33.404] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[02Aug2025 02:04:43.560] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-13, z=-248}
+[02Aug2025 02:04:43.590] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-241}
+[02Aug2025 02:04:43.590] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-242}
+[02Aug2025 02:04:46.607] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=489, y=-59, z=383}
+[02Aug2025 02:04:46.607] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=488, y=-57, z=389}
+[02Aug2025 02:04:46.607] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=484, y=-58, z=387}
+[02Aug2025 02:04:46.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=492, y=-59, z=388}
+[02Aug2025 02:04:46.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=488, y=-57, z=387}
+[02Aug2025 02:04:47.035] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-26, z=-242}
+[02Aug2025 02:04:47.036] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-12, z=-242}
+[02Aug2025 02:04:47.036] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-13, z=-242}
+[02Aug2025 02:04:47.088] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=559, y=-26, z=-250}
+[02Aug2025 02:04:47.089] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-26, z=-248}
+[02Aug2025 02:04:47.090] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-248}
+[02Aug2025 02:04:47.090] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-249}
+[02Aug2025 02:05:08.841] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=192, y=-6, z=-634} but found not block entity block Block{minecraft:water}[level=1] at location
+[02Aug2025 02:05:08.841] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=192, y=-6, z=-634}
+[02Aug2025 02:05:16.881] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=75, z=-939}
+[02Aug2025 02:05:16.882] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=72, z=-940}
+[02Aug2025 02:06:34.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Acquire Hardware]
+[02Aug2025 02:06:47.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Monster Hunter]
+[02Aug2025 02:06:48.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb has made the advancement [Acquire Hardware]
+[02Aug2025 02:07:13.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was slain by Husk
+[02Aug2025 02:07:13.480] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:07:27.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:07:43.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Husk
+[02Aug2025 02:07:43.335] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 02:07:44.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Monster Hunter]
+[02Aug2025 02:07:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Husk
+[02Aug2025 02:07:51.342] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:08:03.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 02:08:20.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juanesb lost connection: Disconnected
+[02Aug2025 02:08:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juanesb left the game
+[02Aug2025 02:08:20.230] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Juanesb
+[02Aug2025 02:08:51.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Suit Up]
+[02Aug2025 02:08:56.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Husk
+[02Aug2025 02:08:56.324] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:09:03.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 02:09:23.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has reached the goal [Chain Death]
+[02Aug2025 02:09:23.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Husk
+[02Aug2025 02:09:23.321] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:09:30.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Husk
+[02Aug2025 02:09:31.002] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:09:35.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 02:09:42.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [A Strange Grave Dust]
+[02Aug2025 02:09:46.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to Entrelex]
+[02Aug2025 02:10:00.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Husk
+[02Aug2025 02:10:00.666] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:10:07.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 02:10:16.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Husk
+[02Aug2025 02:10:16.141] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 02:10:23.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Alex's Mobs]
+[02Aug2025 02:10:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Husk
+[02Aug2025 02:10:32.717] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:10:40.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=72, z=52}
+[02Aug2025 02:10:47.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 02:10:53.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to Entrelex]
+[02Aug2025 02:11:00.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has reached the goal [Chain Death]
+[02Aug2025 02:11:00.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Husk
+[02Aug2025 02:11:00.275] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 02:11:11.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Husk
+[02Aug2025 02:11:11.515] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:11:17.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Husk
+[02Aug2025 02:11:17.276] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 02:11:19.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Husk
+[02Aug2025 02:11:19.835] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:11:22.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was slain by Husk
+[02Aug2025 02:11:22.524] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:11:28.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to Entrelex]
+[02Aug2025 02:11:46.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[02Aug2025 02:11:55.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Aug2025 02:12:12.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [The Most Useful Key]
+[02Aug2025 02:12:18.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Knowledge of Death]
+[02Aug2025 02:12:18.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has reached the goal [Chain Death]
+[02Aug2025 02:12:18.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was slain by Husk
+[02Aug2025 02:12:18.319] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:12:22.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has reached the goal [A Fast Comeback]
+[02Aug2025 02:12:35.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Husk
+[02Aug2025 02:12:35.521] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:12:40.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to Entrelex]
+[02Aug2025 02:12:45.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Husk
+[02Aug2025 02:12:46.012] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 02:12:46.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Husk
+[02Aug2025 02:12:46.915] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:12:48.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was slain by Husk
+[02Aug2025 02:12:48.965] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:12:56.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[02Aug2025 02:13:04.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[02Aug2025 02:13:06.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=76, y=62, z=60}
+[02Aug2025 02:13:44.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[02Aug2025 02:13:52.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=86, z=-506} BlockPos{x=75, y=62, z=52}
+[02Aug2025 02:13:53.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=86, z=-506} BlockPos{x=75, y=62, z=51}
+[02Aug2025 02:13:53.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=86, z=-506} BlockPos{x=75, y=62, z=52}
+[02Aug2025 02:13:54.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=86, z=-506} BlockPos{x=75, y=62, z=52}
+[02Aug2025 02:13:58.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Aug2025 02:14:03.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[02Aug2025 02:18:10.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Dungeon Now Loading]
+[02Aug2025 02:19:08.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=70, y=63, z=26} BlockPos{x=76, y=64, z=36}
+[02Aug2025 02:19:17.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=70, y=63, z=26} BlockPos{x=76, y=65, z=36}
+[02Aug2025 02:19:22.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=69, y=65, z=28} BlockPos{x=82, y=65, z=37}
+[02Aug2025 02:19:23.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=69, y=65, z=28} BlockPos{x=81, y=65, z=39}
+[02Aug2025 02:19:45.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Stone Age]
+[02Aug2025 02:19:57.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Stone Age]
+[02Aug2025 02:22:16.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Getting an Upgrade]
+[02Aug2025 02:24:08.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Sweet Dreams]
+[02Aug2025 02:24:39.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Zombie
+[02Aug2025 02:24:39.854] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:25:33.009] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7cad6d23-b90d-32e7-a33e-08234c01e126 timed out
+[02Aug2025 02:25:33.009] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pablito
+[02Aug2025 02:25:33.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[02Aug2025 02:25:36.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[02Aug2025 02:25:36.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[02Aug2025 02:25:36.905] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[02Aug2025 02:25:36.954] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Aug2025 02:25:36.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:56505] logged in with entity id 19146 at (84.4502010613788, 65.0, -6.551316996466757)
+[02Aug2025 02:25:36.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[02Aug2025 02:25:37.011] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[02Aug2025 02:25:37.175] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[02Aug2025 02:25:37.176] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[02Aug2025 02:25:40.614] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[02Aug2025 02:25:41.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[02Aug2025 02:25:41.616] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[02Aug2025 02:26:29.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Stone Age]
+[02Aug2025 02:27:20.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Getting an Upgrade]
+[02Aug2025 02:28:58.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Summoned new Creeper]
+[02Aug2025 02:29:00.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was blown up by Creeper
+[02Aug2025 02:29:00.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was blown up by Creeper
+[02Aug2025 02:29:00.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was blown up by Creeper
+[02Aug2025 02:29:00.606] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:29:00.608] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:29:00.609] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:29:25.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:30:50.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Enderman
+[02Aug2025 02:30:50.914] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:31:34.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was blown up by Creeper
+[02Aug2025 02:31:34.864] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 02:33:46.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved wrongly! 0.2650982414134688
+[02Aug2025 02:33:47.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved wrongly! 0.3192079961930574
+[02Aug2025 02:33:47.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved wrongly! 0.40437271075023773
+[02Aug2025 02:33:48.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved wrongly! 0.496785773141994
+[02Aug2025 02:33:51.413] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[02Aug2025 02:33:51.413] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[02Aug2025 02:33:51.447] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[02Aug2025 02:33:51.504] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[02Aug2025 02:34:16.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Entrelex) moved wrongly! 0.35015249182157504
+[02Aug2025 02:34:16.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Entrelex) moved wrongly! 0.6707880712942256
+[02Aug2025 02:34:16.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Entrelex) moved wrongly! 0.8598618804295484
+[02Aug2025 02:34:25.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Entrelex) moved wrongly! 0.6523441383327935
+[02Aug2025 02:34:26.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Entrelex) moved wrongly! 0.8243915156604089
+[02Aug2025 02:34:31.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Entrelex) moved wrongly! 0.2695307307355961
+[02Aug2025 02:34:58.670] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-293, y=41, z=-327} but found not block entity block Block{minecraft:air} at location
+[02Aug2025 02:34:58.670] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-293, y=41, z=-327}
+[02Aug2025 02:35:53.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to Pedkko]
+[02Aug2025 02:36:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Ambush]
+[02Aug2025 02:36:50.085] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:36:50.086] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:36:50.087] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:36:50.087] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:36:50.088] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:36:50.090] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:36:50.090] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:36:50.091] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:36:50.091] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:36:50.091] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:37:13.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was shot by Skeleton
+[02Aug2025 02:37:13.776] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 02:37:22.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[02Aug2025 02:38:00.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was poked to death by a sweet berry bush
+[02Aug2025 02:38:00.323] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:38:12.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[02Aug2025 02:38:17.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was slain by Entrelex
+[02Aug2025 02:38:17.518] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:38:30.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:40:12.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[02Aug2025 02:41:30.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Spectator Mode]
+[02Aug2025 02:41:44.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-357, y=72, z=-86}
+[02Aug2025 02:41:44.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=76, z=-87}
+[02Aug2025 02:41:44.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-353, y=77, z=-86}
+[02Aug2025 02:41:44.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=71, z=-94}
+[02Aug2025 02:41:50.464] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-352, y=77, z=-83}
+[02Aug2025 02:41:58.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Aug2025 02:42:24.212] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=75, z=-939}
+[02Aug2025 02:42:24.212] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=72, z=-940}
+[02Aug2025 02:42:42.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Spectator Mode]
+[02Aug2025 02:42:47.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Labyrinth]
+[02Aug2025 02:42:48.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was shot by Skeleton
+[02Aug2025 02:42:48.899] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:42:49.100] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[02Aug2025 02:43:00.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Aug2025 02:43:04.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[02Aug2025 02:43:30.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Labyrinth]
+[02Aug2025 02:43:31.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ fell from a high place
+[02Aug2025 02:43:31.332] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:43:39.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito fell from a high place
+[02Aug2025 02:43:39.811] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:43:39.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Labyrinth]
+[02Aug2025 02:43:45.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 02:43:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Getting an Upgrade]
+[02Aug2025 02:44:36.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:44:44.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Stone Age]
+[02Aug2025 02:45:58.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was shot by Skeleton
+[02Aug2025 02:45:58.070] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:46:02.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:46:06.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Ashes 'n Bones]
+[02Aug2025 02:46:09.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=68, y=68, z=39}
+[02Aug2025 02:46:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:46:13.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Not Today, Thank You]
+[02Aug2025 02:46:20.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAYJAYZ was kicked for floating too long!
+[02Aug2025 02:46:20.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAYJAYZ lost connection: Flying is not enabled on this server
+[02Aug2025 02:46:20.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ left the game
+[02Aug2025 02:46:20.175] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JAYJAYZ
+[02Aug2025 02:46:34.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Skeleton
+[02Aug2025 02:46:34.369] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:46:42.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAYJAYZ[/127.254.106.117:37173] logged in with entity id 28705 at (-424.50028133000063, 16.00861519824143, -376.6221940449867)
+[02Aug2025 02:46:42.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ joined the game
+[02Aug2025 02:46:42.475] [Server thread/INFO] [Jade/]: Syncing config to JAYJAYZ (5a6ec088-4690-3feb-8ffc-c38424d83e27)
+[02Aug2025 02:46:42.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 02:46:43.323] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JAYJAYZ (18)
+[02Aug2025 02:46:43.324] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JAYJAYZ
+[02Aug2025 02:46:53.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5a6ec088-4690-3feb-8ffc-c38424d83e27
+[02Aug2025 02:46:54.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5a6ec088-4690-3feb-8ffc-c38424d83e27
+[02Aug2025 02:46:54.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JAYJAYZ (5a6ec088-4690-3feb-8ffc-c38424d83e27) successfully connected to voice chat
+[02Aug2025 02:46:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was shot by Skeleton
+[02Aug2025 02:46:59.320] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:47:11.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has reached the goal [Easy Opening]
+[02Aug2025 02:47:13.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[02Aug2025 02:47:36.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [The Most Useful Key]
+[02Aug2025 02:47:41.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [A Fast Comeback]
+[02Aug2025 02:47:42.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [Easy Opening]
+[02Aug2025 02:48:20.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Aug2025 02:48:25.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:49:02.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 02:49:17.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was shot by Skeleton
+[02Aug2025 02:49:17.131] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 02:49:26.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ fell from a high place
+[02Aug2025 02:49:26.242] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:49:27.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [The Most Useful Key]
+[02Aug2025 02:49:43.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has reached the goal [A Fast Comeback]
+[02Aug2025 02:49:52.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 02:49:59.023] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:49:59.042] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:49:59.042] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:49:59.048] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:49:59.051] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:49:59.053] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:49:59.053] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:49:59.056] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:49:59.058] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:49:59.077] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:49:59.090] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Aug2025 02:50:03.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Entrelex> WW
+[02Aug2025 02:50:07.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[02Aug2025 02:50:16.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Aug2025 02:50:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was shot by Skeleton
+[02Aug2025 02:50:17.741] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:50:22.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:50:26.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:50:28.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 02:51:04.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Skeleton
+[02Aug2025 02:51:04.437] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:51:07.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Acquire Hardware]
+[02Aug2025 02:51:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to JAYJAYZ]
+[02Aug2025 02:51:12.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was shot by Skeleton
+[02Aug2025 02:51:12.230] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:51:24.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 02:51:33.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:52:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [The Most Useful Key]
+[02Aug2025 02:52:17.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has reached the goal [A Fast Comeback]
+[02Aug2025 02:52:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:52:27.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Mimic
+[02Aug2025 02:52:27.723] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[02Aug2025 02:52:34.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was shot by Skeleton
+[02Aug2025 02:52:34.231] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:52:46.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:57:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 02:57:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Getting an Upgrade]
+[02Aug2025 02:57:34.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[02Aug2025 02:57:34.642] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 02:57:38.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 02:57:38.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by JAYJAYZ
+[02Aug2025 02:57:39.055] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 02:57:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was slain by Zombie
+[02Aug2025 02:57:55.778] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 02:57:57.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 02:58:17.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 02:58:49.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Entrelex to pablito]
+[02Aug2025 02:59:41.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 03:00:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Labyrinth]
+[02Aug2025 03:01:15.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Acquire Hardware]
+[02Aug2025 03:02:16.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Suit Up]
+[02Aug2025 03:04:36.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 03:04:38.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Spawner Carrier
+[02Aug2025 03:04:38.467] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 03:04:43.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 03:05:00.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Pedkko to pablito]
+[02Aug2025 03:05:19.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Entrelex to pablito]
+[02Aug2025 03:05:55.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Cobweb Entanglement]
+[02Aug2025 03:05:57.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was spiked to death
+[02Aug2025 03:05:57.438] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 03:06:01.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Entrelex]
+[02Aug2025 03:06:09.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was spiked to death
+[02Aug2025 03:06:09.719] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 03:06:16.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[02Aug2025 03:06:20.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Entrelex]
+[02Aug2025 03:06:45.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Aug2025 03:06:59.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Entrelex]
+[02Aug2025 03:07:16.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Cobweb Entanglement]
+[02Aug2025 03:07:16.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Entrelex to pablito]
+[02Aug2025 03:07:43.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 03:10:38.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Cobweb Entanglement]
+[02Aug2025 03:11:43.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was slain by Zombie
+[02Aug2025 03:11:43.720] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 03:12:01.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 03:12:08.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Isn't It Iron Pick]
+[02Aug2025 03:12:32.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Acquire Hardware]
+[02Aug2025 03:12:35.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Isn't It Iron Pick]
+[02Aug2025 03:12:48.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Suit Up]
+[02Aug2025 03:13:04.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Isn't It Iron Pick]
+[02Aug2025 03:13:23.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ has made the advancement [Diamonds!]
+[02Aug2025 03:14:22.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Entrelex lost connection: Disconnected
+[02Aug2025 03:14:22.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex left the game
+[02Aug2025 03:14:22.308] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Entrelex
+[02Aug2025 03:15:04.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[02Aug2025 03:15:52.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Aug2025 03:16:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Not Today, Thank You]
+[02Aug2025 03:16:39.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was shot by Skeleton
+[02Aug2025 03:16:40.142] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 03:16:44.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was burnt to a crisp whilst fighting Skeleton
+[02Aug2025 03:16:44.438] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 03:16:54.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 3 entities to JAYJAYZ]
+[02Aug2025 03:17:22.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Spawner Carrier
+[02Aug2025 03:17:23.310] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 03:17:32.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 03:17:54.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [A Strange Grave Dust]
+[02Aug2025 03:19:42.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Cobweb Entanglement]
+[02Aug2025 03:21:10.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 03:23:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Take Aim]
+[02Aug2025 03:23:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ was spiked to death
+[02Aug2025 03:23:52.616] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 03:24:09.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported JAYJAYZ to pablito]
+[02Aug2025 03:24:23.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Ashes 'n Bones]
+[02Aug2025 03:24:54.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to JAYJAYZ]
+[02Aug2025 03:25:13.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[02Aug2025 03:25:20.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Aug2025 03:25:44.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to JAYJAYZ]
+[02Aug2025 03:25:45.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has reached the goal [Discreet Search]
+[02Aug2025 03:26:24.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 3 entities to Pedkko]
+[02Aug2025 03:26:33.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Ashes 'n Bones]
+[02Aug2025 03:27:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 3 entities to Pedkko]
+[02Aug2025 03:28:32.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ fell from a high place
+[02Aug2025 03:28:32.969] [Server thread/INFO] [tombstone/]: The player JAYJAYZ has successfully been saved
+[02Aug2025 03:28:43.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 3 entities to Pedkko]
+[02Aug2025 03:28:53.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[02Aug2025 03:28:53.470] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[02Aug2025 03:28:57.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 3 entities to Pedkko]
+[02Aug2025 03:29:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Zombie
+[02Aug2025 03:29:13.271] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[02Aug2025 03:29:22.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Pedkko]
+[02Aug2025 03:29:33.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 3 entities to JAYJAYZ]
+[02Aug2025 03:30:05.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[02Aug2025 03:30:15.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[02Aug2025 03:30:40.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 3 entities to JAYJAYZ]
+[02Aug2025 03:30:49.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[02Aug2025 03:30:49.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[02Aug2025 03:30:49.910] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[02Aug2025 03:30:49.959] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Aug2025 03:30:57.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pedkko lost connection: Disconnected
+[02Aug2025 03:30:57.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko left the game
+[02Aug2025 03:30:57.654] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pedkko
+[02Aug2025 03:30:59.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAYJAYZ lost connection: Disconnected
+[02Aug2025 03:30:59.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAYJAYZ left the game
+[02Aug2025 03:30:59.859] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JAYJAYZ
+[02Aug2025 03:31:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Aug2025 03:31:12.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Aug2025 03:31:12.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Aug2025 03:31:12.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Aug2025 03:31:12.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Aug2025 03:31:12.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Aug2025 03:31:12.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[02Aug2025 03:31:12.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[02Aug2025 03:31:12.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[02Aug2025 03:31:12.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Aug2025 03:31:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Aug2025 03:31:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Aug2025 03:31:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[02Aug2025 03:31:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[02Aug2025 03:31:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[02Aug2025 03:31:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Aug2025 03:31:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Aug2025 03:31:13.013] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
