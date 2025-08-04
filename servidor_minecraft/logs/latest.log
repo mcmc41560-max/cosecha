@@ -2724,3 +2724,375 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [04Aug2025 03:11:32.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Entrelex
 [04Aug2025 03:11:32.828] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
 [04Aug2025 03:11:47.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> ./kick
+[04Aug2025 03:11:59.051] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.091] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.133] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.134] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.155] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.160] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.168] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.171] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.174] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.178] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.194] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.220] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:11:59.228] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:12:06.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Stone Age]
+[04Aug2025 03:12:20.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuel_Vo> ./modo dios poner
+[04Aug2025 03:12:22.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuel_Vo> ./modo dios
+[04Aug2025 03:12:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Getting an Upgrade]
+[04Aug2025 03:12:59.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> ./modo volar
+[04Aug2025 03:13:16.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuel_Vo> ./gamemode modo dios
+[04Aug2025 03:13:22.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuel_Vo> ./gaymode creativo
+[04Aug2025 03:14:01.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was shot by Skeleton
+[04Aug2025 03:14:01.267] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[04Aug2025 03:14:12.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set the time to 1000]
+[04Aug2025 03:14:13.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was shot by Stray
+[04Aug2025 03:14:13.676] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[04Aug2025 03:14:43.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Dungeon Now Loading]
+[04Aug2025 03:15:11.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has reached the goal [Chain Death]
+[04Aug2025 03:15:11.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was shot by Stray
+[04Aug2025 03:15:11.366] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[04Aug2025 03:15:20.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Stone Age]
+[04Aug2025 03:15:55.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Getting an Upgrade]
+[04Aug2025 03:16:16.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Acquire Hardware]
+[04Aug2025 03:16:32.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Acquire Hardware]
+[04Aug2025 03:17:21.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Suit Up]
+[04Aug2025 03:17:37.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Zombie
+[04Aug2025 03:17:37.630] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 03:18:25.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Entrelex was kicked for floating too long!
+[04Aug2025 03:18:25.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Entrelex lost connection: Flying is not enabled on this server
+[04Aug2025 03:18:25.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex left the game
+[04Aug2025 03:18:25.669] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Entrelex
+[04Aug2025 03:18:48.816] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:18:48.817] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:18:48.817] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:18:48.817] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:18:48.818] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:18:48.818] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:18:48.818] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:19:00.316] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@718edef6[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:34173) lost connection: Disconnected
+[04Aug2025 03:19:04.713] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=75, z=-939}
+[04Aug2025 03:19:04.717] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=72, z=-940}
+[04Aug2025 03:19:10.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Entrelex[/127.115.65.189:47601] logged in with entity id 6360 at (-252.3386610759041, 100.0421799624104, -4.572236067271243)
+[04Aug2025 03:19:10.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex joined the game
+[04Aug2025 03:19:10.319] [Server thread/INFO] [Jade/]: Syncing config to Entrelex (519e51c4-bf36-3fd4-8b29-d874c67be983)
+[04Aug2025 03:19:10.520] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Entrelex (18)
+[04Aug2025 03:19:10.520] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Entrelex
+[04Aug2025 03:19:26.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Suit Up]
+[04Aug2025 03:19:43.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Monster Hunter]
+[04Aug2025 03:19:44.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Monster Hunter]
+[04Aug2025 03:21:41.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuel_Vo lost connection: Disconnected
+[04Aug2025 03:21:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo left the game
+[04Aug2025 03:21:41.077] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Samuel_Vo
+[04Aug2025 03:21:49.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samuel_Vo[/127.1.178.73:43723] logged in with entity id 7767 at (115.69265618013765, 65.0, -183.92072666662784)
+[04Aug2025 03:21:49.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo joined the game
+[04Aug2025 03:21:49.437] [Server thread/INFO] [Jade/]: Syncing config to Samuel_Vo (50579238-368b-3eb7-a350-69741911faca)
+[04Aug2025 03:21:49.603] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Samuel_Vo (18)
+[04Aug2025 03:21:49.604] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Samuel_Vo
+[04Aug2025 03:22:04.580] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[04Aug2025 03:22:32.378] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=75, z=-939}
+[04Aug2025 03:22:32.379] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=72, z=-940}
+[04Aug2025 03:23:54.382] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[04Aug2025 03:23:56.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Acquire Hardware]
+[04Aug2025 03:24:18.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Suit Up]
+[04Aug2025 03:24:27.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-357, y=72, z=-86}
+[04Aug2025 03:24:27.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=76, z=-87}
+[04Aug2025 03:24:27.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-353, y=77, z=-86}
+[04Aug2025 03:24:27.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=71, z=-94}
+[04Aug2025 03:24:32.051] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[04Aug2025 03:24:32.052] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-132, y=116, z=93}
+[04Aug2025 03:24:32.052] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-130, y=116, z=92}
+[04Aug2025 03:24:32.052] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[04Aug2025 03:24:32.053] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-132, y=117, z=99}
+[04Aug2025 03:24:32.053] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-129, y=117, z=101}
+[04Aug2025 03:24:32.053] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[04Aug2025 03:24:32.054] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=116, z=99}
+[04Aug2025 03:24:34.055] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-352, y=77, z=-83}
+[04Aug2025 03:24:37.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Isn't It Iron Pick]
+[04Aug2025 03:24:41.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Not Today, Thank You]
+[04Aug2025 03:24:49.330] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=75, z=-939}
+[04Aug2025 03:24:49.330] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=72, z=-940}
+[04Aug2025 03:24:53.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set own game mode to Creative Mode]
+[04Aug2025 03:24:53.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Knowledge of Death]
+[04Aug2025 03:24:53.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [A Strange Grave Dust]
+[04Aug2025 03:25:16.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set own game mode to Survival Mode]
+[04Aug2025 03:25:21.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Monster Hunter]
+[04Aug2025 03:30:05.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [A Strange Grave Dust]
+[04Aug2025 03:30:54.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was shot by Skeleton
+[04Aug2025 03:30:54.306] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 03:32:16.991] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:32:16.995] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:32:16.998] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:32:17.001] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:32:17.001] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:32:17.002] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:32:17.004] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:32:17.008] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:32:25.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Isn't It Iron Pick]
+[04Aug2025 03:33:33.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Not Today, Thank You]
+[04Aug2025 03:34:01.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex fell from a high place
+[04Aug2025 03:34:01.533] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 03:34:08.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was shot by Skeleton
+[04Aug2025 03:34:08.880] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[04Aug2025 03:35:00.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Knowledge of Death]
+[04Aug2025 03:35:00.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has reached the goal [Chain Death]
+[04Aug2025 03:35:00.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan fell from a high place
+[04Aug2025 03:35:00.741] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[04Aug2025 03:35:21.544] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.546] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.548] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.548] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.551] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.553] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.555] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.557] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.563] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.567] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.568] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:21.582] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:35:22.693] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=75, z=-939}
+[04Aug2025 03:35:22.693] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=72, z=-940}
+[04Aug2025 03:37:04.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set own game mode to Spectator Mode]
+[04Aug2025 03:37:06.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Pedkko]
+[04Aug2025 03:37:19.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set own game mode to Survival Mode]
+[04Aug2025 03:38:49.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Acquire Hardware]
+[04Aug2025 03:42:35.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Isn't It Iron Pick]
+[04Aug2025 03:44:09.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Monster Hunter]
+[04Aug2025 03:44:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> espere
+[04Aug2025 03:45:05.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> me quedan 6
+[04Aug2025 03:45:34.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> jajjaj
+[04Aug2025 03:45:39.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Silverfish
+[04Aug2025 03:45:39.331] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 03:46:19.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[04Aug2025 03:47:23.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Sneak 100]
+[04Aug2025 03:51:10.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was shot by Skeleton
+[04Aug2025 03:51:10.127] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 03:51:20.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[04Aug2025 03:52:21.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by juan
+[04Aug2025 03:52:21.639] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[04Aug2025 03:52:32.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Pedkko to juan]
+[04Aug2025 03:55:16.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuel_Vo> ./comida llenar
+[04Aug2025 03:57:21.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> ./kick
+[04Aug2025 03:57:35.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Samuel_Vo> ./twitch
+[04Aug2025 03:57:42.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> ./ban
+[04Aug2025 03:57:56.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Summoned new Creeper]
+[04Aug2025 03:57:58.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was blown up by Creeper
+[04Aug2025 03:57:58.447] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 03:58:10.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[04Aug2025 03:58:40.555] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:58:40.561] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:58:40.562] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:58:40.564] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:58:40.564] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:58:40.567] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:58:40.569] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:58:40.574] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:58:40.574] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:58:40.585] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 03:58:40.590] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:01:24.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> ./tp Samuel_Vo
+[04Aug2025 04:01:55.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> por 3 mamadas?
+[04Aug2025 04:02:08.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> jajjajjaj
+[04Aug2025 04:02:41.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> ./tp Samuel harker
+[04Aug2025 04:03:30.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> con agua
+[04Aug2025 04:04:26.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> JJAJJAJJAJ
+[04Aug2025 04:04:47.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> lit hablo y me escuchan y apagan el wifi jajjaj
+[04Aug2025 04:04:56.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> por hacer ruido
+[04Aug2025 04:05:18.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> ./tp Samuel juan
+[04Aug2025 04:05:36.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> ./tp Samuel juan juan samuel
+[04Aug2025 04:06:01.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was impaled on a stalagmite
+[04Aug2025 04:06:01.925] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 04:06:03.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set own game mode to Spectator Mode]
+[04Aug2025 04:06:19.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set own game mode to Survival Mode]
+[04Aug2025 04:06:24.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[04Aug2025 04:07:26.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [juan] hola
+[04Aug2025 04:09:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> no
+[04Aug2025 04:11:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Entrelex> }
+[04Aug2025 04:11:51.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Summoned new Creeper]
+[04Aug2025 04:11:53.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was blown up by Creeper
+[04Aug2025 04:11:53.771] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 04:12:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> HAHAHHJAJJA
+[04Aug2025 04:12:13.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to Pedkko]
+[04Aug2025 04:13:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [A Strange Grave Dust]
+[04Aug2025 04:13:15.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Ashes 'n Bones]
+[04Aug2025 04:13:23.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Not Today, Thank You]
+[04Aug2025 04:14:24.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> aver
+[04Aug2025 04:14:40.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Gelada Monkey
+[04Aug2025 04:14:40.522] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[04Aug2025 04:14:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
+[04Aug2025 04:15:33.293] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=470, y=-58, z=365}
+[04Aug2025 04:15:33.293] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=474, y=-58, z=362}
+[04Aug2025 04:15:33.294] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=473, y=-58, z=367}
+[04Aug2025 04:15:33.294] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=473, y=-51, z=366}
+[04Aug2025 04:15:33.294] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=477, y=-59, z=366}
+[04Aug2025 04:15:33.294] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=474, y=-57, z=364}
+[04Aug2025 04:15:33.294] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=471, y=-59, z=368}
+[04Aug2025 04:15:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Magic Writing]
+[04Aug2025 04:16:21.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Simple Dungeon Room]
+[04Aug2025 04:16:25.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Ambush]
+[04Aug2025 04:16:26.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Not Today, Thank You]
+[04Aug2025 04:16:26.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has reached the goal [Strong or Careful]
+[04Aug2025 04:16:26.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo blew up
+[04Aug2025 04:16:26.785] [Server thread/INFO] [tombstone/]: The player Samuel_Vo has successfully been saved
+[04Aug2025 04:16:35.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> JAJJAJJAJ
+[04Aug2025 04:16:37.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> si bb
+[04Aug2025 04:16:41.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko was slain by Vindicator
+[04Aug2025 04:16:41.377] [Server thread/INFO] [tombstone/]: The player Pedkko has successfully been saved
+[04Aug2025 04:16:47.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Samuel_Vo to juan]
+[04Aug2025 04:17:19.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Pedkko to juan]
+[04Aug2025 04:17:52.997] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:17:52.999] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:17:53.000] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:17:53.005] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:17:53.005] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:17:53.009] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:17:53.010] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:17:53.011] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:17:53.011] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:17:53.016] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Aug2025 04:18:10.214] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-8, z=-108}
+[04Aug2025 04:18:10.555] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-7, z=-135}
+[04Aug2025 04:18:11.054] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-20, z=-146}
+[04Aug2025 04:18:11.054] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=683, y=-20, z=-145}
+[04Aug2025 04:18:11.054] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-20, z=-146}
+[04Aug2025 04:18:11.055] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-20, z=-146}
+[04Aug2025 04:18:11.055] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-20, z=-145}
+[04Aug2025 04:18:11.055] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-28, z=-145}
+[04Aug2025 04:18:11.055] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-29, z=-145}
+[04Aug2025 04:18:11.056] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-20, z=-139}
+[04Aug2025 04:18:11.056] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=685, y=-20, z=-138}
+[04Aug2025 04:18:11.056] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=686, y=-20, z=-144}
+[04Aug2025 04:18:11.056] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-28, z=-138}
+[04Aug2025 04:18:11.057] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-28, z=-142}
+[04Aug2025 04:18:11.057] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=-29, z=-140}
+[04Aug2025 04:18:11.057] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=683, y=-29, z=-139}
+[04Aug2025 04:18:11.058] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=689, y=-20, z=-146}
+[04Aug2025 04:18:11.059] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-21, z=-147}
+[04Aug2025 04:18:11.059] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-20, z=-146}
+[04Aug2025 04:18:11.059] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=691, y=-28, z=-145}
+[04Aug2025 04:18:11.060] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-29, z=-147}
+[04Aug2025 04:18:11.061] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-7, z=-145}
+[04Aug2025 04:18:11.061] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=690, y=-20, z=-144}
+[04Aug2025 04:18:11.061] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-20, z=-143}
+[04Aug2025 04:18:11.062] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-20, z=-144}
+[04Aug2025 04:18:11.062] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-21, z=-144}
+[04Aug2025 04:18:11.062] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-20, z=-139}
+[04Aug2025 04:18:11.063] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=690, y=-20, z=-144}
+[04Aug2025 04:18:11.063] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-21, z=-140}
+[04Aug2025 04:18:11.063] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-21, z=-141}
+[04Aug2025 04:18:11.064] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=692, y=-28, z=-143}
+[04Aug2025 04:18:11.064] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-27, z=-144}
+[04Aug2025 04:18:11.065] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-28, z=-139}
+[04Aug2025 04:18:11.065] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=692, y=-29, z=-137}
+[04Aug2025 04:18:11.065] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=694, y=-7, z=-140}
+[04Aug2025 04:18:13.601] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=676, y=-29, z=-142}
+[04Aug2025 04:18:13.601] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=676, y=-29, z=-140}
+[04Aug2025 04:18:18.230] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=663, y=-16, z=-109}
+[04Aug2025 04:18:31.676] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[04Aug2025 04:18:31.684] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[04Aug2025 04:18:31.685] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[04Aug2025 04:18:31.692] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[04Aug2025 04:18:31.693] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[04Aug2025 04:18:31.693] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[04Aug2025 04:18:31.836] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[04Aug2025 04:18:32.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> denme comida
+[04Aug2025 04:18:35.171] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[04Aug2025 04:18:35.171] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[04Aug2025 04:18:35.178] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[04Aug2025 04:18:35.178] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[04Aug2025 04:18:35.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[04Aug2025 04:18:35.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[04Aug2025 04:18:35.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[04Aug2025 04:18:35.184] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[04Aug2025 04:18:35.184] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[04Aug2025 04:18:35.184] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[04Aug2025 04:18:36.212] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[04Aug2025 04:18:56.500] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=559, y=-26, z=-250}
+[04Aug2025 04:18:56.501] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-26, z=-248}
+[04Aug2025 04:18:56.501] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-248}
+[04Aug2025 04:18:56.502] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-249}
+[04Aug2025 04:18:56.541] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-26, z=-242}
+[04Aug2025 04:18:56.542] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-12, z=-242}
+[04Aug2025 04:18:56.542] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-13, z=-242}
+[04Aug2025 04:19:03.501] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-13, z=-248}
+[04Aug2025 04:19:03.549] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-241}
+[04Aug2025 04:19:03.549] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-242}
+[04Aug2025 04:19:17.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> depende el nivel
+[04Aug2025 04:19:33.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> son como 4 pisos y en cuanto mas baje es mejor
+[04Aug2025 04:20:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> ya va
+[04Aug2025 04:20:33.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Pedkko]
+[04Aug2025 04:21:13.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Diamonds!]
+[04Aug2025 04:21:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Welcome To The Jungle]
+[04Aug2025 04:21:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [The Beginning of An Adventure]
+[04Aug2025 04:24:10.988] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[04Aug2025 04:24:18.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> pedro tome esto
+[04Aug2025 04:25:05.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> rhelados
+[04Aug2025 04:25:22.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> seguimos mañana me dio sueño jajjajja
+[04Aug2025 04:25:37.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> si ;c
+[04Aug2025 04:26:30.126] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=470, y=-58, z=365}
+[04Aug2025 04:26:30.126] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=474, y=-58, z=362}
+[04Aug2025 04:26:30.127] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=473, y=-58, z=367}
+[04Aug2025 04:26:30.127] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=473, y=-51, z=366}
+[04Aug2025 04:26:30.127] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=477, y=-59, z=366}
+[04Aug2025 04:26:30.127] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=474, y=-57, z=364}
+[04Aug2025 04:26:30.128] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=471, y=-59, z=368}
+[04Aug2025 04:26:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Ambush]
+[04Aug2025 04:26:48.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo was slain by Vindicator
+[04Aug2025 04:26:48.920] [Server thread/INFO] [tombstone/]: The player Samuel_Vo has successfully been saved
+[04Aug2025 04:26:51.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Vindicator
+[04Aug2025 04:26:51.726] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 04:27:09.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> pedro
+[04Aug2025 04:27:15.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> venga
+[04Aug2025 04:27:19.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> donde murieron?
+[04Aug2025 04:27:26.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has reached the goal [Chain Death]
+[04Aug2025 04:27:26.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was shot by Skeleton
+[04Aug2025 04:27:26.971] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 04:27:29.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Samuel_Vo to juan]
+[04Aug2025 04:27:35.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[04Aug2025 04:27:55.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> tiene comida?
+[04Aug2025 04:29:28.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was shot by Skeleton
+[04Aug2025 04:29:28.083] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[04Aug2025 04:29:32.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Pedkko]
+[04Aug2025 04:29:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Welcome To The Jungle]
+[04Aug2025 04:29:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [The Beginning of An Adventure]
+[04Aug2025 04:31:04.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> no
+[04Aug2025 04:31:12.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45900, l='ServerLevel[world]', x=-1097.97, y=63.00, z=513.41] died, message: 'Unemployed was slain by Entrelex'
+[04Aug2025 04:31:12.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Neighborhood Brawl]
+[04Aug2025 04:31:22.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> si ven un objeto que dicen ojo de algo llevenlo
+[04Aug2025 04:31:32.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> si
+[04Aug2025 04:31:53.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Mine? Mine? Mine?]
+[04Aug2025 04:31:57.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was blown up by Creeper
+[04Aug2025 04:31:57.535] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 04:32:08.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Samuel_Vo to Entrelex]
+[04Aug2025 04:32:13.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> JASJJAJSKKJLS
+[04Aug2025 04:32:17.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> perdon
+[04Aug2025 04:32:37.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Pedkko]
+[04Aug2025 04:32:46.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported 4 entities to juan]
+[04Aug2025 04:33:32.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> tiene comida¡
+[04Aug2025 04:34:07.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> samuel
+[04Aug2025 04:34:11.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> tiene comida?
+[04Aug2025 04:34:55.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> no
+[04Aug2025 04:35:39.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Mine? Mine? Mine?]
+[04Aug2025 04:35:43.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pedkko) moved wrongly! 0.47190648885418796
+[04Aug2025 04:35:44.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pedkko) moved wrongly! 0.8277221989518466
+[04Aug2025 04:35:48.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> harker ya llego?
+[04Aug2025 04:36:12.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Pedkko]
+[04Aug2025 04:36:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> a donde vamos?
+[04Aug2025 04:37:17.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> un delfin
+[04Aug2025 04:37:21.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> a no
+[04Aug2025 04:37:24.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> ballena
+[04Aug2025 04:39:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> y a mimir
+[04Aug2025 04:39:01.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> jajjaj
+[04Aug2025 04:39:12.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Labyrinth]
+[04Aug2025 04:39:15.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Labyrinth]
+[04Aug2025 04:39:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Suit Up]
+[04Aug2025 04:39:20.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pedkko has made the advancement [Labyrinth]
+[04Aug2025 04:39:42.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo has made the advancement [Take Aim]
+[04Aug2025 04:40:09.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juan> creo que es lo de cataclyms
+[04Aug2025 04:40:28.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Summoned new Creeper]
+[04Aug2025 04:40:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was blown up by Creeper
+[04Aug2025 04:40:30.516] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[04Aug2025 04:40:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[04Aug2025 04:40:53.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Ol' Betsy]
+[04Aug2025 04:42:30.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex has made the advancement [Take Aim]
