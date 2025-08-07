@@ -1408,3 +1408,52 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [07Aug2025 01:32:13.214] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@687f752f[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:41417): Took too long to log in
 [07Aug2025 01:32:13.214] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@687f752f[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:41417) lost connection: Took too long to log in
 [07Aug2025 01:32:13.264] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 01:34:00.764] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@167690a5[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:43871) lost connection: Disconnected
+[07Aug2025 01:34:23.760] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2086e91e[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:37097): Took too long to log in
+[07Aug2025 01:34:23.761] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2086e91e[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:37097) lost connection: Took too long to log in
+[07Aug2025 01:34:23.820] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 01:34:43.415] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@135b5fb7[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:47769) lost connection: Disconnected
+[07Aug2025 01:35:35.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21456036[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:37581) lost connection: Disconnected
+[07Aug2025 01:35:36.269] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e682791[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:48795) lost connection: Disconnected
+[07Aug2025 01:36:05.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuel_Vo lost connection: Disconnected
+[07Aug2025 01:36:05.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo left the game
+[07Aug2025 01:36:05.260] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Samuel_Vo
+[07Aug2025 01:36:07.297] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@466dce6b[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:48689) lost connection: Disconnected
+[07Aug2025 01:36:08.846] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3aabe478[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:38305) lost connection: Disconnected
+[07Aug2025 01:36:27.447] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dd26909[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:41673) lost connection: Disconnected
+[07Aug2025 01:36:43.146] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6bdfd1c2[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:42491): Took too long to log in
+[07Aug2025 01:36:43.147] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6bdfd1c2[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:42491) lost connection: Took too long to log in
+[07Aug2025 01:36:43.196] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 01:36:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Aug2025 01:36:57.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: difficuly easy<--[HERE]
+[07Aug2025 01:37:04.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samuel_Vo[/127.1.178.73:60701] logged in with entity id 16615 at (-1321.300000011921, -15.0, 318.4127626401635)
+[07Aug2025 01:37:04.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo joined the game
+[07Aug2025 01:37:04.221] [Server thread/INFO] [Jade/]: Syncing config to Samuel_Vo (50579238-368b-3eb7-a350-69741911faca)
+[07Aug2025 01:37:04.902] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Samuel_Vo (18)
+[07Aug2025 01:37:04.903] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Samuel_Vo
+[07Aug2025 01:37:11.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10b9b4ed[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:57411) lost connection: Disconnected
+[07Aug2025 01:37:29.612] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5bcccc29[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:57247): Took too long to log in
+[07Aug2025 01:37:29.613] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bcccc29[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:57247) lost connection: Took too long to log in
+[07Aug2025 01:37:29.665] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 01:37:36.715] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@582a0b60[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:38647) lost connection: Disconnected
+[07Aug2025 01:38:09.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuel_Vo lost connection: Disconnected
+[07Aug2025 01:38:09.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo left the game
+[07Aug2025 01:38:09.518] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Samuel_Vo
+[07Aug2025 01:38:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Aug2025 01:38:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Aug2025 01:38:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Aug2025 01:38:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Aug2025 01:38:12.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Aug2025 01:38:12.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[07Aug2025 01:38:12.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Aug2025 01:38:12.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[07Aug2025 01:38:12.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[07Aug2025 01:38:12.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Aug2025 01:38:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Aug2025 01:38:12.344] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
