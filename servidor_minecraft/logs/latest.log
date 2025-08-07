@@ -1368,3 +1368,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [07Aug2025 01:22:04.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [07Aug2025 01:22:04.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [07Aug2025 01:22:04.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Hollow
+[07Aug2025 01:22:51.022] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[07Aug2025 01:23:51.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
+[07Aug2025 01:24:07.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Entrelex lost connection: Timed out
+[07Aug2025 01:24:07.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex left the game
+[07Aug2025 01:24:07.674] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Entrelex
+[07Aug2025 01:24:10.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juan lost connection: Timed out
+[07Aug2025 01:24:10.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan left the game
+[07Aug2025 01:24:10.568] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juan
+[07Aug2025 01:24:42.417] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@632436ba[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:59739) lost connection: Disconnected
+[07Aug2025 01:25:36.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juan[/127.54.255.13:32895] logged in with entity id 13646 at (-1324.6498842072265, -17.0, 318.6379299552518)
+[07Aug2025 01:25:36.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan joined the game
+[07Aug2025 01:25:37.035] [Server thread/INFO] [Jade/]: Syncing config to juan (a0acb011-c7e4-33ae-9a02-7d7f14e4cd7d)
+[07Aug2025 01:25:37.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:25:37.922] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juan (18)
+[07Aug2025 01:25:37.923] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juan
+[07Aug2025 01:25:58.662] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28e301b[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:58367) lost connection: Disconnected
+[07Aug2025 01:26:07.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juan lost connection: Timed out
+[07Aug2025 01:26:07.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan left the game
+[07Aug2025 01:26:07.067] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juan
+[07Aug2025 01:26:07.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Entrelex[/127.115.65.189:45163] logged in with entity id 13770 at (-1326.2849087857205, -17.99866402088785, 318.69999998807907)
+[07Aug2025 01:26:07.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex joined the game
+[07Aug2025 01:26:07.628] [Server thread/INFO] [Jade/]: Syncing config to Entrelex (519e51c4-bf36-3fd4-8b29-d874c67be983)
+[07Aug2025 01:26:08.415] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Entrelex (18)
+[07Aug2025 01:26:08.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Entrelex
+[07Aug2025 01:26:55.516] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@756f1d01[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:52999) lost connection: Disconnected
+[07Aug2025 01:27:07.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Entrelex lost connection: Timed out
+[07Aug2025 01:27:07.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex left the game
+[07Aug2025 01:27:07.723] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Entrelex
+[07Aug2025 01:27:34.316] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c4e52ea[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:57411) lost connection: Timed out
+[07Aug2025 01:27:50.665] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c332394[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:54265) lost connection: Disconnected
+[07Aug2025 01:28:23.564] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1377ef49[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:57169) lost connection: Disconnected
+[07Aug2025 01:29:27.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ffff24a[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:48913) lost connection: Disconnected
+[07Aug2025 01:30:47.915] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@298f5df5[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:37223): Took too long to log in
+[07Aug2025 01:30:47.916] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@298f5df5[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:37223) lost connection: Took too long to log in
+[07Aug2025 01:30:47.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 01:31:15.415] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@424bfab0[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:36455) lost connection: Disconnected
+[07Aug2025 01:32:13.214] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@687f752f[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:41417): Took too long to log in
+[07Aug2025 01:32:13.214] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@687f752f[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:41417) lost connection: Took too long to log in
+[07Aug2025 01:32:13.264] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
