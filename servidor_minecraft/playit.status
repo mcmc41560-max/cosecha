@@ -1,184 +1,1096 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1754276196663 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1754531214125 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276199775 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531217235 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276202871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531220350 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276205979 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531223466 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276209070 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531226603 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276212161 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531229718 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276215255 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531232822 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276218354 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531235933 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276221459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531239041 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276224557 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531242159 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276227654 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531245269 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276230749 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531248372 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276233851 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531251481 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276236947 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531254588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276240050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531257716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276243142 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531260815 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276246235 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531263946 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276249332 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531267060 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276252431 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531270172 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276255530 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531273284 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276258629 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531276391 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276261724 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531279492 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276264824 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531282622 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276267922 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531285728 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276271019 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531288856 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276274115 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531291957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276277208 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531295055 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276280309 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531298161 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276283417 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531301280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276286513 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531304384 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1754276289636 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1754531307485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531310600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531313702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531316808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531319915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531323020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531326156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531329258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531332415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531335523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531338626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531341749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531344850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531347955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531351069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531354179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531357280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531360388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531363499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531366614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531369729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531372837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531375942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531379045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531382153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531385273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531388375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531391495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531394603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531397704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531400827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531403947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531407081 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531410183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531413282 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531416383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531419495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531422608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531425719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531428840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531431993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531435113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531438222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531441323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531444443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531447556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531450669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531453770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531456879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531459998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531463099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531466245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531469363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531472459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531475554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531478654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531481748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531484850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531487962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531491062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531494168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531497265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531500373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531503472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531506575 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531509691 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531512800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531515901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531519013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531522121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531525233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531528353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531531458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531534567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531537658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531540786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531543886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531546978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531550080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531553188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531556288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531559381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531562484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531565583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531568704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531571799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531574898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531577994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531581091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531584186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531587289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531590400 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531593506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531596601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531599697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531602793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531605911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531609026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531612134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531615290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531618394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531621492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531624588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531627680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531630782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531633886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531636975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531640079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531643179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531646282 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531649377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531652469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531655568 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531658665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531661771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531664873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531667970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531671078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531674183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531677280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531680405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531683500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531686604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531689710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531692804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531695899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531698995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531702088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531705197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531708300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531711403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531714502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531717612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531720721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531723827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531726936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531730031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531733132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531736256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531739356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531742455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531745585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531748712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531751811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531754914 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531758015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531761120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531764227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531767328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531770430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531773529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531776629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+status-blogger.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+starting-strict.gl.at.ply.gg:4155 => 127.0.0.1:4155 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1754531779731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
