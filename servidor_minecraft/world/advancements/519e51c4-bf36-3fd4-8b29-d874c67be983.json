@@ -100,6 +100,7 @@
       "minecraft:grove": "2025-08-04 03:30:40 +0000",
       "minecraft:cold_ocean": "2025-08-04 04:35:55 +0000",
       "minecraft:forest": "2025-08-04 03:03:54 +0000",
+      "minecraft:lush_caves": "2025-08-07 01:01:22 +0000",
       "minecraft:ocean": "2025-08-04 04:20:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-04 04:31:49 +0000",
       "minecraft:meadow": "2025-08-04 03:11:56 +0000"
@@ -765,7 +766,9 @@
       "pumpkin_pie": "2025-08-04 04:43:01 +0000",
       "bread": "2025-08-04 03:28:18 +0000",
       "rotten_flesh": "2025-08-07 00:57:45 +0000",
+      "glow_berries": "2025-08-07 01:04:34 +0000",
       "melon_slice": "2025-08-04 04:13:41 +0000",
+      "golden_carrot": "2025-08-07 01:09:16 +0000",
       "cod": "2025-08-04 04:41:32 +0000"
     },
     "done": false
@@ -1838,9 +1841,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-07 01:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-07 01:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-08-07 01:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-07 01:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-07 01:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-07 01:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-07 01:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-07 01:06:56 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-08-07 00:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-07 01:05:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-08-07 01:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-07 01:06:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-08-07 01:06:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-08-07 00:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-07 01:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-07 01:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-07 01:06:56 +0000"
     },
     "done": true
   },

@@ -1266,3 +1266,105 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 [07Aug2025 00:56:45.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Zombie
 [07Aug2025 00:56:45.945] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
 [07Aug2025 00:56:51.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
+[07Aug2025 01:02:05.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juan lost connection: You logged in from another location
+[07Aug2025 01:02:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan left the game
+[07Aug2025 01:02:05.024] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juan
+[07Aug2025 01:02:05.075] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 01:02:05.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juan[/127.54.255.13:40777] logged in with entity id 2917 at (-1169.699999988079, 7.0, 309.64111979869386)
+[07Aug2025 01:02:05.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan joined the game
+[07Aug2025 01:02:05.174] [Server thread/INFO] [Jade/]: Syncing config to juan (a0acb011-c7e4-33ae-9a02-7d7f14e4cd7d)
+[07Aug2025 01:02:05.279] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juan (18)
+[07Aug2025 01:02:05.281] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juan
+[07Aug2025 01:02:23.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juan lost connection: You logged in from another location
+[07Aug2025 01:02:23.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan left the game
+[07Aug2025 01:02:23.266] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juan
+[07Aug2025 01:02:23.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juan[/127.54.255.13:43379] logged in with entity id 2959 at (-1169.699999988079, 7.0, 309.64111979869386)
+[07Aug2025 01:02:23.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan joined the game
+[07Aug2025 01:02:23.351] [Server thread/INFO] [Jade/]: Syncing config to juan (a0acb011-c7e4-33ae-9a02-7d7f14e4cd7d)
+[07Aug2025 01:02:23.470] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juan (18)
+[07Aug2025 01:02:23.470] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juan
+[07Aug2025 01:02:43.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Zombie
+[07Aug2025 01:02:43.176] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[07Aug2025 01:02:56.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[07Aug2025 01:14:26.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was blown up by Creeper
+[07Aug2025 01:14:26.727] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[07Aug2025 01:14:33.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
+[07Aug2025 01:15:35.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was shot by Skeleton
+[07Aug2025 01:15:35.079] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[07Aug2025 01:15:38.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
+[07Aug2025 01:16:09.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[07Aug2025 01:16:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Hollow
+[07Aug2025 01:16:22.273] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[07Aug2025 01:16:26.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[07Aug2025 01:17:08.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[07Aug2025 01:17:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Hollow
+[07Aug2025 01:17:09.531] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[07Aug2025 01:17:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Hollow
+[07Aug2025 01:17:14.178] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[07Aug2025 01:17:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Entrelex to juan
+[07Aug2025 01:17:33.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samuel_Vo[/127.1.178.73:42731] logged in with entity id 8606 at (-1192.699999988079, 22.0, 348.69999998807907)
+[07Aug2025 01:17:33.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo joined the game
+[07Aug2025 01:17:33.870] [Server thread/INFO] [Jade/]: Syncing config to Samuel_Vo (50579238-368b-3eb7-a350-69741911faca)
+[07Aug2025 01:17:35.161] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Samuel_Vo (18)
+[07Aug2025 01:17:35.161] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Samuel_Vo
+[07Aug2025 01:17:36.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
+[07Aug2025 01:17:38.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has reached the goal [Discreet Search]
+[07Aug2025 01:17:41.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Hollow
+[07Aug2025 01:17:41.579] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
+[07Aug2025 01:17:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Hollow
+[07Aug2025 01:17:46.836] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[07Aug2025 01:17:49.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
+[07Aug2025 01:18:03.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Samuel_Vo]
+[07Aug2025 01:18:08.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
+[07Aug2025 01:19:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Samuel_Vo]
+[07Aug2025 01:20:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Spider
+[07Aug2025 01:20:29.322] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
+[07Aug2025 01:20:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
+[07Aug2025 01:21:48.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set own game mode to Spectator Mode]
+[07Aug2025 01:21:57.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set own game mode to Survival Mode]
+[07Aug2025 01:21:59.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:21:59.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:00.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:00.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:00.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:00.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:00.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:00.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:00.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:00.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:00.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:00.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:01.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:01.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:01.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:01.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:01.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:01.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:01.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:01.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:01.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:01.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:02.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:02.123] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:02.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:02.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:02.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:02.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:02.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:02.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:02.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:02.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:03.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:03.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:03.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:03.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:03.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:03.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:03.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:03.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:03.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:03.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:04.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:04.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:04.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Aug2025 01:22:04.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
