@@ -1,24 +1,24 @@
-[07Aug2025 00:51:56.363] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[07Aug2025 00:51:56.369] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[07Aug2025 00:52:02.884] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[07Aug2025 00:52:03.035] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cosecha/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[07Aug2025 00:52:03.513] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[07Aug2025 00:52:03.516] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Aug2025 00:52:03.517] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Aug2025 00:52:03.517] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Aug2025 00:52:03.685] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[07Aug2025 00:52:06.147] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07Aug2025 00:52:06.344] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[07Aug2025 00:52:06.347] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[07Aug2025 00:52:06.471] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[07Aug2025 00:52:06.502] [main/WARN] [mixin/]: Reference map 'mixins.dungeons_plus.refmap.json' for mixins.dungeons_plus.json could not be read. If this is a development environment you can ignore this message
-[07Aug2025 00:52:06.515] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Aug2025 00:52:06.531] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Aug2025 00:52:06.533] [main/WARN] [mixin/]: Reference map 'mixins.luminous_nether.refmap.json' for mixins.luminous_nether.json could not be read. If this is a development environment you can ignore this message
-[07Aug2025 00:52:08.616] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[07Aug2025 00:52:16.413] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
-[07Aug2025 00:52:17.220] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@16132f21 on thread Thread[modloading-worker-0,5,main]
-[07Aug2025 00:52:17.221] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[07Aug2025 01:39:12.744] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07Aug2025 01:39:12.749] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[07Aug2025 01:39:14.483] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Aug2025 01:39:14.551] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cosecha/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07Aug2025 01:39:15.020] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07Aug2025 01:39:15.030] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Aug2025 01:39:15.034] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Aug2025 01:39:15.039] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cosecha/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Aug2025 01:39:15.261] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[07Aug2025 01:39:18.003] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Aug2025 01:39:18.218] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[07Aug2025 01:39:18.223] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07Aug2025 01:39:18.361] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[07Aug2025 01:39:18.394] [main/WARN] [mixin/]: Reference map 'mixins.dungeons_plus.refmap.json' for mixins.dungeons_plus.json could not be read. If this is a development environment you can ignore this message
+[07Aug2025 01:39:18.409] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Aug2025 01:39:18.425] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Aug2025 01:39:18.428] [main/WARN] [mixin/]: Reference map 'mixins.luminous_nether.refmap.json' for mixins.luminous_nether.json could not be read. If this is a development environment you can ignore this message
+[07Aug2025 01:39:20.611] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07Aug2025 01:39:28.339] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000, already redirected by dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000
+[07Aug2025 01:39:29.051] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@16132f21 on thread Thread[modloading-worker-0,5,main]
+[07Aug2025 01:39:29.052] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -66,30 +66,30 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Aug2025 00:52:17.231] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[07Aug2025 00:52:17.728] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
-[07Aug2025 00:52:17.741] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[07Aug2025 00:52:18.255] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[07Aug2025 00:52:18.256] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[07Aug2025 00:52:18.260] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[07Aug2025 00:52:18.260] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[07Aug2025 00:52:18.588] [modloading-worker-0/INFO] [com.teamdurt.netherdungeons.NetherDungeons/]: Nether Dungeons mod init finished.
-[07Aug2025 00:52:18.916] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.56.
-[07Aug2025 00:52:22.846] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[07Aug2025 00:52:22.857] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[07Aug2025 00:52:22.859] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[07Aug2025 00:52:22.861] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[07Aug2025 00:52:23.230] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[07Aug2025 00:52:23.285] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[07Aug2025 00:52:23.360] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[07Aug2025 00:52:23.374] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[07Aug2025 00:52:23.375] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[07Aug2025 00:52:23.382] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[07Aug2025 00:52:23.384] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[07Aug2025 00:52:23.387] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[07Aug2025 00:52:23.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[07Aug2025 00:52:23.720] [main/INFO] [journeymap/]: Initializing Packet Registries
-[07Aug2025 00:52:23.739] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[07Aug2025 01:39:29.059] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[07Aug2025 01:39:29.821] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[07Aug2025 01:39:29.940] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[07Aug2025 01:39:30.471] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[07Aug2025 01:39:30.472] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[07Aug2025 01:39:30.492] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07Aug2025 01:39:30.492] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07Aug2025 01:39:30.835] [modloading-worker-0/INFO] [com.teamdurt.netherdungeons.NetherDungeons/]: Nether Dungeons mod init finished.
+[07Aug2025 01:39:31.105] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.56.
+[07Aug2025 01:39:35.783] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[07Aug2025 01:39:35.799] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[07Aug2025 01:39:35.808] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[07Aug2025 01:39:35.813] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[07Aug2025 01:39:36.208] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[07Aug2025 01:39:36.259] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[07Aug2025 01:39:36.412] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[07Aug2025 01:39:36.433] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[07Aug2025 01:39:36.437] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[07Aug2025 01:39:36.453] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[07Aug2025 01:39:36.453] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[07Aug2025 01:39:36.454] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[07Aug2025 01:39:36.562] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[07Aug2025 01:39:36.863] [main/INFO] [journeymap/]: Initializing Packet Registries
+[07Aug2025 01:39:36.899] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -104,59 +104,59 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[07Aug2025 00:52:23.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [piglinproliferation] Starting version check at https://api.modrinth.com/updates/piglin-proliferation/forge_updates.json
-[07Aug2025 00:52:23.890] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[07Aug2025 00:52:23.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [piglinproliferation] Found status: OUTDATED Current: 1.20.1-1.2.5 Target: 1.20.1-1.2.6
-[07Aug2025 00:52:23.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[07Aug2025 00:52:23.907] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[07Aug2025 00:52:23.934] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[07Aug2025 00:52:23.942] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[07Aug2025 00:52:23.947] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[07Aug2025 00:52:23.948] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
-[07Aug2025 00:52:24.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[07Aug2025 00:52:24.015] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Aug2025 00:52:24.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[07Aug2025 00:52:24.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[07Aug2025 00:52:24.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[07Aug2025 00:52:24.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[07Aug2025 00:52:24.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.35 Target: null
-[07Aug2025 00:52:24.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[07Aug2025 00:52:24.957] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.15
-[07Aug2025 00:52:24.957] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[07Aug2025 00:52:24.971] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: OUTDATED Current: 5.3.0 Target: 5.4.2
-[07Aug2025 00:52:24.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[07Aug2025 00:52:25.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[07Aug2025 00:52:25.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[07Aug2025 00:52:25.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.4.18 Target: 3.4.26
-[07Aug2025 00:52:25.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[07Aug2025 00:52:25.099] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.0 Target: 9.0.6
-[07Aug2025 00:52:25.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Starting version check at https://api.modrinth.com/updates/NFlNaUBA/forge_updates.json
-[07Aug2025 00:52:25.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Found status: OUTDATED Current: 1 Target: 1+mod
-[07Aug2025 00:52:25.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
-[07Aug2025 00:52:25.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
-[07Aug2025 00:52:26.638] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07Aug2025 00:52:28.134] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosecha/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23275!/assets/.mcassetsroot' uses unexpected schema
-[07Aug2025 00:52:28.135] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosecha/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23275!/data/.mcassetsroot' uses unexpected schema
-[07Aug2025 00:52:28.294] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[07Aug2025 00:52:30.437] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[07Aug2025 00:52:30.574] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.4.6 MC 1.20.1.jar)
-[07Aug2025 00:52:30.617] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:vital_vein_tools as it is missing following references: #forge:vital_vein_hammer (from just_in_nether-1.1.7-forge-1.20.1.jar)
-[07Aug2025 00:52:30.619] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slabs as it is missing following references: outer_end:azure_vertical_slab (from TheOuterEnd-1.0.10.jar), 
+[07Aug2025 01:39:36.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [piglinproliferation] Starting version check at https://api.modrinth.com/updates/piglin-proliferation/forge_updates.json
+[07Aug2025 01:39:37.006] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[07Aug2025 01:39:37.030] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[07Aug2025 01:39:37.047] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[07Aug2025 01:39:37.062] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[07Aug2025 01:39:37.064] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[07Aug2025 01:39:37.068] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
+[07Aug2025 01:39:37.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [piglinproliferation] Found status: OUTDATED Current: 1.20.1-1.2.5 Target: 1.20.1-1.2.6
+[07Aug2025 01:39:37.210] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[07Aug2025 01:39:37.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[07Aug2025 01:39:37.331] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Aug2025 01:39:37.554] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[07Aug2025 01:39:37.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[07Aug2025 01:39:37.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[07Aug2025 01:39:37.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[07Aug2025 01:39:38.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.35 Target: null
+[07Aug2025 01:39:38.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[07Aug2025 01:39:38.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.15
+[07Aug2025 01:39:38.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[07Aug2025 01:39:38.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: OUTDATED Current: 5.3.0 Target: 5.4.2
+[07Aug2025 01:39:38.596] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[07Aug2025 01:39:38.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[07Aug2025 01:39:38.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[07Aug2025 01:39:38.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: OUTDATED Current: 3.4.18 Target: 3.4.26
+[07Aug2025 01:39:38.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[07Aug2025 01:39:38.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.0 Target: 9.0.6
+[07Aug2025 01:39:38.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Starting version check at https://api.modrinth.com/updates/NFlNaUBA/forge_updates.json
+[07Aug2025 01:39:38.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_qraftys_endvillages] Found status: OUTDATED Current: 1 Target: 1+mod
+[07Aug2025 01:39:38.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[07Aug2025 01:39:38.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[07Aug2025 01:39:39.763] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Aug2025 01:39:41.453] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosecha/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23275!/assets/.mcassetsroot' uses unexpected schema
+[07Aug2025 01:39:41.453] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cosecha/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23275!/data/.mcassetsroot' uses unexpected schema
+[07Aug2025 01:39:41.588] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[07Aug2025 01:39:43.401] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[07Aug2025 01:39:43.503] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.4.6 MC 1.20.1.jar)
+[07Aug2025 01:39:43.596] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:vital_vein_tools as it is missing following references: #forge:vital_vein_hammer (from just_in_nether-1.1.7-forge-1.20.1.jar)
+[07Aug2025 01:39:43.600] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slabs as it is missing following references: outer_end:azure_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:himmel_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_brick_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:mossy_violite_brick_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_tile_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:mossy_violite_tile_vertical_slab (from TheOuterEnd-1.0.10.jar)
-[07Aug2025 00:52:30.620] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag enlightened_end:cerulean_stalk_blocks as it is missing following references: enlightened_end:cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar), 
+[07Aug2025 01:39:43.605] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag enlightened_end:cerulean_stalk_blocks as it is missing following references: enlightened_end:cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:stripped_cerulean_stalk_block (from enlightend-5.0.14-1.20.1.jar)
-[07Aug2025 00:52:30.680] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mushroom_grow_block as it is missing following references: netherdungeons:growth_mauve (from netherdungeons-1.1.0-snapshot4.jar)
-[07Aug2025 00:52:30.681] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_3 as it is missing following references: enlightened_end:enduring_waste (from enlightend-5.0.14-1.20.1.jar), 
+[07Aug2025 01:39:43.657] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mushroom_grow_block as it is missing following references: netherdungeons:growth_mauve (from netherdungeons-1.1.0-snapshot4.jar)
+[07Aug2025 01:39:43.658] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_3 as it is missing following references: enlightened_end:enduring_waste (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:voidsteel_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:adamantite_plate_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:adamantite_glass (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:adamantite_glass_pane (from enlightend-5.0.14-1.20.1.jar)
-[07Aug2025 00:52:30.682] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_0 as it is missing following references: enlightened_end:chiseled_purpur (from enlightend-5.0.14-1.20.1.jar), 
+[07Aug2025 01:39:43.659] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_0 as it is missing following references: enlightened_end:chiseled_purpur (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:purpur_lamp (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:infested_end_stone (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:congealed_eylium (from enlightend-5.0.14-1.20.1.jar), 
@@ -177,7 +177,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	enlightened_end:chiseled_nullstone (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:nullstone_lamp (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:voikrust_lamp (from enlightend-5.0.14-1.20.1.jar)
-[07Aug2025 00:52:30.682] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_2 as it is missing following references: enlightened_end:waxed_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
+[07Aug2025 01:39:43.659] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_2 as it is missing following references: enlightened_end:waxed_bismuth_stairs (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:waxed_bismuth_slab (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:infernal_bismuth_sheets (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:infernal_bismuth_sheet_stairs (from enlightend-5.0.14-1.20.1.jar), 
@@ -207,7 +207,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	enlightened_end:repulsium_cluster (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:atractonite_block (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:atractonite_cluster (from enlightend-5.0.14-1.20.1.jar)
-[07Aug2025 00:52:30.683] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_1 as it is missing following references: enlightened_end:malachite_pillar (from enlightend-5.0.14-1.20.1.jar), 
+[07Aug2025 01:39:43.659] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:mineable/needs_tool_level_1 as it is missing following references: enlightened_end:malachite_pillar (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:smooth_malachite (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:smooth_malachite_stairs (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:smooth_malachite_slab (from enlightend-5.0.14-1.20.1.jar), 
@@ -245,19 +245,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	enlightened_end:ennegel_hang_generate (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:enderneath_replace (from enlightend-5.0.14-1.20.1.jar), 
 	enlightened_end:enderneath_replace_chance (from enlightend-5.0.14-1.20.1.jar)
-[07Aug2025 00:52:30.686] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slabs as it is missing following references: outer_end:azure_vertical_slab (from TheOuterEnd-1.0.10.jar), 
+[07Aug2025 01:39:43.663] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slabs as it is missing following references: outer_end:azure_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:himmel_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_brick_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:mossy_violite_brick_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:violite_tile_vertical_slab (from TheOuterEnd-1.0.10.jar), 
 	outer_end:mossy_violite_tile_vertical_slab (from TheOuterEnd-1.0.10.jar)
-[07Aug2025 00:52:30.688] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:needs_tool_level_1 as it is missing following references: nordic_structures:dwarfcavernspawner_1 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
+[07Aug2025 01:39:43.670] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:needs_tool_level_1 as it is missing following references: nordic_structures:dwarfcavernspawner_1 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:dwarfcavernspawner_2 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:abandonednordicmine_1spawner (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:abandonednordicmine_2spawner (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:steelore (from nordic_structures-1.6.9-forge-1.20.1.jar)
-[07Aug2025 00:52:31.360] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_vertical_slab
+[07Aug2025 01:39:44.448] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_vertical_slab
 java.lang.IllegalArgumentException: Can't find block outer_end:azure_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -329,7 +329,7 @@ java.lang.IllegalArgumentException: Can't find block outer_end:azure_vertical_sl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Aug2025 00:52:31.393] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_ladder
+[07Aug2025 01:39:44.463] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_ladder
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:azure_ladder'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -381,7 +381,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Aug2025 00:52:31.524] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_vertical_planks
+[07Aug2025 01:39:44.609] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_vertical_planks
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:azure_vertical_planks'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -433,7 +433,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Aug2025 00:52:31.533] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_post
+[07Aug2025 01:39:44.619] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/azure_post
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:azure_post'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -485,7 +485,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Aug2025 00:52:31.570] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/himmel_vertical_slab
+[07Aug2025 01:39:44.675] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/himmel_vertical_slab
 java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -557,7 +557,7 @@ java.lang.IllegalArgumentException: Can't find block outer_end:himmel_vertical_s
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Aug2025 00:52:31.789] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:enlightened_end:entities/sacrifice_statue_gift
+[07Aug2025 01:39:44.910] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:enlightened_end:entities/sacrifice_statue_gift
 com.google.gson.JsonSyntaxException: Unknown enchantment 'enlightened_end:frost_aspect'
 	at net.minecraft.world.level.storage.loot.functions.EnchantRandomlyFunction$Serializer.m_80465_(EnchantRandomlyFunction.java:137) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -619,7 +619,7 @@ com.google.gson.JsonSyntaxException: Unknown enchantment 'enlightened_end:frost_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Aug2025 00:52:31.818] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/stripped_azure_post
+[07Aug2025 01:39:44.958] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:outer_end:blocks/stripped_azure_post
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'outer_end:stripped_azure_post'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -671,34 +671,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Aug2025 00:52:31.850] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 1 modifier groups
-[07Aug2025 00:52:31.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/pigmar}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/dullkin}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/pigmar}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/bullkindar}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.905] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.906] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.906] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/dullkin}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.906] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.906] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.906] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/bullkindar}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.906] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/piglin_ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.906] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Aug2025 00:52:31.908] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab_from_violite_stonecutting as it's serializer returned null
-[07Aug2025 00:52:31.913] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab_violite_stonecutting as it's serializer returned null
-[07Aug2025 00:52:31.915] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.918] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:31.919] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_planks_sawing as it's serializer returned null
-[07Aug2025 00:52:31.920] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_ladder as it's serializer returned null
-[07Aug2025 00:52:31.922] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.923] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/slab_from_vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.928] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:stripped_azure_post as it's serializer returned null
-[07Aug2025 00:52:31.929] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_beehive as it's serializer returned null
-[07Aug2025 00:52:31.932] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_purpur_block_from_baking as it's serializer returned null
-[07Aug2025 00:52:31.932] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_sign
+[07Aug2025 01:39:45.000] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 1 modifier groups
+[07Aug2025 01:39:45.092] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/pigmar}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.092] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.092] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/dullkin}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.092] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.093] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/pigmar}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.093] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/bullkindar}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.093] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.094] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.096] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.096] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/dullkin}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.096] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.097] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.097] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:just_in_nether:entities/bullkindar}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.097] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminous_nether:entities/piglin_ghost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.097] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Aug2025 01:39:45.100] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab_from_violite_stonecutting as it's serializer returned null
+[07Aug2025 01:39:45.106] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab_violite_stonecutting as it's serializer returned null
+[07Aug2025 01:39:45.109] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.112] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.114] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_planks_sawing as it's serializer returned null
+[07Aug2025 01:39:45.115] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_ladder as it's serializer returned null
+[07Aug2025 01:39:45.118] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.120] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/slab_from_vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.126] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:stripped_azure_post as it's serializer returned null
+[07Aug2025 01:39:45.127] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_beehive as it's serializer returned null
+[07Aug2025 01:39:45.130] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_purpur_block_from_baking as it's serializer returned null
+[07Aug2025 01:39:45.132] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_sign
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -727,7 +727,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.935] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe luminous_nether:supplementaries_ash_block
+[07Aug2025 01:39:45.135] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe luminous_nether:supplementaries_ash_block
 com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:ash'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -765,17 +765,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'supplementaries:ash'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.936] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_bookshelf as it's serializer returned null
-[07Aug2025 00:52:31.937] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/vertical_slab_stonecutting as it's serializer returned null
-[07Aug2025 00:52:31.937] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:31.939] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/slab_from_vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.940] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/vertical_slab_stonecutting as it's serializer returned null
-[07Aug2025 00:52:31.940] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab_stonecutting as it's serializer returned null
-[07Aug2025 00:52:31.944] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/vertical_slab_stonecutting as it's serializer returned null
-[07Aug2025 00:52:31.946] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_slab_stonecutting as it's serializer returned null
-[07Aug2025 00:52:31.947] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_trapdoor_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:31.947] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.949] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_pith
+[07Aug2025 01:39:45.138] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_bookshelf as it's serializer returned null
+[07Aug2025 01:39:45.139] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/vertical_slab_stonecutting as it's serializer returned null
+[07Aug2025 01:39:45.139] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.142] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/slab_from_vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.143] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/vertical_slab_stonecutting as it's serializer returned null
+[07Aug2025 01:39:45.144] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab_stonecutting as it's serializer returned null
+[07Aug2025 01:39:45.149] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/vertical_slab_stonecutting as it's serializer returned null
+[07Aug2025 01:39:45.152] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_slab_stonecutting as it's serializer returned null
+[07Aug2025 01:39:45.152] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_trapdoor_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.152] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.157] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_pith
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -804,14 +804,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.951] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_furnace_boat as it's serializer returned null
-[07Aug2025 00:52:31.953] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_to_slab as it's serializer returned null
-[07Aug2025 00:52:31.955] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_planks_sawing as it's serializer returned null
-[07Aug2025 00:52:31.955] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_post as it's serializer returned null
-[07Aug2025 00:52:31.957] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:chiseled_poise_bookshelf as it's serializer returned null
-[07Aug2025 00:52:31.957] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_planks_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:31.958] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:eumus_brick_from_baking as it's serializer returned null
-[07Aug2025 00:52:31.960] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe outer_end:azure_chest
+[07Aug2025 01:39:45.164] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_furnace_boat as it's serializer returned null
+[07Aug2025 01:39:45.168] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_to_slab as it's serializer returned null
+[07Aug2025 01:39:45.172] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_planks_sawing as it's serializer returned null
+[07Aug2025 01:39:45.173] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_post as it's serializer returned null
+[07Aug2025 01:39:45.176] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:chiseled_poise_bookshelf as it's serializer returned null
+[07Aug2025 01:39:45.178] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_planks_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.179] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:eumus_brick_from_baking as it's serializer returned null
+[07Aug2025 01:39:45.184] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe outer_end:azure_chest
 com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
@@ -844,9 +844,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/slab_from_vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/slab_from_vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.963] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe
+[07Aug2025 01:39:45.187] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/slab_from_vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.187] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/slab_from_vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.189] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
@@ -879,7 +879,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.965] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_door
+[07Aug2025 01:39:45.192] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_door
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -908,14 +908,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.974] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_gate_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:31.975] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder as it's serializer returned null
-[07Aug2025 00:52:31.975] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_door_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:31.976] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.977] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab_stonecutting as it's serializer returned null
-[07Aug2025 00:52:31.977] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_to_planks as it's serializer returned null
-[07Aug2025 00:52:31.977] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:trapped_poise_chest as it's serializer returned null
-[07Aug2025 00:52:31.978] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe netherdungeons:crafting/chiseled_polished_gilded_blackstone
+[07Aug2025 01:39:45.210] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_gate_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.213] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder as it's serializer returned null
+[07Aug2025 01:39:45.213] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_door_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.214] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_tiles/vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.214] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/bricks/vertical_slab_stonecutting as it's serializer returned null
+[07Aug2025 01:39:45.214] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_to_planks as it's serializer returned null
+[07Aug2025 01:39:45.218] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:trapped_poise_chest as it's serializer returned null
+[07Aug2025 01:39:45.220] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe netherdungeons:crafting/chiseled_polished_gilded_blackstone
 com.google.gson.JsonSyntaxException: Unknown item 'netherdungeons:polished_gilded_blackstone_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -953,7 +953,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'netherdungeons:polished_gilde
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.980] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[07Aug2025 01:39:45.224] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -991,7 +991,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.982] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_stem
+[07Aug2025 01:39:45.226] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_stem
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1020,7 +1020,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.983] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe famersdelight:adamantite_knife_smithing
+[07Aug2025 01:39:45.228] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe famersdelight:adamantite_knife_smithing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1049,9 +1049,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.988] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_eumus_bricks_from_baking as it's serializer returned null
-[07Aug2025 00:52:31.989] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.989] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[07Aug2025 01:39:45.247] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_eumus_bricks_from_baking as it's serializer returned null
+[07Aug2025 01:39:45.251] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/mossy_bricks/vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.255] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1080,11 +1080,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.991] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards as it's serializer returned null
-[07Aug2025 00:52:31.993] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_sign_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:31.994] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:31.994] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/slab_from_vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.996] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[07Aug2025 01:39:45.267] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards as it's serializer returned null
+[07Aug2025 01:39:45.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_sign_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.275] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.276] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/tiles/slab_from_vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.277] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23280!/:?]
@@ -1117,15 +1117,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:31.997] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_slab as it's serializer returned null
-[07Aug2025 00:52:31.998] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:32.000] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_planks_sawing as it's serializer returned null
-[07Aug2025 00:52:32.002] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_to_slab as it's serializer returned null
-[07Aug2025 00:52:32.003] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_bookshelf as it's serializer returned null
-[07Aug2025 00:52:32.006] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_planks_sawing as it's serializer returned null
-[07Aug2025 00:52:32.011] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_pressure_plate_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:32.012] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_planks as it's serializer returned null
-[07Aug2025 00:52:32.016] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_trapdoor
+[07Aug2025 01:39:45.279] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.281] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.283] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_planks_sawing as it's serializer returned null
+[07Aug2025 01:39:45.285] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:himmel_vertical_to_slab as it's serializer returned null
+[07Aug2025 01:39:45.286] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_bookshelf as it's serializer returned null
+[07Aug2025 01:39:45.289] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_planks_sawing as it's serializer returned null
+[07Aug2025 01:39:45.294] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_pressure_plate_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.295] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:azure_vertical_planks as it's serializer returned null
+[07Aug2025 01:39:45.298] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/azure_trapdoor
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1154,10 +1154,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:32.018] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:32.018] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:large_poise_boat as it's serializer returned null
-[07Aug2025 00:52:32.020] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_planks_sawing as it's serializer returned null
-[07Aug2025 00:52:32.020] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe outer_end:azure_trapped_chest
+[07Aug2025 01:39:45.300] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.300] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:large_poise_boat as it's serializer returned null
+[07Aug2025 01:39:45.303] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_planks_sawing as it's serializer returned null
+[07Aug2025 01:39:45.304] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe outer_end:azure_trapped_chest
 com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23275!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1195,265 +1195,87 @@ com.google.gson.JsonSyntaxException: Unknown item 'outer_end:azure_chest'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[07Aug2025 00:52:32.022] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_planks_sawing as it's serializer returned null
-[07Aug2025 00:52:32.022] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_end_stone_bricks_from_baking as it's serializer returned null
-[07Aug2025 00:52:32.023] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/vertical_slab as it's serializer returned null
-[07Aug2025 00:52:32.023] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_stems_sawing as it's serializer returned null
-[07Aug2025 00:52:32.024] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_chest as it's serializer returned null
-[07Aug2025 00:52:32.028] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
-[07Aug2025 00:52:32.047] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
-[07Aug2025 00:52:32.106] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement outer_end:end/find_catacombs: Expected item to be an item, was unknown string 'outer_end:chiseled_violite'
-[07Aug2025 00:52:32.207] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2359 advancements
-[07Aug2025 00:52:32.223] [main/INFO] [Dungeon Crawl/]: Loading data...
-[07Aug2025 00:52:32.773] [main/INFO] [Dungeon Crawl/]: Done.
-[07Aug2025 00:52:32.782] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 2 modifier groups
-[07Aug2025 00:52:32.797] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[07Aug2025 00:52:32.807] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[07Aug2025 00:52:34.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[07Aug2025 00:52:34.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[07Aug2025 00:52:34.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[07Aug2025 00:52:34.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07Aug2025 00:52:34.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[07Aug2025 00:52:34.420] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[07Aug2025 00:52:34.503] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07Aug2025 00:52:34.503] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[07Aug2025 00:52:34.503] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07Aug2025 00:52:34.503] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[07Aug2025 00:52:34.523] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[07Aug2025 00:52:34.525] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[07Aug2025 00:52:34.526] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[07Aug2025 00:52:34.733] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[07Aug2025 00:52:34.734] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[07Aug2025 00:52:34.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[07Aug2025 00:52:35.544] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[07Aug2025 00:52:35.555] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[07Aug2025 00:52:35.564] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[07Aug2025 00:52:47.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[07Aug2025 00:52:49.106] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:49.177] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:49.212] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:49.213] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:49.678] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:50.188] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:50.708] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:51.301] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:51.622] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[07Aug2025 00:52:51.744] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:52.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:52.676] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:53.176] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Aug2025 00:52:53.676] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[07Aug2025 00:52:54.175] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
-[07Aug2025 00:52:54.311] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6637 ms
-[07Aug2025 00:52:54.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.795s)! For help, type "help"
-[07Aug2025 00:52:54.353] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[07Aug2025 00:52:54.382] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[07Aug2025 00:52:54.392] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[07Aug2025 00:53:13.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juan[/127.54.255.13:41207] logged in with entity id 902 at (-1196.315318958052, 21.0, 340.56528203976256)
-[07Aug2025 00:53:13.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan joined the game
-[07Aug2025 00:53:13.553] [Server thread/INFO] [Jade/]: Syncing config to juan (a0acb011-c7e4-33ae-9a02-7d7f14e4cd7d)
-[07Aug2025 00:53:17.220] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juan (18)
-[07Aug2025 00:53:17.223] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juan
-[07Aug2025 00:53:17.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3884ms or 77 ticks behind
-[07Aug2025 00:53:34.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: The difficulty has been set to Hard]
-[07Aug2025 00:54:49.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Entrelex[/127.115.65.189:34415] logged in with entity id 1492 at (-1203.5955667779194, 21.375, 334.7262074595531)
-[07Aug2025 00:54:49.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex joined the game
-[07Aug2025 00:54:49.414] [Server thread/INFO] [Jade/]: Syncing config to Entrelex (519e51c4-bf36-3fd4-8b29-d874c67be983)
-[07Aug2025 00:54:50.187] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Entrelex (18)
-[07Aug2025 00:54:50.189] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Entrelex
-[07Aug2025 00:55:38.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Take Aim]
-[07Aug2025 00:56:26.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has made the advancement [Diamonds!]
-[07Aug2025 00:56:45.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Zombie
-[07Aug2025 00:56:45.945] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
-[07Aug2025 00:56:51.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
-[07Aug2025 01:02:05.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juan lost connection: You logged in from another location
-[07Aug2025 01:02:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan left the game
-[07Aug2025 01:02:05.024] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juan
-[07Aug2025 01:02:05.075] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[07Aug2025 01:02:05.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juan[/127.54.255.13:40777] logged in with entity id 2917 at (-1169.699999988079, 7.0, 309.64111979869386)
-[07Aug2025 01:02:05.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan joined the game
-[07Aug2025 01:02:05.174] [Server thread/INFO] [Jade/]: Syncing config to juan (a0acb011-c7e4-33ae-9a02-7d7f14e4cd7d)
-[07Aug2025 01:02:05.279] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juan (18)
-[07Aug2025 01:02:05.281] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juan
-[07Aug2025 01:02:23.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juan lost connection: You logged in from another location
-[07Aug2025 01:02:23.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan left the game
-[07Aug2025 01:02:23.266] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juan
-[07Aug2025 01:02:23.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juan[/127.54.255.13:43379] logged in with entity id 2959 at (-1169.699999988079, 7.0, 309.64111979869386)
-[07Aug2025 01:02:23.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan joined the game
-[07Aug2025 01:02:23.351] [Server thread/INFO] [Jade/]: Syncing config to juan (a0acb011-c7e4-33ae-9a02-7d7f14e4cd7d)
-[07Aug2025 01:02:23.470] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juan (18)
-[07Aug2025 01:02:23.470] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juan
-[07Aug2025 01:02:43.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Zombie
-[07Aug2025 01:02:43.176] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
-[07Aug2025 01:02:56.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
-[07Aug2025 01:14:26.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was blown up by Creeper
-[07Aug2025 01:14:26.727] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
-[07Aug2025 01:14:33.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
-[07Aug2025 01:15:35.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was shot by Skeleton
-[07Aug2025 01:15:35.079] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
-[07Aug2025 01:15:38.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
-[07Aug2025 01:16:09.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
-[07Aug2025 01:16:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Hollow
-[07Aug2025 01:16:22.273] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
-[07Aug2025 01:16:26.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
-[07Aug2025 01:17:08.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
-[07Aug2025 01:17:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Hollow
-[07Aug2025 01:17:09.531] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
-[07Aug2025 01:17:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Hollow
-[07Aug2025 01:17:14.178] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
-[07Aug2025 01:17:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Entrelex to juan
-[07Aug2025 01:17:33.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samuel_Vo[/127.1.178.73:42731] logged in with entity id 8606 at (-1192.699999988079, 22.0, 348.69999998807907)
-[07Aug2025 01:17:33.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo joined the game
-[07Aug2025 01:17:33.870] [Server thread/INFO] [Jade/]: Syncing config to Samuel_Vo (50579238-368b-3eb7-a350-69741911faca)
-[07Aug2025 01:17:35.161] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Samuel_Vo (18)
-[07Aug2025 01:17:35.161] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Samuel_Vo
-[07Aug2025 01:17:36.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
-[07Aug2025 01:17:38.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan has reached the goal [Discreet Search]
-[07Aug2025 01:17:41.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex was slain by Hollow
-[07Aug2025 01:17:41.579] [Server thread/INFO] [tombstone/]: The player Entrelex has successfully been saved
-[07Aug2025 01:17:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Hollow
-[07Aug2025 01:17:46.836] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
-[07Aug2025 01:17:49.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
-[07Aug2025 01:18:03.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Samuel_Vo]
-[07Aug2025 01:18:08.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported Entrelex to juan]
-[07Aug2025 01:19:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Samuel_Vo]
-[07Aug2025 01:20:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Spider
-[07Aug2025 01:20:29.322] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
-[07Aug2025 01:20:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
-[07Aug2025 01:21:48.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set own game mode to Spectator Mode]
-[07Aug2025 01:21:57.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Set own game mode to Survival Mode]
-[07Aug2025 01:21:59.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:21:59.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:00.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:00.119] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:00.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:00.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:00.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:00.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:00.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:00.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:00.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:00.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:01.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:01.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:01.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:01.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:01.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:01.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:01.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:01.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:01.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:01.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:02.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:02.123] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:02.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:02.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:02.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:02.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:02.620] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:02.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:02.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:02.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:03.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:03.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:03.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:03.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:03.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:03.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:03.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:03.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:03.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:03.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:04.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:04.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:04.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:04.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:22:51.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan was slain by Hollow
-[07Aug2025 01:22:51.022] [Server thread/INFO] [tombstone/]: The player juan has successfully been saved
-[07Aug2025 01:23:51.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [juan: Teleported juan to Entrelex]
-[07Aug2025 01:24:07.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Entrelex lost connection: Timed out
-[07Aug2025 01:24:07.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex left the game
-[07Aug2025 01:24:07.674] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Entrelex
-[07Aug2025 01:24:10.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juan lost connection: Timed out
-[07Aug2025 01:24:10.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan left the game
-[07Aug2025 01:24:10.568] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juan
-[07Aug2025 01:24:42.417] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@632436ba[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:59739) lost connection: Disconnected
-[07Aug2025 01:25:36.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juan[/127.54.255.13:32895] logged in with entity id 13646 at (-1324.6498842072265, -17.0, 318.6379299552518)
-[07Aug2025 01:25:36.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan joined the game
-[07Aug2025 01:25:37.035] [Server thread/INFO] [Jade/]: Syncing config to juan (a0acb011-c7e4-33ae-9a02-7d7f14e4cd7d)
-[07Aug2025 01:25:37.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[07Aug2025 01:25:37.922] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of juan (18)
-[07Aug2025 01:25:37.923] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to juan
-[07Aug2025 01:25:58.662] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28e301b[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:58367) lost connection: Disconnected
-[07Aug2025 01:26:07.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juan lost connection: Timed out
-[07Aug2025 01:26:07.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juan left the game
-[07Aug2025 01:26:07.067] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client juan
-[07Aug2025 01:26:07.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Entrelex[/127.115.65.189:45163] logged in with entity id 13770 at (-1326.2849087857205, -17.99866402088785, 318.69999998807907)
-[07Aug2025 01:26:07.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex joined the game
-[07Aug2025 01:26:07.628] [Server thread/INFO] [Jade/]: Syncing config to Entrelex (519e51c4-bf36-3fd4-8b29-d874c67be983)
-[07Aug2025 01:26:08.415] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Entrelex (18)
-[07Aug2025 01:26:08.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Entrelex
-[07Aug2025 01:26:55.516] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@756f1d01[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:52999) lost connection: Disconnected
-[07Aug2025 01:27:07.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Entrelex lost connection: Timed out
-[07Aug2025 01:27:07.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Entrelex left the game
-[07Aug2025 01:27:07.723] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Entrelex
-[07Aug2025 01:27:34.316] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c4e52ea[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:57411) lost connection: Timed out
-[07Aug2025 01:27:50.665] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c332394[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:54265) lost connection: Disconnected
-[07Aug2025 01:28:23.564] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1377ef49[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:57169) lost connection: Disconnected
-[07Aug2025 01:29:27.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ffff24a[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:48913) lost connection: Disconnected
-[07Aug2025 01:30:47.915] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@298f5df5[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:37223): Took too long to log in
-[07Aug2025 01:30:47.916] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@298f5df5[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:37223) lost connection: Took too long to log in
-[07Aug2025 01:30:47.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[07Aug2025 01:31:15.415] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@424bfab0[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:36455) lost connection: Disconnected
-[07Aug2025 01:32:13.214] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@687f752f[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:41417): Took too long to log in
-[07Aug2025 01:32:13.214] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@687f752f[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:41417) lost connection: Took too long to log in
-[07Aug2025 01:32:13.264] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[07Aug2025 01:34:00.764] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@167690a5[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:43871) lost connection: Disconnected
-[07Aug2025 01:34:23.760] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2086e91e[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:37097): Took too long to log in
-[07Aug2025 01:34:23.761] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2086e91e[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:37097) lost connection: Took too long to log in
-[07Aug2025 01:34:23.820] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[07Aug2025 01:34:43.415] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@135b5fb7[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:47769) lost connection: Disconnected
-[07Aug2025 01:35:35.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21456036[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:37581) lost connection: Disconnected
-[07Aug2025 01:35:36.269] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e682791[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:48795) lost connection: Disconnected
-[07Aug2025 01:36:05.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuel_Vo lost connection: Disconnected
-[07Aug2025 01:36:05.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo left the game
-[07Aug2025 01:36:05.260] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Samuel_Vo
-[07Aug2025 01:36:07.297] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@466dce6b[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:48689) lost connection: Disconnected
-[07Aug2025 01:36:08.846] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3aabe478[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:38305) lost connection: Disconnected
-[07Aug2025 01:36:27.447] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dd26909[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:41673) lost connection: Disconnected
-[07Aug2025 01:36:43.146] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6bdfd1c2[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:42491): Took too long to log in
-[07Aug2025 01:36:43.147] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6bdfd1c2[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:42491) lost connection: Took too long to log in
-[07Aug2025 01:36:43.196] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[07Aug2025 01:36:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[07Aug2025 01:36:57.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: difficuly easy<--[HERE]
-[07Aug2025 01:37:04.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Samuel_Vo[/127.1.178.73:60701] logged in with entity id 16615 at (-1321.300000011921, -15.0, 318.4127626401635)
-[07Aug2025 01:37:04.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo joined the game
-[07Aug2025 01:37:04.221] [Server thread/INFO] [Jade/]: Syncing config to Samuel_Vo (50579238-368b-3eb7-a350-69741911faca)
-[07Aug2025 01:37:04.902] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Samuel_Vo (18)
-[07Aug2025 01:37:04.903] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Samuel_Vo
-[07Aug2025 01:37:11.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10b9b4ed[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:57411) lost connection: Disconnected
-[07Aug2025 01:37:29.612] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5bcccc29[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:57247): Took too long to log in
-[07Aug2025 01:37:29.613] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bcccc29[id=<null>,name=Entrelex,properties={},legacy=false] (/127.115.65.189:57247) lost connection: Took too long to log in
-[07Aug2025 01:37:29.665] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[07Aug2025 01:37:36.715] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@582a0b60[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:38647) lost connection: Disconnected
-[07Aug2025 01:38:09.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Samuel_Vo lost connection: Disconnected
-[07Aug2025 01:38:09.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samuel_Vo left the game
-[07Aug2025 01:38:09.518] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Samuel_Vo
-[07Aug2025 01:38:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[07Aug2025 01:38:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[07Aug2025 01:38:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[07Aug2025 01:38:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[07Aug2025 01:38:12.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07Aug2025 01:38:12.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
-[07Aug2025 01:38:12.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07Aug2025 01:38:12.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
-[07Aug2025 01:38:12.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
-[07Aug2025 01:38:12.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07Aug2025 01:38:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
-[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
-[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
-[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07Aug2025 01:38:12.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07Aug2025 01:38:12.344] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Aug2025 01:39:45.309] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_planks_sawing as it's serializer returned null
+[07Aug2025 01:39:45.310] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_end_stone_bricks_from_baking as it's serializer returned null
+[07Aug2025 01:39:45.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe outer_end:violite/vertical_slab as it's serializer returned null
+[07Aug2025 01:39:45.316] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_stems_sawing as it's serializer returned null
+[07Aug2025 01:39:45.316] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_chest as it's serializer returned null
+[07Aug2025 01:39:45.320] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[07Aug2025 01:39:45.335] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
+[07Aug2025 01:39:45.392] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement outer_end:end/find_catacombs: Expected item to be an item, was unknown string 'outer_end:chiseled_violite'
+[07Aug2025 01:39:45.517] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2359 advancements
+[07Aug2025 01:39:45.528] [main/INFO] [Dungeon Crawl/]: Loading data...
+[07Aug2025 01:39:45.845] [main/INFO] [Dungeon Crawl/]: Done.
+[07Aug2025 01:39:45.856] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 2 modifier groups
+[07Aug2025 01:39:45.871] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[07Aug2025 01:39:45.880] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[07Aug2025 01:39:47.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Aug2025 01:39:47.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Aug2025 01:39:47.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Aug2025 01:39:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Aug2025 01:39:47.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Aug2025 01:39:47.454] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Aug2025 01:39:47.539] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Aug2025 01:39:47.539] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Aug2025 01:39:47.540] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Aug2025 01:39:47.540] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Aug2025 01:39:47.558] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Aug2025 01:39:47.560] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Aug2025 01:39:47.561] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Aug2025 01:39:47.782] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[07Aug2025 01:39:47.783] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[07Aug2025 01:39:47.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Aug2025 01:39:48.668] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[07Aug2025 01:39:48.675] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[07Aug2025 01:39:48.685] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[07Aug2025 01:39:54.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Aug2025 01:39:57.023] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[07Aug2025 01:40:05.237] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.237] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.238] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.239] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.239] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.240] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.240] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.241] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.241] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.242] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.243] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.244] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.244] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.244] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.245] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.246] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.246] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.251] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.251] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.252] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.252] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.441] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Aug2025 01:40:05.941] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[07Aug2025 01:40:06.170] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[07Aug2025 01:40:06.385] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11445 ms
+[07Aug2025 01:40:06.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.834s)! For help, type "help"
+[07Aug2025 01:40:06.444] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Aug2025 01:40:06.480] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[07Aug2025 01:40:06.489] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[07Aug2025 01:40:53.698] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fbcb568[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:49141) lost connection: Timed out
+[07Aug2025 01:41:48.846] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e5bac81[id=<null>,name=juan,properties={},legacy=false] (/127.54.255.13:44383) lost connection: Disconnected
+[07Aug2025 01:41:54.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Aug2025 01:41:54.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Aug2025 01:41:54.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Aug2025 01:41:54.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Aug2025 01:41:54.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Aug2025 01:41:54.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[07Aug2025 01:41:54.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[07Aug2025 01:41:54.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[07Aug2025 01:41:54.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Aug2025 01:41:54.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Aug2025 01:41:54.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Aug2025 01:41:54.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[07Aug2025 01:41:54.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[07Aug2025 01:41:54.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[07Aug2025 01:41:54.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Aug2025 01:41:54.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Aug2025 01:41:54.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Aug2025 01:41:54.815] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
