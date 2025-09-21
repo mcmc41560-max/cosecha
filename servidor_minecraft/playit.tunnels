@@ -1,42 +1,42 @@
 {
   "tcp_alloc": {
-    "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "allowed": 4,
+    "claimed": 2,
+    "desired": 2
   },
   "tunnels": [
     {
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "status-blogger.gl.joinmc.link",
-          "assigned_srv": "status-blogger.gl.joinmc.link",
+          "assigned_domain": "mountain-element.gl.joinmc.link",
+          "assigned_srv": "mountain-element.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "ed19037c-7b49-4881-855f-44e8d225e46d",
-          "ip_hostname": "29.ip.gl.ply.gg",
+          "id": "4e28943d-3401-4e1a-b9c1-5507bd5ad1d8",
+          "ip_hostname": "211.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 63597,
-          "port_start": 63596,
+          "port_end": 42559,
+          "port_start": 42558,
           "region": "global",
-          "static_ip4": "147.185.221.29",
-          "static_ip6": "2602:fbaf:0:1::1d",
-          "tunnel_ip": "2602:fbaf:0:1::1d"
+          "static_ip4": "147.185.221.211",
+          "static_ip6": "2602:fbaf:0:1::d3",
+          "tunnel_ip": "147.185.221.211"
         },
         "status": "allocated"
       },
-      "created_at": "2025-07-16T01:51:40.238338Z",
+      "created_at": "2025-09-21T17:31:18.519174Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "b12dc808-c70a-4894-8a5e-622a68477b6c",
+      "id": "3c07a71a-bd71-4547-b0cd-d459cd5202ac",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "f5ff2251-586d-4c0f-853a-c39215a1a793",
-          "agent_name": "from-key-c551",
+          "agent_id": "3f0cc124-0934-4e68-95f0-4bd8414c82e3",
+          "agent_name": "from-key-0f58",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -54,7 +54,7 @@
     }
   ],
   "udp_alloc": {
-    "allowed": 6,
+    "allowed": 4,
     "claimed": 0,
     "desired": 0
   }
